@@ -1,0 +1,113 @@
+{
+    "packId": "2466",
+    "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/2466/raw",
+    "packUrl": "https://osu.ppy.sh/beatmaps/packs/2466",
+    "data": {
+        "name": "Beatmap Pack #1205",
+        "url": "https://mega.nz/file/VxhTwL5T#gfOg05EVpdmmdgagTNnOTGSlWhDE8W5z-j2rSFoHk2s",
+        "uploadedAt": "2022-08-01",
+        "author": "Stefan",
+        "beatmaps": [
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1145494",
+                "artist": "ELECTROCUTICA feat. yanaginagi",
+                "title": "Illusionika"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1463348",
+                "artist": "fripSide",
+                "title": "Two souls -toward the truth- (TV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1467151",
+                "artist": "Christopher Larkin",
+                "title": "Mantis Lords (0 K Remix)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1632876",
+                "artist": "Printemps",
+                "title": "NO EXIT ORION"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1681275",
+                "artist": "BUTAOTOME",
+                "title": "Shinsan Game"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1685361",
+                "artist": "Amamiya Sora",
+                "title": "Souten no Sinfonia"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1687287",
+                "artist": "MYUKKE.",
+                "title": "NO ONE YES MAN"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1703042",
+                "artist": "yuchaP",
+                "title": "Pokerface"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1713927",
+                "artist": "Mosenite",
+                "title": "Hydrangea"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1720971",
+                "artist": "Amatsuki",
+                "title": "Kimi ga Boku no Kokoro ni Mahou o Kaketa"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1743283",
+                "artist": "Shota Kageyama",
+                "title": "Jitensha"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1747268",
+                "artist": "Luze",
+                "title": "IKUSAUTA Orglrya"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1765724",
+                "artist": "onoken feat. moco",
+                "title": "Light up my LOVE!!"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1789487",
+                "artist": "Satono Diamond (CV: Tachibana Hina), Kitasan Black (CV: Yano Hinaki)",
+                "title": "Ambitious World (PV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1799704",
+                "artist": "Kotoha",
+                "title": "my crush"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1802803",
+                "artist": "Creepy Nuts",
+                "title": "Daten"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1803990",
+                "artist": "College & Electric Youth",
+                "title": "A Real Hero"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1804015",
+                "artist": "Sayuri",
+                "title": "Hana no Tou (TV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1804832",
+                "artist": "Imai Asami",
+                "title": "Believe in Sky"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1811717",
+                "artist": "Porter Robinson",
+                "title": "Everything Goes On (Star Guardian Version) (Sped Up Ver.)"
+            }
+        ]
+    }
+}
