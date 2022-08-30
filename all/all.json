@@ -1,0 +1,98 @@
+{
+    "packId": "1546",
+    "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/1546/raw",
+    "packUrl": "https://osu.ppy.sh/beatmaps/packs/1546",
+    "data": {
+        "name": "Beatmap Pack #715",
+        "url": "https://mega.nz/#!1pQhSCKA!TTdSFZQNVbPAHZFd7ikQABgqRvpCbfIDlydP89hbUPg",
+        "uploadedAt": "2018-12-16",
+        "author": "Stefan",
+        "beatmaps": [
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/570443",
+                "artist": "Hana",
+                "title": "Alice"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/672530",
+                "artist": "Feint",
+                "title": "Outbreak (feat. MYLK)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/766441",
+                "artist": "EDEN",
+                "title": "icarus"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/775846",
+                "artist": "An",
+                "title": "Catanoph"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/785902",
+                "artist": "Denkishiki Karen Ongaku Shuudan",
+                "title": "Distorted Pain"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/814673",
+                "artist": "Feryquitous",
+                "title": "Central Nucleus"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/816264",
+                "artist": "55x55",
+                "title": "MY REZHEM KINOLENTY (feat. Cut The Crap)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/826758",
+                "artist": "monetochka",
+                "title": "Nimfomanka"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/834127",
+                "artist": "Denkishiki Karen Ongaku Shuudan",
+                "title": "Yakata Mawari"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/836856",
+                "artist": "Camellia",
+                "title": "Quaoar"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/843407",
+                "artist": "Harukaze Mayuki",
+                "title": "Futatsu no Kage"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/861466",
+                "artist": "Yonezu Kenshi",
+                "title": "Lemon"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/869783",
+                "artist": "San Diego (CV: Itou Asuka)",
+                "title": "Wa ta shi wa * No.1!"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/874345",
+                "artist": "Shokotan Daisuki Dempagumi",
+                "title": "PUNCH LINE!"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/879904",
+                "artist": "THE ORAL CIGARETTES",
+                "title": "Livelock Art"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/884581",
+                "artist": "Okazaki Taiiku",
+                "title": "Kimi no Bouken (TV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/887807",
+                "artist": "Onsei Project",
+                "title": "LAST STARDUST"
+            }
+        ]
+    }
+}
