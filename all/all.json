@@ -1,0 +1,148 @@
+{
+    "packId": "101",
+    "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/101/raw",
+    "packUrl": "https://osu.ppy.sh/beatmaps/packs/101",
+    "data": {
+        "name": "Beatmap Pack #89",
+        "url": "https://mega.nz/file/BspSEYwI#gzmaDUlIVUZJzsM3hWZqx-fEa4Mz7CokVRYwv7VAz24",
+        "uploadedAt": "2012-06-14",
+        "author": "DeathxShinigami",
+        "beatmaps": [
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/5668",
+                "artist": "The Killers",
+                "title": "Somebody Told Me"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/7640",
+                "artist": "Sugarcult",
+                "title": "Dead Living"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/8973",
+                "artist": "Romi Paku",
+                "title": "Jiri"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/9417",
+                "artist": "Hatsune Miku",
+                "title": "colorful x colorful"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/9697",
+                "artist": "Suzaku",
+                "title": "Contract"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/9734",
+                "artist": "Genbu",
+                "title": "Ganymede"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/9738",
+                "artist": "Seiryu",
+                "title": "Waxing and Wanding"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/10539",
+                "artist": "Ochiai Yurika",
+                "title": "Koibumi2000"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/10604",
+                "artist": "Softstar",
+                "title": "Holy Sword, Long for Love"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11128",
+                "artist": "ALI PROJECT",
+                "title": "Hizamazuite Ashi wo Oname (TV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11141",
+                "artist": "KOTOKO",
+                "title": "Absurd"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11167",
+                "artist": "Lee Jung Hyun",
+                "title": "Ari Ari"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11423",
+                "artist": "Eiko Shimamiya",
+                "title": "Higurashi no Naku Koro ni (TV size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11443",
+                "artist": "TuTuWan",
+                "title": "Wo Yao Jin Ke La"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11455",
+                "artist": "Clazziquai",
+                "title": "Freedom"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11581",
+                "artist": "Sambomaster",
+                "title": "Kimi wo Mamotte, Kimi wo Aishite"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11680",
+                "artist": "Orianthi",
+                "title": "According To You"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11744",
+                "artist": "Girls' Generation",
+                "title": "Chocolate Love"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11851",
+                "artist": "TERRA",
+                "title": "Hana Ranman"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11855",
+                "artist": "Jordin Sparks",
+                "title": "Battlefield"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/11928",
+                "artist": "Yuuki Aira",
+                "title": "Blue Sky, True Sky"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/12008",
+                "artist": "Mika feat. Imogen Heap",
+                "title": "By the Time"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/12200",
+                "artist": "Nana Takahashi",
+                "title": "Grip & Break down !!"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/12282",
+                "artist": "Enya",
+                "title": "Book of Days"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/12302",
+                "artist": "PINK PONG",
+                "title": "HI SCHOOL DREAM"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/12394",
+                "artist": "Lia",
+                "title": "Tori no Uta"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/12591",
+                "artist": "Kalafina",
+                "title": "Hikari no Senritsu"
+            }
+        ]
+    }
+}
