@@ -1,0 +1,103 @@
+{
+    "packId": "1726",
+    "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/1726/raw",
+    "packUrl": "https://osu.ppy.sh/beatmaps/packs/1726",
+    "data": {
+        "name": "Beatmap Pack #818",
+        "url": "https://mega.nz/#!hhpVnSLR!G7fPhlwak1BZxE3vhr0IKKMMZPceSFg_xbPqxv_BzAQ",
+        "uploadedAt": "2019-09-29",
+        "author": "Stefan",
+        "beatmaps": [
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/561917",
+                "artist": "sky_delta",
+                "title": "Crepuscular Rays"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/787466",
+                "artist": "amazarashi",
+                "title": "Yuurei"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/919268",
+                "artist": "Ceui",
+                "title": "Hana ni Natta Shounen no Shinwa"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/935181",
+                "artist": "Tezuka x Qayo",
+                "title": "NINI"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/943052",
+                "artist": "Jonas Blue",
+                "title": "Rise (feat. IZ*ONE)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/943792",
+                "artist": "Yasuda Rei",
+                "title": "1AM"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/967904",
+                "artist": "Matsushita",
+                "title": "raspberry cube"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/979592",
+                "artist": "Ito Kanako",
+                "title": "Fates Fall -Kibou no Kage- (Ending Version)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/998733",
+                "artist": "620",
+                "title": "Akaito"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1000338",
+                "artist": "Thaehan",
+                "title": "Kawaii"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1005889",
+                "artist": "MAN WITH A MISSION",
+                "title": "Raise Your Flag"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1009637",
+                "artist": "sakuraburst",
+                "title": "dragonlands"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1026632",
+                "artist": "Julia (CV: Aimi)",
+                "title": "Startrip"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1028642",
+                "artist": "JIN feat. MARiA from GARNiDELiA",
+                "title": "Children Record"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1029377",
+                "artist": "Yorushika",
+                "title": "Yuunagi, Bou, Hana Madoi"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1031435",
+                "artist": "VINXIS",
+                "title": "Sidetracked Day"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1031503",
+                "artist": "Nishino Kana",
+                "title": "Style. (TV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1031543",
+                "artist": "OKAMOTO'S",
+                "title": "HEADHUNT (TV Size)"
+            }
+        ]
+    }
+}
