@@ -1,0 +1,113 @@
+{
+    "packId": "1942",
+    "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/1942/raw",
+    "packUrl": "https://osu.ppy.sh/beatmaps/packs/1942",
+    "data": {
+        "name": "Taiko Beatmap Pack #92",
+        "url": "https://mega.nz/file/YpQjSAQD#1Zp0X8AzsvrsNn8LzGfXquW11yx_w7Na2GbHfjfLpoE",
+        "uploadedAt": "2020-05-16",
+        "author": "Stefan",
+        "beatmaps": [
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/856373",
+                "artist": "Sano Hiroaki feat. Tatsumi Megumi",
+                "title": "Tsubomi (Long Version)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1013115",
+                "artist": "egor nats",
+                "title": "poslednyaya pesnya o ney"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1022571",
+                "artist": "DragonForce",
+                "title": "Highway to Oblivion"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1048641",
+                "artist": "Sakai Shougo",
+                "title": "Porky no Porky"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1057894",
+                "artist": "Laur",
+                "title": "Terminal Missa"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1066593",
+                "artist": "Panda Eyes",
+                "title": "Fruits"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1103826",
+                "artist": "Station Earth",
+                "title": "Summer Soulstice"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1103941",
+                "artist": "F-777",
+                "title": "System Split"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1105327",
+                "artist": "Demetori",
+                "title": "Hartmann no Youkai Shoujo ~ Todestrieb und Lebenstrieb"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1123482",
+                "artist": "ginkiha",
+                "title": "ARCADE_MEMORIES"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1125625",
+                "artist": "hololive IDOL PROJECT",
+                "title": "Kirameki Rider*"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1127175",
+                "artist": "Yorushika",
+                "title": "Itte."
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1127444",
+                "artist": "Grant Kirkhope",
+                "title": "Creepy Castle Mine Cart"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1127497",
+                "artist": "Machine Girl",
+                "title": "Cloud99 (As Above Mix)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1128209",
+                "artist": "ELFENSJoN",
+                "title": "EINHERJAR"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1129998",
+                "artist": "Uematsu Nobuo",
+                "title": "Edgar & Sabin's Theme"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1130664",
+                "artist": "Nile",
+                "title": "The Inevitable Degradation of Flesh"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1137166",
+                "artist": "MillhioreF",
+                "title": "Waltz o' the Irish"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1141344",
+                "artist": "sakuraburst",
+                "title": "forest of the spirits"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1141949",
+                "artist": "100mi",
+                "title": "songsevery1hasheardb4"
+            }
+        ]
+    }
+}
