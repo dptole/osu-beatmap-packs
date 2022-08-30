@@ -1,0 +1,113 @@
+{
+    "packId": "2474",
+    "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/2474/raw",
+    "packUrl": "https://osu.ppy.sh/beatmaps/packs/2474",
+    "data": {
+        "name": "Mania Beatmap Pack #108",
+        "url": "https://mega.nz/file/kkYUgIZT#JUszf_Niwr0BdcrW6BommD9gXhbriBvK_vLjFHRiLhU",
+        "uploadedAt": "2022-08-21",
+        "author": "Stefan",
+        "beatmaps": [
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/904136",
+                "artist": "Seifuu Meigetsu",
+                "title": "Salamandra no Odoriko"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1045793",
+                "artist": "REDALiCE",
+                "title": "LEVATEiN feat. Ayumi Nomiya"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1150451",
+                "artist": "Camellia",
+                "title": "Tojita Sekai"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1193231",
+                "artist": "Suzuki Konomi",
+                "title": "Realize (TV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1230306",
+                "artist": "nonoc",
+                "title": "Memento (TV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1322678",
+                "artist": "KASAI HARCORES",
+                "title": "CYCLE HIT"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1426980",
+                "artist": "ACE COLLECTION",
+                "title": "Monoqlo City (TV Size)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1485217",
+                "artist": "Umeboshi Chazuke",
+                "title": "White Parade"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1557981",
+                "artist": "Camellia",
+                "title": "Tentaclar Aliens' Epic Extraterretterrestrial Jungle Dance Party..."
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1604029",
+                "artist": "P4koo",
+                "title": "8th:Planet ~Re:search~"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1608837",
+                "artist": "Camellia",
+                "title": "OOPARTS"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1624523",
+                "artist": "Sakuzyo vs. marasy",
+                "title": "Innocent"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1657361",
+                "artist": "Eri Sasaki",
+                "title": "Ring of Fortune (Zekk Remix)"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1664254",
+                "artist": "Lee Jin Ah",
+                "title": "Target for Love"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1665299",
+                "artist": "ASCA",
+                "title": "Gyakkyou Spectrum"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1666003",
+                "artist": "Silentroom vs. Frums",
+                "title": "Aegleseeker"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1679665",
+                "artist": "HYUKOH",
+                "title": "TOMBOY"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1703216",
+                "artist": "Plum",
+                "title": "Terrasphere"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1710650",
+                "artist": "Camellia",
+                "title": "Dance with Silence"
+            },
+            {
+                "url": "https://osu.ppy.sh/beatmapsets/1722448",
+                "artist": "fishbowl feat. Yukichikasaku/men",
+                "title": "Shinkai"
+            }
+        ]
+    }
+}
