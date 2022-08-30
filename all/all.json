@@ -1,112 +1,112 @@
 {
-    "packId": "1942",
-    "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/1942/raw",
-    "packUrl": "https://osu.ppy.sh/beatmaps/packs/1942",
+    "packId": "2205",
+    "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/2205/raw",
+    "packUrl": "https://osu.ppy.sh/beatmaps/packs/2205",
     "data": {
-        "name": "Taiko Beatmap Pack #92",
-        "url": "https://mega.nz/file/YpQjSAQD#1Zp0X8AzsvrsNn8LzGfXquW11yx_w7Na2GbHfjfLpoE",
-        "uploadedAt": "2020-05-16",
+        "name": "Catch the Beat Beatmap Pack #50",
+        "url": "https://mega.nz/file/dxIFnIIb#EZbjzZLDfgY6BhD5KM8C4EI7MOPHGMTuh7C2npw15dI",
+        "uploadedAt": "2021-06-27",
         "author": "Stefan",
         "beatmaps": [
             {
-                "url": "https://osu.ppy.sh/beatmapsets/856373",
-                "artist": "Sano Hiroaki feat. Tatsumi Megumi",
-                "title": "Tsubomi (Long Version)"
+                "url": "https://osu.ppy.sh/beatmapsets/558284",
+                "artist": "RADWIMPS",
+                "title": "Yume Tourou"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1013115",
-                "artist": "egor nats",
-                "title": "poslednyaya pesnya o ney"
+                "url": "https://osu.ppy.sh/beatmapsets/1264951",
+                "artist": "Rita",
+                "title": "Winter Diamond (Short Ver.)"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1022571",
-                "artist": "DragonForce",
-                "title": "Highway to Oblivion"
+                "url": "https://osu.ppy.sh/beatmapsets/1267528",
+                "artist": "ShinRa-Bansho",
+                "title": "Tsuki ni Murakumo Hana ni Kaze ShinRa-Bansho Ver"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1048641",
-                "artist": "Sakai Shougo",
-                "title": "Porky no Porky"
+                "url": "https://osu.ppy.sh/beatmapsets/1284215",
+                "artist": "ALI",
+                "title": "LOST IN PARADISE feat. AKLO (TV Size)"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1057894",
-                "artist": "Laur",
-                "title": "Terminal Missa"
+                "url": "https://osu.ppy.sh/beatmapsets/1301991",
+                "artist": "Camellia",
+                "title": "GHOST (2020 Halloween+++++++++ VIP)"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1066593",
-                "artist": "Panda Eyes",
-                "title": "Fruits"
+                "url": "https://osu.ppy.sh/beatmapsets/1310422",
+                "artist": "KOTOKO",
+                "title": "SWEET x SWEET"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1103826",
-                "artist": "Station Earth",
-                "title": "Summer Soulstice"
+                "url": "https://osu.ppy.sh/beatmapsets/1313402",
+                "artist": "Survive Said The Prophet",
+                "title": "MUKANJYO (TV Size)"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1103941",
-                "artist": "F-777",
-                "title": "System Split"
+                "url": "https://osu.ppy.sh/beatmapsets/1328366",
+                "artist": "Ito Kashitaro",
+                "title": "START"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1105327",
-                "artist": "Demetori",
-                "title": "Hartmann no Youkai Shoujo ~ Todestrieb und Lebenstrieb"
+                "url": "https://osu.ppy.sh/beatmapsets/1334111",
+                "artist": "Igorrr",
+                "title": "Pavor Nocturnus"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1123482",
-                "artist": "ginkiha",
-                "title": "ARCADE_MEMORIES"
+                "url": "https://osu.ppy.sh/beatmapsets/1364627",
+                "artist": "UVERworld",
+                "title": "D-tecnoLife (TV Size)"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1125625",
-                "artist": "hololive IDOL PROJECT",
-                "title": "Kirameki Rider*"
+                "url": "https://osu.ppy.sh/beatmapsets/1387327",
+                "artist": "Casandra",
+                "title": "Junpaku*study time"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1127175",
-                "artist": "Yorushika",
-                "title": "Itte."
+                "url": "https://osu.ppy.sh/beatmapsets/1387417",
+                "artist": "TOMOSUKE x Jazzin'park",
+                "title": "LANA - Kiroku no Kakera (sasakure.UK Framework Remix) -"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1127444",
-                "artist": "Grant Kirkhope",
-                "title": "Creepy Castle Mine Cart"
+                "url": "https://osu.ppy.sh/beatmapsets/1393068",
+                "artist": "Zekk",
+                "title": "SUMMER"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1127497",
-                "artist": "Machine Girl",
-                "title": "Cloud99 (As Above Mix)"
+                "url": "https://osu.ppy.sh/beatmapsets/1393933",
+                "artist": "Mastermind (xi+nora2r)",
+                "title": "Dreadnought"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1128209",
-                "artist": "ELFENSJoN",
-                "title": "EINHERJAR"
+                "url": "https://osu.ppy.sh/beatmapsets/1394916",
+                "artist": "CHiCO with HoneyWorks",
+                "title": "Pride Kakumei"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1129998",
-                "artist": "Uematsu Nobuo",
-                "title": "Edgar & Sabin's Theme"
+                "url": "https://osu.ppy.sh/beatmapsets/1400050",
+                "artist": "LiSA",
+                "title": "Gurenge feat. Un3h [ dj-Jo Remix ] TV Size"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1130664",
-                "artist": "Nile",
-                "title": "The Inevitable Degradation of Flesh"
+                "url": "https://osu.ppy.sh/beatmapsets/1403065",
+                "artist": "IC3PEAK",
+                "title": "Grezy"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1137166",
-                "artist": "MillhioreF",
-                "title": "Waltz o' the Irish"
+                "url": "https://osu.ppy.sh/beatmapsets/1417543",
+                "artist": "nonoc",
+                "title": "Memento (TV Size)"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1141344",
-                "artist": "sakuraburst",
-                "title": "forest of the spirits"
+                "url": "https://osu.ppy.sh/beatmapsets/1422834",
+                "artist": "Shiro (CV: Kayano Ai)",
+                "title": "Oracion"
             },
             {
-                "url": "https://osu.ppy.sh/beatmapsets/1141949",
-                "artist": "100mi",
-                "title": "songsevery1hasheardb4"
+                "url": "https://osu.ppy.sh/beatmapsets/1434346",
+                "artist": "DIALOGUE+",
+                "title": "Omoide Shiritori (TV Size)"
             }
         ]
     }
