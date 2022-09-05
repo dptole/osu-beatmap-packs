@@ -1,5 +1,7 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| Beatmap Pack #1216 | 2022-09-04 | https://mega.nz/file/koBRTTKb#U2Ldh-JuD9L6WsFg1XEhE9eJLalxrC33OtOpUKkAYPI|
+| Beatmap Pack #1215 | 2022-09-04 | https://mega.nz/file/8pAz3QZA#IeUUtBkek7ta1jvs2VMfcFvZ_3ri8J3ryD0A8CkN26Y|
 | Taiko Beatmap Pack #174 | 2022-08-30 | https://mega.nz/file/8wBR2Sbb#AirG-V2EjCu9oMJ_0jD4nfbLP-u5FvHZq0Fs9glnBlI|
 | Taiko Beatmap Pack #173 | 2022-08-30 | https://mega.nz/file/4wB3VIDT#i1s_-yi3fVg6YDwJH9MopCvJ1K9dQV38QspbWBZVAtU|
 | Catch the Beatmap Pack #67 | 2022-08-30 | https://mega.nz/file/ktBEHBCY#UxYEdn8dJi8e4SzyCXhwYXgEjp6WfnyZdof7O38NyfE|
