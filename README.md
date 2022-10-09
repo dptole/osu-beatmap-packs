@@ -1,5 +1,7 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| Beatmap Pack #1227 | 2022-10-08 | https://mega.nz/file/N0QQkaSK#5zWva3Cxmg320jgv7rgcKX5di0PDde6Ou3NUdAEC5wU|
+| Beatmap Pack #1226 | 2022-10-08 | https://mega.nz/file/pkBnnJCb#mMQFcizsMW6slj7OdLcnl2X-CejhPm_MbOQoqwUa8w4|
 | Beatmap Pack #1225 | 2022-10-02 | https://mega.nz/file/o0gAlAba#ZX5n1vn_fUYiWwdSQ8iFkrs_x7zMlr0x9MpWx4nssSo|
 | Beatmap Pack #1224 | 2022-10-02 | https://mega.nz/file/klA2iIRC#x3NZ_xtPts7gjYY8WqmfZL0cKyQMUyKC5-2pkbAxTWE|
 | Beatmap Pack #1223 | 2022-10-02 | https://mega.nz/file/85pGzI4C#-ScAcXkQLLfQ8o-XJuYwdKFOcsNgi3d4LQJmQWmFDCo|
