@@ -1,5 +1,13 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| Taiko Beatmap Pack #182 | 2022-11-01 | https://mega.nz/file/Ng5GmZCA#qOoWpevC77Oly_UuUngSPp4nNM0InBQff7OSYWWyAMY|
+| Taiko Beatmap Pack #181 | 2022-11-01 | https://mega.nz/file/40YSRZIS#4CgXDQZMxRtSi0wyfRxvJzhLYHaQMiMiC2ZG2CEEexY|
+| Taiko Beatmap Pack #180 | 2022-11-01 | https://mega.nz/file/4gxhHRjS#hx2w4Eklin7GBFVBivRvwUBbgVcXO--0ylY7OxKCuT0|
+| Taiko Beatmap Pack #179 | 2022-11-01 | https://mega.nz/file/01ACTZpL#MYy8mWh_6mzBv7YnRGsyIXuN_drhIDXycGnarp7Glgo|
+| Catch the Beat Beatmap Pack #70 | 2022-11-01 | https://mega.nz/file/J1YnVY4T#bdrzabfaw29zjl_fGnV4TaFQUj47avaRx6hZDVRspb8|
+| Mania Beatmap Pack #118 | 2022-11-01 | https://mega.nz/file/d4B2CYxD#uqmoH0GHs8Olv8qRo2CxQsJUXI54fA12GY5EomEKMyU|
+| Mania Beatmap Pack #117 | 2022-11-01 | https://mega.nz/file/VxohCToZ#0rP8_ZV3sy5Gfec1gAbyApAWSqG8HiL-16mZyh2yyvw|
+| Mania Beatmap Pack #116 | 2022-11-01 | https://mega.nz/file/M453RDaY#pLJeqju4oC16tDIc3omtbhmzA1H_jLpHtpR37RKfGT4|
 | Beatmap Pack #1234 | 2022-10-30 | https://mega.nz/file/doxlABoQ#6kmEIL9H9HBeKLb-kgJOIgCkP9cfnEOus0KZ5a1niF0|
 | Beatmap Pack #1233 | 2022-10-30 | https://mega.nz/file/05ggFLpB#-ULXzDy6I0YMndBTQrnKOyE-AVEYn3d5mXzp_UnuxT4|
 | Beatmap Pack #1232 | 2022-10-23 | https://mega.nz/file/p9AQ2QCB#GHGgHAt7IxHpj9bdOrDt8Hm2ODYQU2q3ejlsKFA07-A|
