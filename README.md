@@ -1,5 +1,6 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| Beatmap Pack #1235 | 2022-11-05 | https://mega.nz/file/xh5DETBB#EQCjOq8axnqli5uDqzasSUVhxVbzm-faO5d3yVD3pLc|
 | Taiko Beatmap Pack #182 | 2022-11-01 | https://mega.nz/file/Ng5GmZCA#qOoWpevC77Oly_UuUngSPp4nNM0InBQff7OSYWWyAMY|
 | Taiko Beatmap Pack #181 | 2022-11-01 | https://mega.nz/file/40YSRZIS#4CgXDQZMxRtSi0wyfRxvJzhLYHaQMiMiC2ZG2CEEexY|
 | Taiko Beatmap Pack #180 | 2022-11-01 | https://mega.nz/file/4gxhHRjS#hx2w4Eklin7GBFVBivRvwUBbgVcXO--0ylY7OxKCuT0|
