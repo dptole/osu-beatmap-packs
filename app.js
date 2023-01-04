@@ -580,7 +580,7 @@ const mod = {
         mod.log('Result')
         mod.log(buffer.toString())
 
-        cmd = 'git commit "- Updating all.json and README.md"'
+        cmd = 'git commit -m "- Updating all.json and README.md"'
         mod.log('Running the command "' + cmd + '"')
         buffer = child_process.execSync(cmd)
         mod.log('Result')
