@@ -551,6 +551,50 @@ const mod = {
 
     uploadOsuBeatmapsToGitlab: async () => {
         await mod.openBrowser()
+        mod.log('Reading gitlab full list...')
+        const storedBeatmaps = await mod.repo.getAllJson()
+        mod.log('Getting OSU new maps...')
+        const remainingBeatmaps = await mod.getRemainingBeatmaps(storedBeatmaps)
+        mod.log('There are ' + remainingBeatmaps.length + ' new OSU maps...')
+        if (remainingBeatmaps.length < 1) {
+            return false
+        }
+        mod.log('Sorting the maps by packId...')
+        const newBeatmaps = storedBeatmaps.concat(remainingBeatmaps)
+        newBeatmaps.sort((a, b) => parseInt(a.packId) > parseInt(b.packId) ? -1 : 1)
+        mod.log('Updating gitlab full list...')
+        const allJsonString = JSON.stringify(newBeatmaps, 0, 4)
+        fs.writeFileSync(path.join(__dirname, 'all.json'), allJsonString)
+        mod.log('Updating gitlab README.md list...')
+        const readmeString = newBeatmaps.map((beatmapPack, index) => {
+            const header = index === 0
+                ? '| Name | Uploaded at | URL |\n| - | - | - |\n'
+                : ''
+            return `${header}| ${beatmapPack.data.name} | ${beatmapPack.data.uploadedAt} | ${beatmapPack.data.url} |`
+        }).join('\n')
+        fs.writeFileSync(path.join(__dirname, 'README.md'), readmeString)
+
+        let cmd = 'git add .'
+        mod.log('Running the command "' + cmd + '"')
+        let buffer = child_process.execSync(cmd)
+        mod.log('Result')
+        mod.log(buffer.toString())
+
+        cmd = 'git commit "- Updating all.json and README.md"'
+        mod.log('Running the command "' + cmd + '"')
+        buffer = child_process.execSync(cmd)
+        mod.log('Result')
+        mod.log(buffer.toString())
+
+        cmd = 'git push origin main'
+        mod.log('Running the command "' + cmd + '"')
+        buffer = child_process.execSync(cmd)
+        mod.log('Result')
+        mod.log(buffer.toString())
+    },
+
+    uploadOsuBeatmapsToGitlabOld: async () => {
+        await mod.openBrowser()
         const storedBeatmaps = await mod.getStoredBeatmaps()
         const remainingBeatmaps = await mod.getRemainingBeatmaps(storedBeatmaps)
 
@@ -653,7 +697,7 @@ const mod = {
 }
 
 mod.main(argvCommand).then(() => {
-    //mod.browser.close()
+    mod.browser.close()
 }).then(() => {
     mod.log('DONE!')
 })
