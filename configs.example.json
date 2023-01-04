@@ -2,6 +2,8 @@
   "run": {
     "browser": {
       "bin": "/usr/bin/brave-browser",
+      "@headless": "Browser visibility: false=visible / true=hidden",
+      "headless": false,
       "@connectionMode": "Possible values: ws launch",
       "connectionMode": "ws",
       "@wsPort": "Only meaningful if connectionMode is ws",

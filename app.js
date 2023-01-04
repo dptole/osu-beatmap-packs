@@ -392,7 +392,7 @@ const mod = {
             const browser = await puppeteer.launch({
                 executablePath: mod.configs.browser.bin,
                 defaultViewport: null,
-                headless: false,
+                headless: mod.configs.browser.headless,
                 ignoreDefaultArgs: mod.configs.browser.ignoreDefaultArgs,
                 userDataDir: mod.configs.browser.dataDir,
                 ignoreHTTPSErrors: true,
@@ -415,7 +415,9 @@ const mod = {
         mod.browser = browser
         const pages = await browser.pages()
         mod.page = pages[0]
-
+        let userAgent = await browser.userAgent()
+        userAgent = userAgent.replace('Headless', '')
+        mod.page.setUserAgent(userAgent)
         mod.page.on('console', (message) => {
             message.args().reduce((promise, arg) => {
                 return promise = promise.then(args => {
