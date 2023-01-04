@@ -1,0 +1,37 @@
+{
+  "run": {
+    "browser": {
+      "bin": "/usr/bin/brave-browser",
+      "@connectionMode": "Possible values: ws launch",
+      "connectionMode": "ws",
+      "@wsPort": "Only meaningful if connectionMode is ws",
+      "wsPort": "57777",
+      "@dataDir": "A folder",
+      "dataDir": "",
+      "args": [
+        "--fast-start",
+        "--disable-extensions",
+        "--js-flags=--noexpose_wasm",
+        "--disable-auto-reload",
+        "--noerrdialogs"
+      ],
+      "ignoreDefaultArgs": [
+        "--enable-automation",
+        "--enable-blink-features=IdleDetection"
+      ]
+    },
+    "gitlab": {
+      "@username": "User handle",
+      "username": "",
+      "@user": "Email",
+      "user": "",
+      "pass": "",
+      "@repo": "Repository name"
+      "repo": ""
+    },
+    "osu": {
+      "user": "",
+      "pass": ""
+    }
+  }
+}
