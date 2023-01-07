@@ -576,9 +576,21 @@ const mod = {
         }).join('\n')
         fs.writeFileSync(path.join(__dirname, 'README.md'), readmeString)
 
-        let cmd = 'git add .'
+        let cmd = 'git status'
         mod.log('Running the command "' + cmd + '"')
         let buffer = child_process.execSync(cmd)
+        mod.log('Result')
+        mod.log(buffer.toString())
+
+        cmd = 'git diff'
+        mod.log('Running the command "' + cmd + '"')
+        buffer = child_process.execSync(cmd)
+        mod.log('Result')
+        mod.log(buffer.toString())
+
+        cmd = 'git add .'
+        mod.log('Running the command "' + cmd + '"')
+        buffer = child_process.execSync(cmd)
         mod.log('Result')
         mod.log(buffer.toString())
 
