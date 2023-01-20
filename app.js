@@ -241,7 +241,7 @@ const mod = {
             let page = 1
 
             while (1) {
-                mod.log('-'.repeat(79))
+                //mod.log('-'.repeat(79))
                 mod.log('Going to page', page, '...')
 
                 const bmpUrl = new url.URL(mod.MODEL.osu.beatmapPacksUrl)
@@ -275,8 +275,8 @@ const mod = {
                 })
 
                 for (let i = 0; i < beatpackPacksDom.length; i++) {
-                    mod.log('-'.repeat(59))
-                    mod.log('Beatmap pack index', i)
+                    //mod.log('-'.repeat(59))
+                    //mod.log('Beatmap pack index', i)
 
                     const packId = await beatpackPacksDom[i].evaluate(beatpackPackDom => {
                         return beatpackPackDom.getAttribute('data-pack-id')

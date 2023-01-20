@@ -3,8 +3,6 @@ localdir="$(dirname "$0")"
 tm='03:33:33'
 
 date +%F_%T
-echo "WAITING FOR THE TIME $tm"
-echo "HEARTBEAT EVERY 10 MINUTES"
 
 while :
 do
@@ -15,15 +13,15 @@ do
     reset
   fi
 
-  if [ "${ctm:4}" == "0:00" ]
-  then
-    echo "WAITING FOR THE TIME $tm ($ctm)"
-  fi
+  printf "WAITING FOR THE TIME $tm ($ctm)"
 
   if [ $ctm == $tm ]
   then
+    printf "\n"
     echo RUNNING
     node "$localdir/app.js" run
+  else
+    printf "\r"
   fi
 
   sleep 1
