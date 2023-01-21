@@ -283,7 +283,7 @@ const mod = {
                     })
 
                     if (storedBeatmapPacks.some(b => packId === b.packId)) {
-                        mod.log('Already stored!')
+                        //mod.log('Already stored!')
                         continue
                     }
 
@@ -451,10 +451,10 @@ const mod = {
         args = Array.isArray(args) ? args : []
         let lastError = null
         while (attempts-- > 0) {
-            mod.log('Trying', func, 'attempt', attempts)
+            //mod.log('Trying', func, 'attempt', attempts)
             try {
                 const result = await func(...args)
-                mod.log('Done!', func)
+                //mod.log('Done!', func)
                 return result
             } catch (error) {
                 lastError = error
