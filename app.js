@@ -705,6 +705,8 @@ const mod = {
         } catch (error) {
             mod.log('=== ERROR (mod.lastError) ===')
             mod.log(mod.lastError = error)
+            mod.log('mod.lastError.name', mod.lastError.name)
+            mod.log('mod.lastError.message', mod.lastError.message)
         }
         mod.log('=== END ===')
     },

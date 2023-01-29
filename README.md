@@ -1,5 +1,8 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| Beatmap Pack #1269 | 2023-01-29 | https://mega.nz/file/xhoGlQKA#c40NiO_ylsNrLu8h4_u-KvvFZgqyX9YOk9FPoaIKeRQ |
+| Beatmap Pack #1268 | 2023-01-29 | https://mega.nz/file/4lQi0JgL#-j6E8KErXh63BjPPT09eVaBHjifGlst4eARhqvzUHNk |
+| Beatmap Pack #1267 | 2023-01-29 | https://mega.nz/file/Nkp2wRQT#Tkhz0lkE8EIbDcFXQJuBSpML3kKf9YxWvFrIzY-I8nc |
 | Taiko Beatmap Pack #207 | 2023-01-22 | https://mega.nz/file/BspUkLRC#cs3wzqoH6ehv3GipPYemPGs-bB1dzDe1_7VbwEK6YG4 |
 | Taiko Beatmap Pack #206 | 2023-01-22 | https://mega.nz/file/xhAlFYJa#Qw9d-f1TG72Xk9p4g8W1nyGXb6cYGPIsGHIw3HM0PrA |
 | Taiko Beatmap Pack #205 | 2023-01-22 | https://mega.nz/file/thRV2IYQ#U3cnQUUr-HxxJN3mTxS7t2WwFjLwC4XJdQaQlri6BqY |
