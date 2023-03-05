@@ -605,6 +605,14 @@ const mod = {
         buffer = child_process.execSync(cmd)
         mod.log('Result')
         mod.log(buffer.toString())
+
+        for (const mirror of mod.configs.mirrors) {
+            cmd = 'git push --mirror ' + mirror
+            mod.log('Running the command "' + cmd + '"')
+            buffer = child_process.execSync(cmd)
+            mod.log('Result')
+            mod.log(buffer.toString())
+        }
     },
 
     uploadOsuBeatmapsToGitlabOld: async () => {
