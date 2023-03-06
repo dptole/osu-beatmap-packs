@@ -185,6 +185,21 @@ const mod = {
                 assert.ok(pageUrl === mod.gitlab.getBeatmapPackUrl(filepath, 'blob'), 'Not yet loaded...')
             })
         },
+
+        getModifiedFilesFromGitStatusBuffer: (buffer) => {
+            const specialLine = 'modified:'
+            return buffer
+                .toString()
+                .split('\n')
+                .map((line) => line.trim())
+                .filter((line) =>
+                    line
+                        .trim()
+                        .startsWith(specialLine)
+                ).map((line) =>
+                    line.replace(specialLine, '').trim()
+                )
+        },
     },
 
     osu: {
@@ -579,6 +594,7 @@ const mod = {
         let cmd = 'git status'
         mod.log('Running the command "' + cmd + '"')
         let buffer = child_process.execSync(cmd)
+        let modifiedFiles = mod.gitlab.getModifiedFilesFromGitStatusBuffer(buffer)
         mod.log('Result')
         mod.log(buffer.toString())
 
@@ -594,7 +610,10 @@ const mod = {
         mod.log('Result')
         mod.log(buffer.toString())
 
-        cmd = 'git commit -m "- Updating all.json and README.md"'
+        if (modifiedFiles.length > 0) {
+            modifiedFiles = ['files']
+        }
+        cmd = 'git commit -m "- Updating ' + modifiedFiles.join(', ') + '"'
         mod.log('Running the command "' + cmd + '"')
         buffer = child_process.execSync(cmd)
         mod.log('Result')
@@ -609,7 +628,7 @@ const mod = {
         for (const mirror of mod.configs.mirrors) {
             cmd = 'git push --mirror ' + mirror
             mod.log('Running the command "' + cmd + '"')
-            buffer = child_process.execSync(cmd)
+            buffer = child_process.execSync(cmd) 
             mod.log('Result')
             mod.log(buffer.toString())
         }
