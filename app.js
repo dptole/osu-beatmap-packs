@@ -290,29 +290,25 @@ const mod = {
                 })
 
                 for (let i = 0; i < beatpackPacksDom.length; i++) {
-                    //mod.log('-'.repeat(59))
-                    //mod.log('Beatmap pack index', i)
-
-                    const packId = await beatpackPacksDom[i].evaluate(beatpackPackDom => {
-                        return beatpackPackDom.getAttribute('data-pack-id')
+                    const packTag = await beatpackPacksDom[i].evaluate(beatpackPackDom => {
+                        return beatpackPackDom.getAttribute('data-pack-tag')
                     })
 
-                    if (storedBeatmapPacks.some(b => packId === b.packId)) {
-                        //mod.log('Already stored!')
+                    if (storedBeatmapPacks.some(b => packTag === b.packTag)) {
                         continue
                     }
 
-                    if (!/^\d+$/.test(packId)) {
-                        mod.log('Invalid packId', packId, 'index', i)
+                    if (!/^\w+\d+$/.test(packTag)) {
+                        mod.log('Invalid packTag', packTag, 'index', i)
                         continue
                     }
 
-                    mod.log('Beatmap pack id', packId)
+                    mod.log('Beatmap pack tag', packTag)
 
                     await mod.sleep(3)
 
-                    const packUrl = 'https://osu.ppy.sh/beatmaps/packs/' + packId
-                    const rawPackUrl = packUrl + '/raw'
+                    const packUrl = 'https://osu.ppy.sh/beatmaps/packs/' + packTag
+                    const rawPackUrl = packUrl + '?format=raw'
                     mod.log('Waiting for response', rawPackUrl)
                     const [response] = await Promise.all([
                         mod.page.waitForResponse(rawPackUrl),
@@ -368,7 +364,8 @@ const mod = {
                     })
 
                     beatmapPacks.push({
-                        packId,
+                        //packId,
+                        packTag,
                         rawPackUrl,
                         packUrl,
                         data,
@@ -610,7 +607,7 @@ const mod = {
         mod.log('Result')
         mod.log(buffer.toString())
 
-        if (modifiedFiles.length > 0) {
+        if (modifiedFiles.length < 1) {
             modifiedFiles = ['files']
         }
         cmd = 'git commit -m "- Updating ' + modifiedFiles.join(', ') + '"'
