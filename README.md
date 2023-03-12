@@ -1857,3 +1857,6 @@
 | Beatmap Pack #3 | 2012-06-03 | https://mega.nz/file/AlwUESTT#0E-vQcyhBDKru7HJso42n5MjBqbZPJup-bmvVELpGLE |
 | Beatmap Pack #2 | 2012-06-03 | https://mega.nz/file/01gixISD#HATvZUa0e8cbYpcyMkvFbQvly_5lSFCauPvHVOK-V9M |
 | Beatmap Pack #1 | 2012-06-03 | https://mega.nz/file/x45CmCRS#08I48hi7YrW67bVImtzj6WhFW1GKMzCl7ZocaMwisnc |
+| Beatmap Pack #1283 | 2023-03-11 | https://mega.nz/file/9oRmkB7I#A469qt4KDFIC67LzLHqrcm2-W0dccDoiEXxfEhWG0Dk |
+| Beatmap Pack #1282 | 2023-03-11 | https://mega.nz/file/MsYGRAAK#pCAgXDwZJcDheDnG48PjtUtepq0lwMyP9pcaGuQC22E |
+| Beatmap Pack #1281 | 2023-03-11 | https://mega.nz/file/J9JgxTRR#-us_hcnDXOPPH0p9AhDlwmq_kFqEPzAAm35EboUwx3o |
