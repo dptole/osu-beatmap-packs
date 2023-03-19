@@ -573,9 +573,9 @@ const mod = {
         if (remainingBeatmaps.length < 1) {
             return false
         }
-        mod.log('Sorting the maps by packId...')
+        mod.log('Sorting the maps by data.uploadedAt...')
         const newBeatmaps = storedBeatmaps.concat(remainingBeatmaps)
-        newBeatmaps.sort((a, b) => parseInt(a.packId) > parseInt(b.packId) ? -1 : 1)
+        newBeatmaps.sort((a, b) => a.data.uploadedAt > b.data.uploadedAt ? -1 : 1)
         mod.log('Updating gitlab full list...')
         const allJsonString = JSON.stringify(newBeatmaps, 0, 4)
         fs.writeFileSync(path.join(__dirname, 'all.json'), allJsonString)
