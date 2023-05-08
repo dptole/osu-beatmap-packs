@@ -1,5 +1,12 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| Beatmap Pack #1299 | 2023-05-07 | https://mega.nz/file/Z4IWHBQY#cLSItZvldA94xh8pjfi4Gb8TcSZ8lE6laWN8-QpaiA0 |
+| Beatmap Pack #1298 | 2023-05-07 | https://mega.nz/file/Z0ZFRQTJ#y02DO8gLJ8FeIh6QVOUWzNK3ejlNivvksAjPV2yB0I8 |
+| Beatmap Pack #1297 | 2023-05-07 | https://mega.nz/file/14pjhTSZ#l2pXteX-RDfN0bnKKCbOHCGnagjfAJzr3xFX0oPL-YA |
+| Beatmap Pack #1296 | 2023-05-07 | https://mega.nz/file/Rp5V2QiT#1gDBpbOugfSCVm9_QQrRUpTBov_IcgPj5BnfUPuO5MY |
+| Beatmap Pack #1295 | 2023-05-07 | https://mega.nz/file/MgpzWJLa#_HeYceG1PVZqZKBvPMQSEGZc2RaTP4QfedXB8SiYoIo |
+| Beatmap Pack #1294 | 2023-05-07 | https://mega.nz/file/NkA2GTpA#sg7nQuxiXYH2HYAm90KIBv038fjacB6yreaN2upt6fI |
+| Beatmap Pack #1293 | 2023-05-07 | https://mega.nz/file/oswDGASY#dpQenljXQcx3-QcHt7mo_XcXhtuXqELDTQuUnBmS4sY |
 | Beatmap Pack #1292 | 2023-04-07 | https://mega.nz/file/Q1oQyKqT#yGzvpyXe5tJWOzk9PMb4UK2UfHKSzY3lgwM0Gx6NcCg |
 | Beatmap Pack #1291 | 2023-04-07 | https://mega.nz/file/4kRUhZDY#brUk4r322RqJcoXnKpVC56bv-sGyZMUT5Fb2YB2sFg4 |
 | Beatmap Pack #1290 | 2023-04-07 | https://mega.nz/file/19IRxCrY#CiYLXaiNGBgzFvY-WxdRSQKPg-gSt1nSrg2RMDvjt8k |
