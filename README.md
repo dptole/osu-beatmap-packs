@@ -1,5 +1,9 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| Mania Beatmap Pack #160 | 2023-06-24 | https://packs.ppy.sh/SM160%20-%20Mania%20Beatmap%20Pack%20%23160.zip |
+| Mania Beatmap Pack #159 | 2023-06-24 | https://packs.ppy.sh/SM159%20-%20Mania%20Beatmap%20Pack%20%23159.zip |
+| Mania Beatmap Pack #158 | 2023-06-24 | https://packs.ppy.sh/SM158%20-%20Mania%20Beatmap%20Pack%20%23158.zip |
+| Mania Beatmap Pack #157 | 2023-06-24 | https://packs.ppy.sh/SM157%20-%20Mania%20Beatmap%20Pack%20%23157.zip |
 | Mania Beatmap Pack #156 | 2023-06-23 | https://packs.ppy.sh/SM156%20-%20Mania%20Beatmap%20Pack%20%23156.zip |
 | Catch the Beat Beatmap Pack #85 | 2023-06-23 | https://packs.ppy.sh/SC85%20-%20Catch%20the%20Beat%20Beatmap%20Pack%20%2385.zip |
 | Catch the Beat Beatmap Pack #84 | 2023-06-23 | https://packs.ppy.sh/SC84%20-%20Catch%20the%20Beat%20Beatmap%20Pack%20%2384.zip |
