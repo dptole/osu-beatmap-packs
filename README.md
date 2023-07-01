@@ -3,6 +3,8 @@
 | Mania Beatmap Pack #168 | 2023-06-30 | https://packs.ppy.sh/SM168%20-%20Mania%20Beatmap%20Pack%20%23168.zip |
 | Mania Beatmap Pack #167 | 2023-06-30 | https://packs.ppy.sh/SM167%20-%20Mania%20Beatmap%20Pack%20%23167.zip |
 | Mania Beatmap Pack #166 | 2023-06-30 | https://packs.ppy.sh/SM166%20-%20Mania%20Beatmap%20Pack%20%23166.zip |
+| Mania Beatmap Pack #170 | 2023-06-30 | https://packs.ppy.sh/SM170%20-%20Mania%20Beatmap%20Pack%20%23170.zip |
+| Mania Beatmap Pack #169 | 2023-06-30 | https://packs.ppy.sh/SM169%20-%20Mania%20Beatmap%20Pack%20%23169.zip |
 | Taiko Beatmap Pack #236 | 2023-06-29 | https://packs.ppy.sh/ST236%20-%20Taiko%20Beatmap%20Pack%20%23236.zip |
 | Beatmap Pack #1315 | 2023-06-29 | https://packs.ppy.sh/S1315%20-%20Beatmap%20Pack%20%231315.zip |
 | Beatmap Pack #1313 | 2023-06-28 | https://packs.ppy.sh/S1313%20-%20Beatmap%20Pack%20%231313.zip |
