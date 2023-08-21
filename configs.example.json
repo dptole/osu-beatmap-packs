@@ -29,7 +29,8 @@
       "user": "",
       "pass": "",
       "@repo": "Repository name",
-      "repo": ""
+      "repo": "",
+      "branch": ""
     },
     "osu": {
       "user": "",

@@ -95,11 +95,11 @@ const mod = {
               mode = raw
               mode = edit
             */
-            return mod.MODEL.gitlab.repoUrl + '/-/' + mode + '/main/' + filepath
+            return mod.MODEL.gitlab.repoUrl + '/-/' + mode + '/' + mod.MODEL.gitlab.branch + '/' + filepath
         },
 
         getBeatmapCreateFileUrl: () => {
-            return mod.MODEL.gitlab.repoUrl + '/-/new/main/'
+            return mod.MODEL.gitlab.repoUrl + '/-/new/' + mod.MODEL.gitlab.branch + '/'
         },
 
         storeBeatmapPacks: async (filepath, fileContent) => {
@@ -616,7 +616,7 @@ const mod = {
         mod.log('Result')
         mod.log(buffer.toString())
 
-        cmd = 'git push origin main'
+        cmd = 'git push origin ' + mod.MODEL.gitlab.branch
         mod.log('Running the command "' + cmd + '"')
         buffer = child_process.execSync(cmd)
         mod.log('Result')
@@ -685,6 +685,7 @@ const mod = {
             },
             gitlab: {
                 model: [],
+                branch: mod.configs.gitlab.branch,
                 url: 'https://gitlab.com/users/sign_in',
                 user: mod.configs.gitlab.user,
                 pass: mod.configs.gitlab.pass,
