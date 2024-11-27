@@ -1,5 +1,7 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| osu! Beatmap Pack #1528 | 2024-11-26 | https://packs.ppy.sh/S1528%20-%20osu%21%20Beatmap%20Pack%20%231528.zip?1732615914 |
+| osu! Beatmap Pack #1526 | 2024-11-26 | https://packs.ppy.sh/S1526%20-%20osu%21%20Beatmap%20Pack%20%231526.zip |
 | osu!catch Beatmap Pack #115 | 2024-11-24 | https://packs.ppy.sh/SC115%20-%20osu%21catch%20Beatmap%20Pack%20%23115.zip |
 | osu! Beatmap Pack #1527 | 2024-11-24 | https://packs.ppy.sh/S1527%20-%20osu%21%20Beatmap%20Pack%20%231527.zip |
 | osu!mania Beatmap Pack #255 | 2024-11-23 | https://packs.ppy.sh/SM255%20-%20osu%21mania%20Beatmap%20Pack%20%23255.zip |
