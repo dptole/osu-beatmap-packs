@@ -337,7 +337,10 @@ const mod = {
 
                         const name = navDom.querySelector('.beatmap-pack__name').textContent.trim()
                         const uploadedAt = navDom.querySelector('.beatmap-pack__date').textContent.trim()
-                        const author = navDom.querySelector('.beatmap-pack__author--bold').textContent.trim()
+                        const author = (
+                            navDom.querySelector('.beatmap-pack__author--bold') ||
+                            navDom.querySelector('.beatmap-pack__details > span strong')
+                        ).textContent.trim()
 
                         const beatmaps = []
 
