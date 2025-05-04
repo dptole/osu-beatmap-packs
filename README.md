@@ -3,6 +3,7 @@
 | osu!mania Beatmap Pack #283 | 2025-05-03 | https://packs.ppy.sh/SM283%20-%20osu%21mania%20Beatmap%20Pack%20%23283.zip |
 | osu!catch Beatmap Pack #125 | 2025-05-03 | https://packs.ppy.sh/SC125%20-%20osu%21catch%20Beatmap%20Pack%20%23125.zip |
 | osu! Beatmap Pack #1615 | 2025-05-03 | https://packs.ppy.sh/S1615%20-%20osu%21%20Beatmap%20Pack%20%231615.zip |
+| osu! Beatmap Pack #1614 | 2025-05-03 | https://packs.ppy.sh/S1614%20-%20osu%21%20Beatmap%20Pack%20%231614.zip |
 | osu! Beatmap Pack #1613 | 2025-04-30 | https://packs.ppy.sh/S1613%20-%20osu%21%20Beatmap%20Pack%20%231613.zip |
 | osu! Beatmap Pack #1612 | 2025-04-28 | https://packs.ppy.sh/S1612%20-%20osu%21%20Beatmap%20Pack%20%231612.zip |
 | osu!mania Beatmap Pack #282 | 2025-04-28 | https://packs.ppy.sh/SM282%20-%20osu%21mania%20Beatmap%20Pack%20%23282.zip |
