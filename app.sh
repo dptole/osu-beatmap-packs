@@ -2,6 +2,12 @@
 localdir="$(dirname "$0")"
 tm='03:33:33'
 tm2='10:00:00'
+t='0'
+
+if test -e "$localdir/app.log" && ( which vlc &> /dev/null )
+then
+    t='1'
+fi
 
 date +%F_%T
 
@@ -14,15 +20,25 @@ do
         reset
     fi
 
-    printf "WAITING FOR THE TIME $tm ($ctm)"
+    if [ "$t" == "0" ]
+    then
+        printf "WAITING FOR THE TIME $tm ($ctm) [DOWNLOAD]"
+    else
+        printf "WAITING FOR THE TIME $tm2 ($ctm) [LISTEN]"
+    fi
 
     if [ $ctm == $tm ]
     then
+        if ( which vlc &> /dev/null )
+        then
+            t='1'
+        fi
         printf "\n"
         echo RUNNING
         node "$localdir/app.js" run | tee -a "$localdir/app.log"
     elif [ $ctm == $tm2 ] && ( which vlc &> /dev/null )
     then
+        t='0'
         printf "\n"
         echo "LISTENING THE PREVIEWS (IF AVAILABLE)"
 
@@ -39,6 +55,8 @@ do
             echo "##############"
             echo "TITLE $TITLE"
             echo "URL   $URL"
+
+            sleep 1
 
             vlc --intf dummy --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
         done < "$localdir/app2.log"
