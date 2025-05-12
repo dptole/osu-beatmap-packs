@@ -20,6 +20,8 @@ do
         reset
     fi
 
+    printf "\r"
+
     if [ "$t" == "0" ]
     then
         printf "WAITING FOR THE TIME $tm ($ctm) [DOWNLOAD]"
