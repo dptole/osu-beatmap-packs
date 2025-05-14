@@ -38,6 +38,14 @@ do
         printf "\n"
         echo RUNNING
         node "$localdir/app.js" run | tee -a "$localdir/app.log"
+
+        #FROM $localdir/app.log
+        #IF
+        #mod.lastError.name TimeoutError
+        #mod.lastError.message Navigation timeout of 30000 ms exceeded
+        #SLEEP FOR 60 SECONDS
+        #TRY AGAIN UNTIL NEXT HOUR
+
     elif [ $ctm == $tm2 ] && ( which vlc &> /dev/null )
     then
         t='0'
