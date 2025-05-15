@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 localdir="$(dirname "$0")"
 tm='03:33:33'
-tm2='10:00:00'
+tm2='15:55:55'
 t='0'
 
 if test -e "$localdir/app.log" && ( which vlc &> /dev/null )
