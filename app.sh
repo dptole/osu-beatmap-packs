@@ -45,21 +45,21 @@ do
         #mod.lastError.message Navigation timeout of 30000 ms exceeded
         #SLEEP FOR 60 SECONDS
         #TRY AGAIN UNTIL NEXT HOUR
-
     elif [ $ctm == $tm2 ] && ( which vlc &> /dev/null )
     then
         t='0'
         printf "\n"
         echo "LISTENING THE PREVIEWS (IF AVAILABLE)"
 
+        tmpfile="$(mktemp)"
         egrep "beatmapsets|title" "$localdir/app.log" | \
         sed -z 's/",\n+//g' | \
-        sed -r 's/.+beatmapsets\/([0-9]+).+title": "([^"]+).+/\1-\2/' > "$localdir/app2.log"
+        sed -r 's/.+beatmapsets\/([0-9]+).+title": "(.+)"$/\1-\2/' > "$tmpfile"
 
         while read line
         do
-            BEATMAPSET="$(echo $line | sed -r 's/^([0-9]+).+$/\1/')"
-            TITLE="$(echo $line | sed -r 's/^.+-(.+)$/\1/')"
+            BEATMAPSET="$(echo $line | sed -r 's/^([0-9]+)-(.+)$/\1/')"
+            TITLE="$(echo $line | sed -r 's/^([0-9]+)-(.+)$/\2/')"
             URL="https://b.ppy.sh/preview/$BEATMAPSET.mp3"
 
             echo "##############"
@@ -69,10 +69,10 @@ do
             sleep 1
 
             vlc --intf dummy --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
-        done < "$localdir/app2.log"
+        done < "$tmpfile"
 
         rm "$localdir/app.log"
-        rm "$localdir/app2.log"
+        rm "$tmpfile"
     else
         printf "\r"
     fi
