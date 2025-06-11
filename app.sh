@@ -61,12 +61,14 @@ do
             BEATMAPSET="$(echo $line | sed -r 's/^([0-9]+)-(.+)$/\1/')"
             TITLE="$(echo $line | sed -r 's/^([0-9]+)-(.+)$/\2/')"
             URL="https://b.ppy.sh/preview/$BEATMAPSET.mp3"
+            SEC=1
 
             echo "##############"
             echo "TITLE $TITLE"
             echo "URL   $URL"
+            echo "STARTING VLC IN $SEC SEC"
 
-            sleep 1
+            sleep $SEC
 
             vlc --intf dummy --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
         done < "$tmpfile"
