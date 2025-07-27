@@ -52,6 +52,7 @@ do
         echo "LISTENING THE PREVIEWS (IF AVAILABLE)"
 
         tmpfile="$(mktemp)"
+        echo "TMPFILE $tmpfile"
         egrep "beatmapsets|title" "$localdir/app.log" | \
         sed -z 's/",\n+//g' | \
         sed -r 's/.+beatmapsets\/([0-9]+).+title": "(.+)"$/\1-\2/' > "$tmpfile"
@@ -70,7 +71,9 @@ do
 
             sleep $SEC
 
-            vlc --intf dummy --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
+            set -x
+            vlc --intf dummy --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
+            set +x
         done < "$tmpfile"
 
         rm "$localdir/app.log"
