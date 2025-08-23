@@ -72,7 +72,7 @@ do
             sleep $SEC
 
             set -x
-            vlc --intf dummy --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
+            vlc --intf dummy --no-repeat --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
             set +x
         done < "$tmpfile"
 
