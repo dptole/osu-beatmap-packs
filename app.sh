@@ -15,11 +15,6 @@ while :
 do
     ctm=`date +%T`
 
-    if [ "$ctm" == "00:00:00" ]
-    then
-        reset
-    fi
-
     printf "\r"
 
     if [ "$t" == "0" ]
