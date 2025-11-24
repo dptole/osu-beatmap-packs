@@ -46,6 +46,8 @@ do
         printf "\n"
         echo "LISTENING THE PREVIEWS (IF AVAILABLE)"
 
+        cp "$localdir/app.log" "$localdir/app-$(date +%s).log"
+
         tmpfile="$(mktemp)"
         echo "TMPFILE $tmpfile"
         egrep "beatmapsets|title" "$localdir/app.log" | \
