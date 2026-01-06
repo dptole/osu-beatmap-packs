@@ -3,6 +3,7 @@ localdir="$(dirname "$0")"
 tm='03:33:33'
 tm2='15:55:55'
 t='0'
+tt='0'
 
 if test -e "$localdir/app.log" && ( which vlc &> /dev/null )
 then
@@ -40,24 +41,30 @@ do
         #mod.lastError.message Navigation timeout of 30000 ms exceeded
         #SLEEP FOR 60 SECONDS
         #TRY AGAIN UNTIL NEXT HOUR
-    elif [ $ctm == $tm2 ] && ( which vlc &> /dev/null )
+    elif [ $ctm == $tm2 ] && ( which vlc &> /dev/null ) || [ "$tt" == "1" ]
     then
         t='0'
         printf "\n"
         echo "LISTENING THE PREVIEWS (IF AVAILABLE)"
+        sourcefile="$localdir/app.log"
 
-        cp "$localdir/app.log" "$localdir/app-$(date +%s).log"
+if [ "$tt" == "1" ]
+then
+    sourcefile="$localdir/app-1767380155.log"
+else
+    cp "$sourcefile" "$localdir/app-$(date +%s).log"
+fi
 
         tmpfile="$(mktemp)"
         echo "TMPFILE $tmpfile"
-        egrep "beatmapsets|title" "$localdir/app.log" | \
+        egrep "beatmapsets|title" "$sourcefile" | \
         sed -z 's/",\n+//g' | \
         sed -r 's/.+beatmapsets\/([0-9]+).+title": "(.+)"$/\1-\2/' > "$tmpfile"
 
         while read line
         do
-            BEATMAPSET="$(echo $line | sed -r 's/^([0-9]+)-(.+)$/\1/')"
-            TITLE="$(echo $line | sed -r 's/^([0-9]+)-(.+)$/\2/')"
+            BEATMAPSET="$(echo "$line" | sed -r 's/^([0-9]+)-(.+)$/\1/')"
+            TITLE="$(echo "$line" | sed -r 's/^([0-9]+)-(.+)$/\2/')"
             URL="https://b.ppy.sh/preview/$BEATMAPSET.mp3"
             SEC=1
 
@@ -66,18 +73,29 @@ do
             echo "URL   $URL"
             echo "STARTING VLC IN $SEC SEC"
 
-            sleep $SEC
+if [ "$tt" != "1" ]
+then
+    sleep $SEC
 
-            set -x
-            vlc --intf dummy --no-repeat --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
-            set +x
+    set -x
+    vlc --intf dummy --no-repeat --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
+    set +x
+fi
+
         done < "$tmpfile"
 
-        rm "$localdir/app.log"
         rm "$tmpfile"
+
+if [ "$tt" == "1" ]
+then
+    break
+else
+    rm "$localdir/app.log"
+fi
     else
         printf "\r"
     fi
 
     sleep 1
 done
+
