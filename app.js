@@ -212,6 +212,8 @@ const mod = {
                 loadUntil: 'networkidle2',
             })
 
+            await mod.sleep(5)
+
             const currentUser = await mod.osu.getCurrentUser()
 
             const isLoggedIn = await mod.attempt(30, async function checkIfAlreadyLoggedIn() {
@@ -229,7 +231,7 @@ const mod = {
 
             if (isLoggedIn) return;
 
-            const loginBox = await mod.page.$('a[data-click-menu-target="nav2-login-box"]')
+            const loginBox = await mod.page.$('[data-click-menu-target="nav2-login-box"]')
             await loginBox.click()
 
             const loginDom = await mod.page.$('form[action="https://osu.ppy.sh/session"] [name="username"]')
@@ -429,9 +431,12 @@ const mod = {
     setupBrowser: async (browser) => {
         mod.browser = browser
         const pages = await browser.pages()
-        mod.page = pages[0]
+        mod.pages = pages
+        mod.page = mod.pages[0]
         let userAgent = await browser.userAgent()
         userAgent = userAgent.replace('Headless', '')
+        //userAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36'
+        //userAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'
         mod.page.setUserAgent(userAgent)
         mod.page.on('console', (message) => {
             message.args().reduce((promise, arg) => {
