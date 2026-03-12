@@ -231,7 +231,7 @@ const mod = {
 
             if (isLoggedIn) return;
 
-            const loginBox = await mod.page.$('[data-click-menu-target="nav2-login-box"]')
+            const loginBox = await mod.page.$('a[data-click-menu-target="nav2-login-box"]')
             await loginBox.click()
 
             const loginDom = await mod.page.$('form[action="https://osu.ppy.sh/session"] [name="username"]')
@@ -395,10 +395,23 @@ const mod = {
 
         if (mod.MODEL.puppeteer.connectionMode === 'ws') {
             return await new Promise((resolve, reject) => {
+                let args = mod.MODEL.puppeteer.args
+
+                if (mod.configs.browser.headless) {
+                    args = args.concat('--headless')
+                    args = args.concat('--disable-gpu')
+                }
+
+                mod.log(
+                    mod.MODEL.puppeteer.bin,
+                    args.join(' ')
+                )
+
                 const browserProcess = child_process.spawn(
                     mod.MODEL.puppeteer.bin,
-                    mod.MODEL.puppeteer.args
+                    args
                 )
+
                 browserProcess.once('spawn', resolve)
                 browserProcess.once('error', reject)
                 mod.browserProcess = browserProcess
@@ -406,6 +419,19 @@ const mod = {
                 await mod.attempt(30, mod.connectToBrowser)
             })
         } else if (mod.MODEL.puppeteer.connectionMode === 'launch') {
+            mod.log(
+                mod.configs.browser.bin,
+                (
+                    mod.configs.browser.args.concat(
+                        '--remote-debugging-port=' + mod.configs.browser.wsPort,
+                    ).concat(
+                        '--user-data-dir=' + mod.configs.browser.dataDir,
+                    ).concat(
+                        mod.configs.browser.headless ? '--headless' : '',
+                    ).filter(a => a)
+                ).join(' ')
+            )
+
             const browser = await puppeteer.launch({
                 executablePath: mod.configs.browser.bin,
                 defaultViewport: null,
