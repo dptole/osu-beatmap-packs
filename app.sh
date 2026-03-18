@@ -78,7 +78,8 @@ then
     sleep $SEC
 
     set -x
-    vlc --intf dummy --no-repeat --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
+    vlcDemux=ogg
+    vlc --intf dummy --demux=$vlcDemux --no-repeat --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
     set +x
 fi
 
