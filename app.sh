@@ -5,7 +5,7 @@ tm2='15:55:55'
 t='0'
 tt='0'
 #should start with listen 1=yes/0=no
-ttt='1'
+ttt='0'
 
 if test -e "$localdir/app.log" && ( which vlc &> /dev/null )
 then
@@ -21,7 +21,8 @@ do
     if [ "$ttt" == "1" ]
     then
         ctm=$tm2
-        ttt='0'
+        #ttt='0'
+        tt='1'
     fi
 
     printf "\r"
@@ -56,12 +57,7 @@ do
         echo "LISTENING THE PREVIEWS (IF AVAILABLE)"
         sourcefile="$localdir/app.log"
 
-if [ "$tt" == "1" ]
-then
-    sourcefile="$localdir/app-1767380155.log"
-else
-    cp "$sourcefile" "$localdir/app-$(date +%s).log"
-fi
+        cp "$sourcefile" "$localdir/app-$(date +%s).log"
 
         tmpfile="$(mktemp)"
         echo "TMPFILE $tmpfile"
@@ -81,26 +77,38 @@ fi
             echo "URL   $URL"
             echo "STARTING VLC IN $SEC SEC"
 
-if [ "$tt" != "1" ]
-then
-    sleep $SEC
+            sleep $SEC
 
-    set -x
-    vlcDemux=ogg
-    vlc --intf dummy --demux=$vlcDemux --no-repeat --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
-    set +x
-fi
+            set -x
+            wget "https://b.ppy.sh/preview/$BEATMAPSET.mp3" -O "$BEATMAPSET.mp3" &>/dev/null
 
+            head -n 1 "$BEATMAPSET.mp3" | grep -i ogg &>/dev/null
+            isOgg=$?
+            vlcDemux=
+            if [ "$isOgg" == "0" ]
+            then
+                vlcDemux=--demux=ogg
+            fi
+            #vlc --intf dummy $vlcDemux --no-repeat --no-loop --play-and-exit "https://b.ppy.sh/preview/$BEATMAPSET.mp3" &> /dev/null
+            vlc --intf dummy $vlcDemux --no-repeat --no-loop --play-and-exit "$BEATMAPSET.mp3" &> /dev/null
+            rm "$BEATMAPSET.mp3"
+            set +x
         done < "$tmpfile"
 
         rm "$tmpfile"
 
-if [ "$tt" == "1" ]
-then
-    break
-else
-    rm "$localdir/app.log"
-fi
+        if [ "$ttt" == "1" ]
+        then
+            ttt='0'
+            tt='0'
+        fi
+
+        if [ "$tt" == "1" ]
+        then
+            break
+        else
+            rm "$localdir/app.log"
+        fi
     else
         printf "\r"
     fi
