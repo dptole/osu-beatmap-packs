@@ -1,5 +1,7 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+| osu! Beatmap Pack #1828 | 2026-07-01 | https://packs.ppy.sh/S1828%20-%20osu%21%20Beatmap%20Pack%20%231828.zip |
+| osu!mania Beatmap Pack #365 | 2026-07-01 | https://packs.ppy.sh/SM365%20-%20osu%21mania%20Beatmap%20Pack%20%23365.zip |
 | osu! Beatmap Pack #1827 | 2026-06-28 | https://packs.ppy.sh/S1827%20-%20osu%21%20Beatmap%20Pack%20%231827.zip |
 | osu!taiko Beatmap Pack #413 | 2026-06-28 | https://packs.ppy.sh/ST413%20-%20osu%21taiko%20Beatmap%20Pack%20%23413.zip |
 | osu!mania Beatmap Pack #364 | 2026-06-27 | https://packs.ppy.sh/SM364%20-%20osu%21mania%20Beatmap%20Pack%20%23364.zip |
