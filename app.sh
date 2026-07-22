@@ -80,7 +80,8 @@ do
             sleep $SEC
 
             set -x
-            wget "https://b.ppy.sh/preview/$BEATMAPSET.mp3" -O "$BEATMAPSET.mp3" &>/dev/null
+            #wget "https://b.ppy.sh/preview/$BEATMAPSET.mp3" -O "$BEATMAPSET.mp3" &>/dev/null
+            curl -k "https://b.ppy.sh/preview/$BEATMAPSET.mp3" -o "$BEATMAPSET.mp3" &>/dev/null
 
             head -n 1 "$BEATMAPSET.mp3" | grep -i ogg &>/dev/null
             isOgg=$?
