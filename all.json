@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "S1842",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1842?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1842",
+        "data": {
+            "name": "osu! Beatmap Pack #1842",
+            "url": "https://packs.ppy.sh/S1842%20-%20osu%21%20Beatmap%20Pack%20%231842.zip",
+            "uploadedAt": "2026-07-29",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1646603",
+                    "artist": "SECONDWALL",
+                    "title": "Light"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2019808",
+                    "artist": "Carola",
+                    "title": "Fangad av en stormvind"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2142931",
+                    "artist": "Apink",
+                    "title": "NoNoNo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2215012",
+                    "artist": "dark cat",
+                    "title": "BUBBLE TEA (feat. juu & cinders) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2388129",
+                    "artist": "Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo",
+                    "title": "SILVERY"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2425501",
+                    "artist": "UNDEAD CORPORATION",
+                    "title": "Under the scarlet sky pt,2 inst"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2497745",
+                    "artist": "Alex G",
+                    "title": "16 Mirrors"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2526817",
+                    "artist": "Shadren",
+                    "title": "Attracting Universe"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528019",
+                    "artist": "Annabel",
+                    "title": "lettre"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528111",
+                    "artist": "Imperial Circus Dead Decadence",
+                    "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2529619",
+                    "artist": "Pegboard Nerds",
+                    "title": "Emoji"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530195",
+                    "artist": "Jane Remover",
+                    "title": "Music Baby"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2544004",
+                    "artist": "hikota",
+                    "title": "swamp.wav"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2549147",
+                    "artist": "Tsuzuri",
+                    "title": "NAME"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2552185",
+                    "artist": "d0tc0mmie",
+                    "title": "Dokifeel feat. Hanakuma Chifuyu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2553048",
+                    "artist": "Ohara Yuiko",
+                    "title": "Kaze to Iku Michi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563096",
+                    "artist": "takehirotei",
+                    "title": "SEISHUN://NO_HACKING"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563185",
+                    "artist": "Virtual Self",
+                    "title": "a.i.ngel (Become God)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568416",
+                    "artist": "Official HIGE DANdism",
+                    "title": "Sanitizer"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2572404",
+                    "artist": "Kawada Mami",
+                    "title": "Contrail ~Kiseki~ (Epsilon Remix)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST419",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST419?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST419",
