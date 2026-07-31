@@ -1,5 +1,457 @@
 [
     {
+        "packTag": "S1844",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1844?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1844",
+        "data": {
+            "name": "osu! Beatmap Pack #1844",
+            "url": "https://packs.ppy.sh/S1844%20-%20osu%21%20Beatmap%20Pack%20%231844.zip",
+            "uploadedAt": "2026-07-31",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1925639",
+                    "artist": "Endorfin.",
+                    "title": "Spica"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1926066",
+                    "artist": "Zornheym",
+                    "title": "Decessit Vita Patris"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1985773",
+                    "artist": "Zornheym",
+                    "title": "Trifecta of Horrors"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2068580",
+                    "artist": "Mariya Vasnetsova (CV: Miroslava Karpovich)",
+                    "title": "Oduvanchiki (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2269183",
+                    "artist": "CHEN",
+                    "title": "Light Of My life"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2323626",
+                    "artist": "YUC'e",
+                    "title": "PUMP"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2379557",
+                    "artist": "Ito Kashitaro",
+                    "title": "Fairytale,"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2390071",
+                    "artist": "April Rain",
+                    "title": "My Silent Angel"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2403846",
+                    "artist": "ABSOLUTE CASTAWAY",
+                    "title": "Sirius no Yuuen -Hacka-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2421659",
+                    "artist": "Inferi",
+                    "title": "The Abhorrent Art"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2449169",
+                    "artist": "Good Kid",
+                    "title": "No Time to Explain"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2452004",
+                    "artist": "Ogura Yui",
+                    "title": "Baby Sweet Berry Love (Tsukiko chan Maji kawa-E Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2455620",
+                    "artist": "polysha",
+                    "title": "TAKEMIKADUCHI"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2484768",
+                    "artist": "The Veronicas",
+                    "title": "4ever (cut ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2499259",
+                    "artist": "A-One feat. Aki",
+                    "title": "Darkish"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2500073",
+                    "artist": "kikoyu",
+                    "title": "ii. maturity"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2534305",
+                    "artist": "City Girl",
+                    "title": "WII DATE (feat. tiffi, highvyn, siopaolo)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2538845",
+                    "artist": "Yosuke@KG feat. Aitsuki Nakuru",
+                    "title": "INFINITE DAYS"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555046",
+                    "artist": "Maduk",
+                    "title": "Ghost Assassin (feat. Veela) (Original Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568743",
+                    "artist": "Demonstealer",
+                    "title": "Monolith of Hate"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "ST420",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST420?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST420",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #420",
+            "url": "https://packs.ppy.sh/ST420%20-%20osu%21taiko%20Beatmap%20Pack%20%23420.zip",
+            "uploadedAt": "2026-07-30",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2343538",
+                    "artist": "celtix",
+                    "title": "Tenkyuu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2425501",
+                    "artist": "UNDEAD CORPORATION",
+                    "title": "Under the scarlet sky pt,2 inst"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2443056",
+                    "artist": "Unlucky Morpheus",
+                    "title": "Carry on singing to the sky"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2484319",
+                    "artist": "CUPSIZE",
+                    "title": "prygay, dura!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2498583",
+                    "artist": "cosMo@Bousou-P feat. Otomachi Una",
+                    "title": "MOW*MOW*ABDUCTION!!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2509002",
+                    "artist": "Unlucky Morpheus",
+                    "title": "DRAGON FORCE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2509014",
+                    "artist": "DECO*27",
+                    "title": "Ai Kotoba V feat. Hatsune Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2518177",
+                    "artist": "STEREO DIVE FOUNDATION, ASH",
+                    "title": "Harmonics"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2527678",
+                    "artist": "cewer",
+                    "title": "nose"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2529619",
+                    "artist": "Pegboard Nerds",
+                    "title": "Emoji"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2531240",
+                    "artist": "GYZE",
+                    "title": "HONESTY"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2537271",
+                    "artist": "FUWAMOCO",
+                    "title": "Born to be \"BAU\"DOL** (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543998",
+                    "artist": "MIMI",
+                    "title": "Pyon feat. Hatsune Miku & Kasane Teto SV"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2544291",
+                    "artist": "Ashrount",
+                    "title": "Cataraxir"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555843",
+                    "artist": "xi",
+                    "title": "Mirage Garden"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557608",
+                    "artist": "ReoNa",
+                    "title": "SWEET HURT (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559426",
+                    "artist": "shuzeios",
+                    "title": "intro"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563747",
+                    "artist": "Terashima Takuma",
+                    "title": "Hikarihanatsu (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570307",
+                    "artist": "Kanami (CV: Uchida Maaya)",
+                    "title": "Beautiful World"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570538",
+                    "artist": "FIFA Sound",
+                    "title": "The Official FIFA World Cup 26 Theme"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "SM370",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM370?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM370",
+        "data": {
+            "name": "osu!mania Beatmap Pack #370",
+            "url": "https://packs.ppy.sh/SM370%20-%20osu%21mania%20Beatmap%20Pack%20%23370.zip",
+            "uploadedAt": "2026-07-30",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1928416",
+                    "artist": "seatrus",
+                    "title": "O"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2017220",
+                    "artist": "Infected Mushroom",
+                    "title": "Change the Formality"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2039039",
+                    "artist": "BiSH",
+                    "title": "innocent arrogance (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2355701",
+                    "artist": "Magnetude",
+                    "title": "Signals"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2425501",
+                    "artist": "UNDEAD CORPORATION",
+                    "title": "Under the scarlet sky pt,2 inst"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2443056",
+                    "artist": "Unlucky Morpheus",
+                    "title": "Carry on singing to the sky"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2476965",
+                    "artist": "Utsu-P",
+                    "title": "MiKUSABBATH"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2481624",
+                    "artist": "nanobii",
+                    "title": "Rainbow Road"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2486763",
+                    "artist": "Mili",
+                    "title": "RTRT"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2489291",
+                    "artist": "Akiri",
+                    "title": "Symphony Of The Lost Souls"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2500422",
+                    "artist": "kz feat. Kaguya (CV: Yuko Natsuyoshi)",
+                    "title": "Reply"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530195",
+                    "artist": "Jane Remover",
+                    "title": "Music Baby"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2539716",
+                    "artist": "TFD500",
+                    "title": "Hero's March"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2540169",
+                    "artist": "Slax",
+                    "title": "Body to the Drum"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2541052",
+                    "artist": "MAYA AKAI",
+                    "title": "LiftOff"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555699",
+                    "artist": "Kumada Akane & Masui Yuuka",
+                    "title": "Naze? Nazo?! ANSWER (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555719",
+                    "artist": "Ando",
+                    "title": "PoTATo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559426",
+                    "artist": "shuzeios",
+                    "title": "intro"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561773",
+                    "artist": "Tanaka Hirokazu",
+                    "title": "C-TYPE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2564470",
+                    "artist": "Krimek",
+                    "title": "Transientia"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1843",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1843?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1843",
+        "data": {
+            "name": "osu! Beatmap Pack #1843",
+            "url": "https://packs.ppy.sh/S1843%20-%20osu%21%20Beatmap%20Pack%20%231843.zip",
+            "uploadedAt": "2026-07-30",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2112254",
+                    "artist": "Inferi",
+                    "title": "The Ophidian Form"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2297881",
+                    "artist": "Anamanaguchi",
+                    "title": "STILL SPLODIN' THO (Interlude)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2379281",
+                    "artist": "Twin-Tails",
+                    "title": "Twintail Dreamer!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2394427",
+                    "artist": "Symholic feat. Rina Komatsu",
+                    "title": "Veil of Ash"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2508033",
+                    "artist": "Colorful Sounds Port feat. Sennzai",
+                    "title": "Jewelry Beans"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2522869",
+                    "artist": "Imy feat. Natsume Itsuki",
+                    "title": "Lies playing Truth"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2524484",
+                    "artist": "Eisyo-kobu",
+                    "title": "Faithtival"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2525429",
+                    "artist": "S3RL feat. Emi",
+                    "title": "Escape"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528327",
+                    "artist": "BlackY feat. Risa Yuzuki",
+                    "title": "TEL TEL pause (Album Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2529186",
+                    "artist": "SUPER MWC KART",
+                    "title": "Purple Palace"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543798",
+                    "artist": "Avizura",
+                    "title": "Lucky Star (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2545877",
+                    "artist": "Fujita Kotone (CV: Iida Hikaru)",
+                    "title": "The Cute!!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548594",
+                    "artist": "Imperial Circus Dead Decadence",
+                    "title": "Jashin no Konrei, Gi wa Ai to Shiru."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2550244",
+                    "artist": "my sound life",
+                    "title": "framework"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557154",
+                    "artist": "Fujiyori & Mayori",
+                    "title": "Seeing Lights"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559062",
+                    "artist": "Dazzling",
+                    "title": "ataraxia"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568681",
+                    "artist": "Shoujo",
+                    "title": "Reminiscing"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570665",
+                    "artist": "SPIRIT GARDEN *",
+                    "title": "Continue"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570952",
+                    "artist": "Hamu feat. Natsuki Karin",
+                    "title": "Sunao ni Naritai (osu! Edit Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579103",
+                    "artist": "SiM",
+                    "title": "FREEZE ME UP (TV SIZE)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1842",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1842?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1842",
