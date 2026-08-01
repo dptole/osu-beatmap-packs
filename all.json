@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "ST421",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST421?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST421",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #421",
+            "url": "https://packs.ppy.sh/ST421%20-%20osu%21taiko%20Beatmap%20Pack%20%23421.zip",
+            "uploadedAt": "2026-08-01",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1734058",
+                    "artist": "EmoCosine",
+                    "title": "Nekojarashi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2239198",
+                    "artist": "Adachi and Shimamura (CV: Kito Akari and Ito Miku)",
+                    "title": "Kimi ni Aeta Hi (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2378815",
+                    "artist": "BlackY",
+                    "title": "Black Rose"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2380403",
+                    "artist": "JJ",
+                    "title": "Wasted Love"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2473136",
+                    "artist": "t+pazolite",
+                    "title": "Electric Butterfly"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2503320",
+                    "artist": "PinocchioP",
+                    "title": "Nee Nee Nee. feat. Kagamine Rin, Hatsune Miku (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2538079",
+                    "artist": "Icon For Hire",
+                    "title": "Make a Move (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2542293",
+                    "artist": "Omoi",
+                    "title": "Spiral Melodies"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2544838",
+                    "artist": "Ponchi feat. haxchi",
+                    "title": "Nyanderful <3 Summer!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2550122",
+                    "artist": "tachibanaka",
+                    "title": "Surrender (Sped Up Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2554986",
+                    "artist": "Raphiiel",
+                    "title": "Once Forgotten, Nothing Remains"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555157",
+                    "artist": "Tia",
+                    "title": "The Glory Days"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557277",
+                    "artist": "T.T. STAR",
+                    "title": "BE MY STAR (NIGHTCORE MIX)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557613",
+                    "artist": "Halozy",
+                    "title": "Masshiro na Yuki (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2565816",
+                    "artist": "Virtual Self",
+                    "title": "Ghost Voices"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2566155",
+                    "artist": "saradisk",
+                    "title": "10-10-10-100-OK-NG"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2566938",
+                    "artist": "Friends",
+                    "title": "Nisemono (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574656",
+                    "artist": "Ludicin",
+                    "title": "Clinozoisite"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577177",
+                    "artist": "Shiranami Ramune",
+                    "title": "Yoake to Hotaru"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2585977",
+                    "artist": "Ohara Yuiko",
+                    "title": "Ketsui no Uta (TV Size)"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1845",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1845?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1845",
+        "data": {
+            "name": "osu! Beatmap Pack #1845",
+            "url": "https://packs.ppy.sh/S1845%20-%20osu%21%20Beatmap%20Pack%20%231845.zip",
+            "uploadedAt": "2026-08-01",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2164402",
+                    "artist": "Kardashev",
+                    "title": "Lux"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2242286",
+                    "artist": "Midnight Research Institute",
+                    "title": "Convalescence"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2301655",
+                    "artist": "Sephid",
+                    "title": "Epistrofi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2378815",
+                    "artist": "BlackY",
+                    "title": "Black Rose"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2405338",
+                    "artist": "justan oval",
+                    "title": "shrimp duet"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2407039",
+                    "artist": "Feint",
+                    "title": "Tower Of Heaven (You Are Slaves) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2475962",
+                    "artist": "Fitz and the Tantrums",
+                    "title": "HandClap (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2505994",
+                    "artist": "Mia REGINA",
+                    "title": "Dear Teardrop (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528346",
+                    "artist": "MIMI",
+                    "title": "Marshmary (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530419",
+                    "artist": "Rish feat. Choko",
+                    "title": "Omochachachachacha!!!!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2531319",
+                    "artist": "onumi",
+                    "title": "Succubi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2533449",
+                    "artist": "S3RL feat. Sara",
+                    "title": "Less Than 3"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2536594",
+                    "artist": "Aether Realm",
+                    "title": "The Sun, The Moon, The Star"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2537515",
+                    "artist": "Rose Quartz",
+                    "title": "Luminous Echoes"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2540293",
+                    "artist": "Kardashev",
+                    "title": "Cellar of Ghosts"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2540765",
+                    "artist": "Cres.",
+                    "title": "End Time (Delay Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2547221",
+                    "artist": "Maeda Jun x yanaginagi",
+                    "title": "Shiva"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548984",
+                    "artist": "KASAI HARCORES",
+                    "title": "CYCLE HIT"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2552355",
+                    "artist": "Rakakun- & Dispel",
+                    "title": "Shitsusei (feat. Altair Aquila)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2572363",
+                    "artist": "yonige",
+                    "title": "Mebuku Toki"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1844",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1844?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1844",
@@ -108,6 +334,119 @@
                     "url": "https://osu.ppy.sh/beatmapsets/2568743",
                     "artist": "Demonstealer",
                     "title": "Monolith of Hate"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "SC164",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SC164?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SC164",
+        "data": {
+            "name": "osu!catch Beatmap Pack #164",
+            "url": "https://packs.ppy.sh/SC164%20-%20osu%21catch%20Beatmap%20Pack%20%23164.zip",
+            "uploadedAt": "2026-07-31",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2072983",
+                    "artist": "black midi",
+                    "title": "Welcome To Hell"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2336660",
+                    "artist": "rejection",
+                    "title": "White Canvas (feat. Aitsuki Nakuru) (osu! edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2391045",
+                    "artist": "MY FIRST STORY",
+                    "title": "Shuuen Requiem"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2426339",
+                    "artist": "Conton Candy",
+                    "title": "Snow Drop (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2429034",
+                    "artist": "Demetori",
+                    "title": "Natsukashiki Touhou no Chi ~ Sic World"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2487987",
+                    "artist": "Umeboshi Chazuke",
+                    "title": "AJITAMA Adventure OST"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2503589",
+                    "artist": "inabakumori",
+                    "title": "Tokoshizume"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2516729",
+                    "artist": "XenjeS",
+                    "title": "Inorganic Dystopia"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2525540",
+                    "artist": "Ruby My Dear",
+                    "title": "Croque Monsieur A Disneyland"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530195",
+                    "artist": "Jane Remover",
+                    "title": "Music Baby"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530999",
+                    "artist": "t+pazolite",
+                    "title": "do i smile?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2533025",
+                    "artist": "Aitsuki Nakuru",
+                    "title": "Presenter* (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2536575",
+                    "artist": "wotoha",
+                    "title": "Digital Life Hacker"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2549080",
+                    "artist": "kensuke ushio",
+                    "title": "slow summer eve"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2553628",
+                    "artist": "Apollo",
+                    "title": "Yoru no Kodomo-tachi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556491",
+                    "artist": "Shuukatsu Club",
+                    "title": "Tensei Ganbou (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561252",
+                    "artist": "HyuN feat. Sennzai",
+                    "title": "Duplicity Shade"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568416",
+                    "artist": "Official HIGE DANdism",
+                    "title": "Sanitizer"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2575094",
+                    "artist": "Camellia",
+                    "title": "R U Still xxxx?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577180",
+                    "artist": "SLAVE.V-V-R feat. GUMI",
+                    "title": "LaVI-Bavellabion"
                 }
             ]
         }
