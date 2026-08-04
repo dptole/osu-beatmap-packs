@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "S1848",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1848?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1848",
+        "data": {
+            "name": "osu! Beatmap Pack #1848",
+            "url": "https://packs.ppy.sh/S1848%20-%20osu%21%20Beatmap%20Pack%20%231848.zip",
+            "uploadedAt": "2026-08-04",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/925679",
+                    "artist": "IC3PEAK",
+                    "title": "SKAZKA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1864683",
+                    "artist": "Whispered",
+                    "title": "Fallen Amaterasu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2046378",
+                    "artist": "solfa feat. Koharu Meu",
+                    "title": "Kokoro no Tobira"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2197921",
+                    "artist": "fhana",
+                    "title": "Aozora no Rhapsody (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2213350",
+                    "artist": "Ayalis",
+                    "title": "Ai o Chikaishi Hime Kazari"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2243687",
+                    "artist": "Persona",
+                    "title": "Molto Allegro"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2246798",
+                    "artist": "Zmey Gorynich",
+                    "title": "Morozoboy"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2301786",
+                    "artist": "Zmey Gorynich",
+                    "title": "Morozoboy"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2392076",
+                    "artist": "Evan Fong",
+                    "title": "Spawn!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2430620",
+                    "artist": "mafumafu",
+                    "title": "Yasou to Hakuchumu (Short Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2497508",
+                    "artist": "RAYE",
+                    "title": "WHERE IS MY HUSBAND!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2523183",
+                    "artist": "BUTAOTOME",
+                    "title": "Moonstone"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528219",
+                    "artist": "Pinkshift",
+                    "title": "bathroom community"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528796",
+                    "artist": "Pinkshift",
+                    "title": "bathroom community"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2529109",
+                    "artist": "Kardashev",
+                    "title": "Apparitions in Candlelight / Dissever"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2547244",
+                    "artist": "Atarayo",
+                    "title": "Haku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2547758",
+                    "artist": "u's",
+                    "title": "Bokura no LIVE Kimi to no LIFE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548824",
+                    "artist": "Ludicin",
+                    "title": "Echoes of Memoria"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2554523",
+                    "artist": "Feint",
+                    "title": "We Won't Be Alone (feat. Laura Brehm) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562540",
+                    "artist": "Billie Eilish",
+                    "title": "WILDFLOWER"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1847",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1847?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1847",
