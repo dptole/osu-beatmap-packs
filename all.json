@@ -1,5 +1,344 @@
 [
     {
+        "packTag": "ST422",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST422?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST422",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #422",
+            "url": "https://packs.ppy.sh/ST422%20-%20osu%21taiko%20Beatmap%20Pack%20%23422.zip",
+            "uploadedAt": "2026-08-06",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1982522",
+                    "artist": "Rib:y(uhki)",
+                    "title": "KICK BACK"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2386253",
+                    "artist": "enveel, onokami",
+                    "title": "nedotroga"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2387875",
+                    "artist": "Midix",
+                    "title": "Koshmary"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2410847",
+                    "artist": "takehirotei",
+                    "title": "ChromaMachina"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2415871",
+                    "artist": "ryu5150",
+                    "title": "My spirit lives on"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2478131",
+                    "artist": "rN",
+                    "title": "Hundred Voices and the Heartbroken Girl"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2496007",
+                    "artist": "solfa feat. nao",
+                    "title": "hallucinate (game ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2502534",
+                    "artist": "CON feat. Hatsune Miku",
+                    "title": "Cruel Clocks"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2520854",
+                    "artist": "Aoris & mochiutsune",
+                    "title": "Nekotchii"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528359",
+                    "artist": "you",
+                    "title": "Meteor (feat. TEA)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528623",
+                    "artist": "Morikazu Aoki",
+                    "title": "Petalburg Woods"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2531045",
+                    "artist": "penoreri",
+                    "title": "Vacant Rhapsody"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535598",
+                    "artist": "AAAA vs. penoreri",
+                    "title": "Recollect Lines"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548893",
+                    "artist": "t+pazolite & Kaneko Chiharu",
+                    "title": "UROSOUSETSU (ver.OPW)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559665",
+                    "artist": "Victorious Cast",
+                    "title": "Make It Shine feat. Victoria Justice (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561862",
+                    "artist": "Hagumi Nishizawa",
+                    "title": "Hanadoki no Koiuta"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574858",
+                    "artist": "Sasaki Sayaka",
+                    "title": "Yume to Iro de Dekiteiru"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578261",
+                    "artist": "Arctic Monkeys",
+                    "title": "505"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2582695",
+                    "artist": "ReoNa",
+                    "title": "Amore (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2583478",
+                    "artist": "BANIO",
+                    "title": "mosi mosi?"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "SM372",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM372?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM372",
+        "data": {
+            "name": "osu!mania Beatmap Pack #372",
+            "url": "https://packs.ppy.sh/SM372%20-%20osu%21mania%20Beatmap%20Pack%20%23372.zip",
+            "uploadedAt": "2026-08-06",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1178589",
+                    "artist": "angela",
+                    "title": "Otome no Route wa Hitotsu ja Nai! (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1670140",
+                    "artist": "Noisia",
+                    "title": "Alpha Centauri (Receptor Remix) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2229950",
+                    "artist": "Yoshino",
+                    "title": "Konton Boogie"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2255671",
+                    "artist": "Camellia",
+                    "title": "Sulfide"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2295373",
+                    "artist": "yax03",
+                    "title": "stresstest"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2392899",
+                    "artist": "Toby Fox",
+                    "title": "The Third Sanctuary"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2438662",
+                    "artist": "Getty",
+                    "title": "Party Out"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2496007",
+                    "artist": "solfa feat. nao",
+                    "title": "hallucinate (game ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2498821",
+                    "artist": "Supire",
+                    "title": "Helios"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2502569",
+                    "artist": "ReoNa",
+                    "title": "Nai Nai"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2511269",
+                    "artist": "penoreri",
+                    "title": "Vacant Rhapsody"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2516285",
+                    "artist": "saradisk",
+                    "title": "168 - 401"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2516888",
+                    "artist": "Takagi-san (CV: Takahashi Rie)",
+                    "title": "Joyful (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530258",
+                    "artist": "TAKIO",
+                    "title": "Kamigami no Sumau Ten'iki (self cover)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2531219",
+                    "artist": "Ariabl'eyeS",
+                    "title": "Houkai no Bigaku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2532655",
+                    "artist": "good-cool",
+                    "title": "Change Everything"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561883",
+                    "artist": "Uinyasu, Occhoko Bunny",
+                    "title": "Aa Kenran no Yume ga Gotoku (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2567115",
+                    "artist": "KyoKa",
+                    "title": "Aitoki*Cherishing (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568765",
+                    "artist": "PENGUIN RESEARCH",
+                    "title": "Fire and Fear (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578823",
+                    "artist": "Boney M.",
+                    "title": "Rasputin"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1849",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1849?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1849",
+        "data": {
+            "name": "osu! Beatmap Pack #1849",
+            "url": "https://packs.ppy.sh/S1849%20-%20osu%21%20Beatmap%20Pack%20%231849.zip",
+            "uploadedAt": "2026-08-06",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2198972",
+                    "artist": "Title Fight",
+                    "title": "Flood of '72"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2380904",
+                    "artist": "LOLISTYLE GABBERS vs. REAL SHIT BASTARDS",
+                    "title": "LGRS Megatralaiza X"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2452910",
+                    "artist": "Ishihara Kaori",
+                    "title": "Plastic Smile (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2476746",
+                    "artist": "Zebrahead",
+                    "title": "Falling Apart"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2478169",
+                    "artist": "Rokudenashi",
+                    "title": "The Shape of Rain"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2519307",
+                    "artist": "Soichi Terada",
+                    "title": "Sumo Jungle"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2522055",
+                    "artist": "Tune Up! vs. DJ Manian",
+                    "title": "Bounce (DJ Manian Radio Edit) (Nightcore Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2522833",
+                    "artist": "The Offspring",
+                    "title": "You're Gonna Go Far, Kid (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2524898",
+                    "artist": "Yousei Teikoku",
+                    "title": "Torikago"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528793",
+                    "artist": "pinata",
+                    "title": "I'm talking to You! feat. Kasane Teto"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530069",
+                    "artist": "Yooh",
+                    "title": "Ice Angel"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535516",
+                    "artist": "Tatsuya Kitani",
+                    "title": "HIDANE (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535709",
+                    "artist": "xaptiox",
+                    "title": "etheria"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2539718",
+                    "artist": "Loki",
+                    "title": "Birth of a Hero"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2541449",
+                    "artist": "Almond Eye (CV: Ishihara Kaori)",
+                    "title": "Glory Eyes"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543019",
+                    "artist": "Waterflame",
+                    "title": "Endgame"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2546583",
+                    "artist": "tephe",
+                    "title": "Neppa feat. Butter"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548026",
+                    "artist": "Natsume Itsuki",
+                    "title": "Kitsune Ame"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2549929",
+                    "artist": "Falcom Sound Team jdk",
+                    "title": "Infinity Rage"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2565210",
+                    "artist": "They Might Be Giants",
+                    "title": "Ana Ng"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1848",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1848?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1848",
