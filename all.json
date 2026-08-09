@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "SM373",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM373?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM373",
+        "data": {
+            "name": "osu!mania Beatmap Pack #373",
+            "url": "https://packs.ppy.sh/SM373%20-%20osu%21mania%20Beatmap%20Pack%20%23373.zip",
+            "uploadedAt": "2026-08-08",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1780259",
+                    "artist": "Akatsuki Records",
+                    "title": "HANIPAGANDA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2136188",
+                    "artist": "Laur",
+                    "title": "SYSTEM ERROR"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2377592",
+                    "artist": "Lime",
+                    "title": "Stellaria"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2432285",
+                    "artist": "Vivlos (CV: Itou Ayasa)",
+                    "title": "Marine Blue Magic <3"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2438757",
+                    "artist": "Raphiiel",
+                    "title": "Once Forgotten, Nothing Remains"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2455636",
+                    "artist": "Supire",
+                    "title": "Dead Aire"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2478789",
+                    "artist": "Akari Kaida",
+                    "title": "Shitsunai"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2527391",
+                    "artist": "Tsukuyomi",
+                    "title": "Mayday"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2533018",
+                    "artist": "Oishi Masayoshi",
+                    "title": "Kimi wa Koibito"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2538996",
+                    "artist": "Chiru-san",
+                    "title": "Glow"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2539974",
+                    "artist": "CHiCO with HoneyWorks",
+                    "title": "Kessen Spirit (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543185",
+                    "artist": "Tears For Fears",
+                    "title": "Everybody Wants To Rule The World"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555651",
+                    "artist": "Neko Hacker",
+                    "title": "Shadows feat. Such"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562207",
+                    "artist": "Kou!",
+                    "title": "SELENE-UI (v2.0_release)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2573467",
+                    "artist": "XenjeS",
+                    "title": "Inorganic Dystopia"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2575813",
+                    "artist": "trung-nova",
+                    "title": "Roars of V.E.N.G.E.A.N.C.E -Take Back Everything-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576176",
+                    "artist": "AAAA + Hino Isuka",
+                    "title": "Keep smiling."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577589",
+                    "artist": "MiddleIsland",
+                    "title": "Roze"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588771",
+                    "artist": "Noisia",
+                    "title": "Shellshock (feat. Foreign Beggars) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2589355",
+                    "artist": "MARETU",
+                    "title": "Coin Locker Baby"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1851",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1851?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1851",
+        "data": {
+            "name": "osu! Beatmap Pack #1851",
+            "url": "https://packs.ppy.sh/S1851%20-%20osu%21%20Beatmap%20Pack%20%231851.zip",
+            "uploadedAt": "2026-08-08",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2088487",
+                    "artist": "AWAY x Roniit x Crywolf",
+                    "title": "Parasite"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2216599",
+                    "artist": "Poppin'Party",
+                    "title": "Hoshi no Yakusoku (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2253315",
+                    "artist": "\"Weird Al\" Yankovic",
+                    "title": "Songs Compilation"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2286441",
+                    "artist": "Ray Charles",
+                    "title": "Hit The Road Jack"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2376975",
+                    "artist": "A-One feat. Aki",
+                    "title": "Wanna Be My Dream"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2389295",
+                    "artist": "Rhodanthe*",
+                    "title": "Happy*Pretty*Clover (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2421900",
+                    "artist": "GFRIEND",
+                    "title": "Season of Memories"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2439455",
+                    "artist": "Lemonade Factory",
+                    "title": "Akeboshi (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2448658",
+                    "artist": "RoughSketch & TARACHINE",
+                    "title": "T-REX vs Velociraptor (In the Far east euphoria)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2458899",
+                    "artist": "rikvinyas",
+                    "title": "Lamentasia=/=Fantation"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2506602",
+                    "artist": "Ceui",
+                    "title": "Kibou no Uta (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2507734",
+                    "artist": "Kazami Gakuen Shinbun-bu",
+                    "title": "Sakura Happy Innovation"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2523810",
+                    "artist": "FLORE",
+                    "title": "SKELETON (NIGHTCORE & CUT VER.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530692",
+                    "artist": "Kuro feat. Kasane Teto SV2",
+                    "title": "Anomaly Maria"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2534904",
+                    "artist": "ABSOLUTE CASTAWAY",
+                    "title": "Hyouhon V: Himawari"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535221",
+                    "artist": "Opiuo, Duffrey",
+                    "title": "HALLOUMI BALLOON"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2541601",
+                    "artist": "Ivan Dorn",
+                    "title": "Teleport (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556988",
+                    "artist": "KotsubanP feat. Hatsune Miku",
+                    "title": "Stargazer"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2581309",
+                    "artist": "DJ Noriken",
+                    "title": "Feeling Inside"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2589764",
+                    "artist": "Olivia Rodrigo",
+                    "title": "drop dead"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST423",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST423?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST423",
