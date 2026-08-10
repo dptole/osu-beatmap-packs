@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "S1852",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1852?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1852",
+        "data": {
+            "name": "osu! Beatmap Pack #1852",
+            "url": "https://packs.ppy.sh/S1852%20-%20osu%21%20Beatmap%20Pack%20%231852.zip",
+            "uploadedAt": "2026-08-09",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/642607",
+                    "artist": "Fitz and the Tantrums",
+                    "title": "HandClap"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1283876",
+                    "artist": "RAMM ni Haiyoru Nyaruko-san",
+                    "title": "Attack with FULL FORCE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1691706",
+                    "artist": "Faye Wong",
+                    "title": "Bai Nian Gu Ji"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1918381",
+                    "artist": "Musealcal Eggscrements",
+                    "title": "EGGS!!! III - back from ze grave"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2087838",
+                    "artist": "Imperial Circus Dead Decadence",
+                    "title": "Hyakki Yakou -Pandemonic Night Parade-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2200416",
+                    "artist": "Shin-Kawasaki (Kari)",
+                    "title": "Voiceless Fish (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2211020",
+                    "artist": "siinamota",
+                    "title": "Kagefumi-san wa Iu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2268702",
+                    "artist": "Unprocessed",
+                    "title": "Thrash"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2368673",
+                    "artist": "MC Bola de Fogo e as Foguentas",
+                    "title": "Atoladinha (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2442164",
+                    "artist": "Lime Tuna",
+                    "title": "monkey falls into toilet. hilarity ensues."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2459522",
+                    "artist": "Ookami Mio feat. Shirakami Fubuki, Oozora Subaru, Sakura Miko",
+                    "title": "Dotta Batta Chindochu!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2508820",
+                    "artist": "ICHILLIN'",
+                    "title": "GOT'YA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2514573",
+                    "artist": "CustomiZ",
+                    "title": "COOLEST (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2518203",
+                    "artist": "Yorushika",
+                    "title": "Plover"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2523898",
+                    "artist": "SHK",
+                    "title": "Couple Breaking"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2553526",
+                    "artist": "KOTOKO",
+                    "title": "Wing my Way"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2560049",
+                    "artist": "vertigoaway",
+                    "title": "FART GODDESS"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2569685",
+                    "artist": "Marino",
+                    "title": "Im Sorry Mom"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579793",
+                    "artist": "Sasaki Rico",
+                    "title": "Majestic Catastrophe (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588665",
+                    "artist": "Hana",
+                    "title": "tree"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "SM373",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM373?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM373",
