@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "ST424",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST424?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST424",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #424",
+            "url": "https://packs.ppy.sh/ST424%20-%20osu%21taiko%20Beatmap%20Pack%20%23424.zip",
+            "uploadedAt": "2026-08-10",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/642607",
+                    "artist": "Fitz and the Tantrums",
+                    "title": "HandClap"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1544520",
+                    "artist": "AcesToAces",
+                    "title": "stay with me (extended edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2159934",
+                    "artist": "ANCIENT MYTH",
+                    "title": "Chaos to Infinity"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2268702",
+                    "artist": "Unprocessed",
+                    "title": "Thrash"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2413778",
+                    "artist": "awoKen",
+                    "title": "GO!!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2452241",
+                    "artist": "ReaL",
+                    "title": "Mirai Connection (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2513631",
+                    "artist": "San-Z",
+                    "title": "ReDreaming Angel"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543545",
+                    "artist": "y0c1e",
+                    "title": "No buts!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2547664",
+                    "artist": "USAO",
+                    "title": "So Close"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2552173",
+                    "artist": "katagiri",
+                    "title": "VIVID ABYSS"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2552409",
+                    "artist": "Yorushika",
+                    "title": "Bakudanma"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2564351",
+                    "artist": "dandeless",
+                    "title": "transition"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2564717",
+                    "artist": "Billy Talent",
+                    "title": "The Navy Song"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2566199",
+                    "artist": "Shadow of Intent",
+                    "title": "The Prelude to Bereavement (Instrumental Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576616",
+                    "artist": "Toby Fox",
+                    "title": "Who might you be?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2584926",
+                    "artist": "Miley Cyrus",
+                    "title": "The Best of Both Worlds (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2585338",
+                    "artist": "Foo Fighters",
+                    "title": "The Pretender"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591038",
+                    "artist": "ulko",
+                    "title": "BRAINROT GIGACHADS CHOIR (COVER)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591307",
+                    "artist": "KORDHELL",
+                    "title": "A MILLION WAYS TO MURDER"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592999",
+                    "artist": "Syuenn",
+                    "title": "hiraeth"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1852",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1852?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1852",
