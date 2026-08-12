@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "S1853",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1853?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1853",
+        "data": {
+            "name": "osu! Beatmap Pack #1853",
+            "url": "https://packs.ppy.sh/S1853%20-%20osu%21%20Beatmap%20Pack%20%231853.zip",
+            "uploadedAt": "2026-08-11",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2024957",
+                    "artist": "tv room",
+                    "title": "Manifest! Manifest!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2053751",
+                    "artist": "Nakanoke no Itsutsugo",
+                    "title": "Gotoubun no Kimochi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2447858",
+                    "artist": "Kohana Lam",
+                    "title": "Hoshi no Kodou (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2452379",
+                    "artist": "Izumi Akazawa (CV: Madoka Yonezawa)",
+                    "title": "Responsibility Response"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2475471",
+                    "artist": "ke-ji feat. Nanahira",
+                    "title": "Ange du Blanc Pur"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2477200",
+                    "artist": "NOMELON NOLEMON",
+                    "title": "SAYONARA MAYBE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2478807",
+                    "artist": "=LOVE",
+                    "title": "Zettai Idol Yamenaide"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2486059",
+                    "artist": "Maeda Jun x yanaginagi",
+                    "title": "Light Years"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2495484",
+                    "artist": "Giga",
+                    "title": "PLAY feat. Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2523521",
+                    "artist": "BlackY feat. Risa Yuzuki",
+                    "title": "For Ulysses"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2531678",
+                    "artist": "MOMO",
+                    "title": "DROWNING"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2545225",
+                    "artist": "Inori Minase",
+                    "title": "Aimaimoko"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556461",
+                    "artist": "Aiobahn +81 feat. Shigure Ui",
+                    "title": "Uikousen (Qian Bi Ennpitsu Edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2558660",
+                    "artist": "Hana x monet",
+                    "title": "uncertain"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2558737",
+                    "artist": "GYARI",
+                    "title": "Arikitari na Koi no Uta"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562266",
+                    "artist": "Inori Minase",
+                    "title": "brave climber"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2567703",
+                    "artist": "Smi x mei",
+                    "title": "numb numb"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2571596",
+                    "artist": "Alex Nackman, Kathryn Raio",
+                    "title": "Rival Destinies (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578560",
+                    "artist": "fripSide",
+                    "title": "The Light of Darkness (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588266",
+                    "artist": "Demonic Resurrection",
+                    "title": "The Eye Of Eternity"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST424",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST424?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST424",
