@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "ST425",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST425?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST425",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #425",
+            "url": "https://packs.ppy.sh/ST425%20-%20osu%21taiko%20Beatmap%20Pack%20%23425.zip",
+            "uploadedAt": "2026-08-15",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/906238",
+                    "artist": "Ray",
+                    "title": "Rakuen PROJECT (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2203671",
+                    "artist": "Neutral Moon",
+                    "title": "Travel to Future (typeMars Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2254147",
+                    "artist": "CustomiZ",
+                    "title": "Kai (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2299734",
+                    "artist": "Halozy",
+                    "title": "Paranoid Lost (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2491074",
+                    "artist": "Umicha feat. Kotonoha Sisters",
+                    "title": "Kyojin no Kata kara Mioroshite"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2491738",
+                    "artist": "NANAOAKARI",
+                    "title": "MURI MURI EVOLUTION (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2497189",
+                    "artist": "Harumaki Gohan feat. Hatsune Miku",
+                    "title": "Cobalt Memories"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2499568",
+                    "artist": "Bear Ghost",
+                    "title": "Big Town Banky Blaine's Rockabilly BBQ"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2501703",
+                    "artist": "ONE OK ROCK",
+                    "title": "Start Again (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2520420",
+                    "artist": "Nedazu",
+                    "title": "Mekurume (Kasoku)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2546279",
+                    "artist": "futen",
+                    "title": "dreamin chuchu <3"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548735",
+                    "artist": "Falling Asleep",
+                    "title": "Bookshelf"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556244",
+                    "artist": "PinocchioP",
+                    "title": "Rejected Diva (feat. Hatsune Miku)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556409",
+                    "artist": "STARTails*",
+                    "title": "ne! ne! ne! (nenpulse bootleg remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561445",
+                    "artist": "San-Z",
+                    "title": "Turn Heartbeats Into Tempo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561743",
+                    "artist": "Saki Hanami",
+                    "title": "Wildest Flower (Mtell Bootleg)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2573809",
+                    "artist": "Pythia",
+                    "title": "Heartless (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577547",
+                    "artist": "Oishi Masayoshi",
+                    "title": "Be the Hero! feat. Airi Suzuki (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592450",
+                    "artist": "C418",
+                    "title": "Aria Math"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592486",
+                    "artist": "C418",
+                    "title": "Moog City 2"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "SC166",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SC166?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/SC166",
