@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "SM374",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM374?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM374",
+        "data": {
+            "name": "osu!mania Beatmap Pack #374",
+            "url": "https://packs.ppy.sh/SM374%20-%20osu%21mania%20Beatmap%20Pack%20%23374.zip",
+            "uploadedAt": "2026-08-17",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2256944",
+                    "artist": "Nekomata Gekidan",
+                    "title": "envidia (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2319149",
+                    "artist": "QuonTama",
+                    "title": "Koinegau"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2416343",
+                    "artist": "kioik",
+                    "title": "Altitude"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2442711",
+                    "artist": "Colorful Sounds Port",
+                    "title": "Fuujin Raijin"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2469381",
+                    "artist": "Gardens feat. xia",
+                    "title": "Reverie"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2478198",
+                    "artist": "rejection",
+                    "title": "White Canvas (feat. Aitsuki Nakuru) (osu! edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2524123",
+                    "artist": "D-D-Dice",
+                    "title": "World's end loneliness (full ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2546686",
+                    "artist": "PSY",
+                    "title": "GANGNAM STYLE [GRAY REMIX]"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2558054",
+                    "artist": "Kou!",
+                    "title": "ZiWEiYUAN"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562960",
+                    "artist": "C418",
+                    "title": "Subwoofer Lullaby"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2566858",
+                    "artist": "Camellia feat. Nanahira",
+                    "title": "Sleep!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2567048",
+                    "artist": "estes_",
+                    "title": "bleeding out"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568994",
+                    "artist": "David Arnold & Michael Price",
+                    "title": "Opening Titles"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576437",
+                    "artist": "seatrus",
+                    "title": "The Princess was gills breathing."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2581597",
+                    "artist": "Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko)",
+                    "title": "Blouse"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586507",
+                    "artist": "Halozy",
+                    "title": "Masshiro na Yuki"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588078",
+                    "artist": "Ohara Yuiko",
+                    "title": "Ketsui no Uta (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588509",
+                    "artist": "Parang",
+                    "title": "Gray Zone"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2589624",
+                    "artist": "KUN",
+                    "title": "Jasmine"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2597037",
+                    "artist": "San-Z",
+                    "title": "Honma ni \"Yada\""
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1855",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1855?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1855",
+        "data": {
+            "name": "osu! Beatmap Pack #1855",
+            "url": "https://packs.ppy.sh/S1855%20-%20osu%21%20Beatmap%20Pack%20%231855.zip",
+            "uploadedAt": "2026-08-16",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2311823",
+                    "artist": "Falcom Sound Team jdk",
+                    "title": "Detoxify the Snake Venom! -Command Battle-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2409730",
+                    "artist": "Kazutomi Yamamoto",
+                    "title": "CLICK YOUR HEART!! (TV SIZE)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2417023",
+                    "artist": "Renard",
+                    "title": "GREAT EXPECTATIONS"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2426406",
+                    "artist": "tayori",
+                    "title": "Tsuki no Uta"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2440297",
+                    "artist": "Mikako Komatsu",
+                    "title": "Imagine day, Imagine life!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2459983",
+                    "artist": "Yonder Voice",
+                    "title": "Arigatou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2478636",
+                    "artist": "Zektbach",
+                    "title": "The Sealer ~A Milia to Milia no Tami~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2520017",
+                    "artist": "viewtorino",
+                    "title": "Owari no Shichigatsu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2529653",
+                    "artist": "Utsu-P",
+                    "title": "P-PANDA feat. Kasane Teto"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2537059",
+                    "artist": "Marino",
+                    "title": "Im Doing Fine"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2545863",
+                    "artist": "yuikonnu",
+                    "title": "Yakimochi no Kotae -another story-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555901",
+                    "artist": "HOYO-MiX",
+                    "title": "Romari Time!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2558971",
+                    "artist": "Lady Gaga",
+                    "title": "Bad Romance"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561456",
+                    "artist": "Camellia",
+                    "title": "BAD ACCESS (FROM A MOE MAID)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2564304",
+                    "artist": "Mia Taylor (CV: Uchida Shu)",
+                    "title": "stars we chase"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2582136",
+                    "artist": "SEKAI NO OWARI",
+                    "title": "Stella (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586251",
+                    "artist": "Daft Punk",
+                    "title": "Instant Crush (feat. Julian Casablancas)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592264",
+                    "artist": "HoneyWorks feat. HaKoniwalily",
+                    "title": "Otome no Honki (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2593136",
+                    "artist": "Wakeshima Kanon",
+                    "title": "World's End, Girl's Rondo (Asterisk DnB Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595197",
+                    "artist": "Clean Tears",
+                    "title": "SAKURA feat. Hatsune Miku (Cut Ver.)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST425",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST425?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST425",
