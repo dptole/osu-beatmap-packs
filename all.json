@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "S1858",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1858?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1858",
+        "data": {
+            "name": "osu! Beatmap Pack #1858",
+            "url": "https://packs.ppy.sh/S1858%20-%20osu%21%20Beatmap%20Pack%20%231858.zip",
+            "uploadedAt": "2026-08-25",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/889753",
+                    "artist": "MYUKKE.",
+                    "title": "Shera"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1042243",
+                    "artist": "goreshit",
+                    "title": "know dat swing"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2027182",
+                    "artist": "Mentalecho",
+                    "title": "Bam Bam"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2324176",
+                    "artist": "ihyreu",
+                    "title": "vampyre love"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2334399",
+                    "artist": "Jianna J. and Ian W.",
+                    "title": "Be a Friend to Me"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2436112",
+                    "artist": "bye2",
+                    "title": "Wheel of Fate"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2453335",
+                    "artist": "Origami Angel",
+                    "title": "24 Hr Drive-Thru"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2453488",
+                    "artist": "supercell",
+                    "title": "Hoshi ga Matataku Konna Yoru ni"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2459763",
+                    "artist": "RESCENE",
+                    "title": "Deja Vu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2468648",
+                    "artist": "Nagatoro-san (CV: Uesaka Sumire)",
+                    "title": "Yuukan na Kimi ni"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2496666",
+                    "artist": "CHANMINA",
+                    "title": "TEST ME (TV SIZE)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2499007",
+                    "artist": "TOGENASHI TOGEARI",
+                    "title": "Roses In Thorns"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2533966",
+                    "artist": "Getter Jaani",
+                    "title": "Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix] (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2558015",
+                    "artist": "Kamiyama Yoh",
+                    "title": "Irokousui (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561868",
+                    "artist": "Rin'ca",
+                    "title": "Kimi ni Somaru Kokoro (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574232",
+                    "artist": "penoreri",
+                    "title": "Vacant Rhapsody"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2580789",
+                    "artist": "MIMI",
+                    "title": "Kuu ni Naru (feat. Hatsune Miku & KAFU)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2583516",
+                    "artist": "Ponchi feat. haxchi",
+                    "title": "Inferno City"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591642",
+                    "artist": "seatrus",
+                    "title": "Ataraxia (2020 Rework)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595442",
+                    "artist": "kensuke ushio",
+                    "title": "in the sea"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST427",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST427?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST427",
