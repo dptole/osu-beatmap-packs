@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "SM376",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM376?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM376",
+        "data": {
+            "name": "osu!mania Beatmap Pack #376",
+            "url": "https://packs.ppy.sh/SM376%20-%20osu%21mania%20Beatmap%20Pack%20%23376.zip",
+            "uploadedAt": "2026-08-26",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2147051",
+                    "artist": "Tessa Violet",
+                    "title": "Just Right (Jakki Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2195192",
+                    "artist": "Official HIGE DANdism",
+                    "title": "Bad for me (Dz'Xa's Amenpunk)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2421288",
+                    "artist": "Lontalius",
+                    "title": "Sleep Thru Ur Alarms"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2447985",
+                    "artist": "USAO vs. DJ Myosuke",
+                    "title": "OUTRAGE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2466842",
+                    "artist": "cygnus",
+                    "title": "Angel Ring"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2489520",
+                    "artist": "RiraN",
+                    "title": "Unshakable"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2494950",
+                    "artist": "allnight flipers",
+                    "title": "allnight flipers on midsummer"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2521429",
+                    "artist": "roer & NormalM (as Final Art)",
+                    "title": "Artlunefal feat. eili"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2545875",
+                    "artist": "Petit Rabbit's",
+                    "title": "Happiness Encore"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2547769",
+                    "artist": "TIA feat. Le Thien Hieu",
+                    "title": "Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2569079",
+                    "artist": "rusino",
+                    "title": "Looping the Rooms feat. Hatsune Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576044",
+                    "artist": "Kotoha",
+                    "title": "Yuki wa Naniiro"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578885",
+                    "artist": "Haywyre",
+                    "title": "Chromatically"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579629",
+                    "artist": "mitei",
+                    "title": "Phosphor"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2589471",
+                    "artist": "Ave Mujica",
+                    "title": "The Whole Blue World"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598394",
+                    "artist": "Grant",
+                    "title": "Weapon (feat. Baum) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598587",
+                    "artist": "Grant Bowtie",
+                    "title": "Cloud Nine"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2599038",
+                    "artist": "in love with a ghost",
+                    "title": "iced tea for breakfast"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2600104",
+                    "artist": "Grant feat. Juneau",
+                    "title": "Are We Still Young"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2601060",
+                    "artist": "rusino",
+                    "title": "Looping the Rooms feat. Hatsune Miku"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1858",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1858?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1858",
