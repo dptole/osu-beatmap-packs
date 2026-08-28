@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "ST428",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST428?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST428",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #428",
+            "url": "https://packs.ppy.sh/ST428%20-%20osu%21taiko%20Beatmap%20Pack%20%23428.zip",
+            "uploadedAt": "2026-08-27",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1565013",
+                    "artist": "Getty vs. DJ DiA",
+                    "title": "Engage -Rex-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1748318",
+                    "artist": "Ariana Grande",
+                    "title": "34+35"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2015690",
+                    "artist": "naari3",
+                    "title": "genpei"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2221626",
+                    "artist": "Good Kid",
+                    "title": "Tell Me You Know"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2273821",
+                    "artist": "Ray",
+                    "title": "Kisetsu no Shutter"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2289487",
+                    "artist": "Gram vs. DJ Genki",
+                    "title": "XIchedelic Nova Trinity"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2387045",
+                    "artist": "Ludicin",
+                    "title": "State of Mind"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2447665",
+                    "artist": "Ne Obliviscaris",
+                    "title": "As Icicles Fall"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2510468",
+                    "artist": "Kuroneko Dungeon",
+                    "title": "Ryoushi no Umi no Lindwurm"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2514233",
+                    "artist": "Arctic Monkeys",
+                    "title": "Why'd You Only Call Me When You're High?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2522983",
+                    "artist": "solfa feat. Chata",
+                    "title": "Pa Pa Pa Panda (Short Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2529480",
+                    "artist": "Aira",
+                    "title": "Memoria"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2536285",
+                    "artist": "CHANMINA",
+                    "title": "TEST ME (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579119",
+                    "artist": "ASTERISM",
+                    "title": "poppin' hoppin' flappin' *** (game ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2580123",
+                    "artist": "YOASOBI",
+                    "title": "Orion"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2583254",
+                    "artist": "GangZi",
+                    "title": "Snow Blossom (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591642",
+                    "artist": "seatrus",
+                    "title": "Ataraxia (2020 Rework)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591976",
+                    "artist": "miroir",
+                    "title": "O-Ku-Ri-Mo-No Sunday! (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595773",
+                    "artist": "CUPSIZE",
+                    "title": "Tselovalis'"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598542",
+                    "artist": "Fellowship",
+                    "title": "Avalon"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "SM376",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM376?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM376",
