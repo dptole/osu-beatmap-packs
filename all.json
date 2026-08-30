@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "S1860",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1860?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1860",
+        "data": {
+            "name": "osu! Beatmap Pack #1860",
+            "url": "https://packs.ppy.sh/S1860%20-%20osu%21%20Beatmap%20Pack%20%231860.zip",
+            "uploadedAt": "2026-08-29",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/681368",
+                    "artist": "Ensiferum",
+                    "title": "March of War / Axe of Judgement"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2194953",
+                    "artist": "Asriel",
+                    "title": "Haitoku no Eden"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2284389",
+                    "artist": "Kabocha feat. Aitsuki Nakuru",
+                    "title": "Dear The Night I Loved"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2360116",
+                    "artist": "petit milady",
+                    "title": "Koi wa Milk Tea (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2397276",
+                    "artist": "ShinRa-Bansho",
+                    "title": "Heart in Wonderland"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2484605",
+                    "artist": "Kayano Ai, Tomatsu Haruka, Hayami Saori",
+                    "title": "secret base ~Kimi ga Kureta Mono~ (10 years after Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2512899",
+                    "artist": "Suisou",
+                    "title": "Off Script"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2525027",
+                    "artist": "Amala feat. Hatsune Miku vs. Kasane Teto",
+                    "title": "Dadadadadaru"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535954",
+                    "artist": "JINGYAN",
+                    "title": "Beneath the Vortex"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543600",
+                    "artist": "NOA LONE",
+                    "title": "way up (nightcore & cut ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548152",
+                    "artist": "Yooh",
+                    "title": "snow storm -euphoria-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548429",
+                    "artist": "ClariS",
+                    "title": "Ai Wo Utae (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2564293",
+                    "artist": "Liao",
+                    "title": "Aqua"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2565042",
+                    "artist": "25-ji, Nightcord de. x KAITO",
+                    "title": "Hikaku Shoukougun"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570946",
+                    "artist": "WEST STATION",
+                    "title": "I'm a chud im a chud"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2583456",
+                    "artist": "Yusuke",
+                    "title": "V (TV SIZE)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595054",
+                    "artist": "Muu Muyu",
+                    "title": "Look at me tenderly"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2596219",
+                    "artist": "Snappydoodle",
+                    "title": "Toxic Gossip Train (feat. Kasane Teto)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598628",
+                    "artist": "awoKen",
+                    "title": "cantar!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2602070",
+                    "artist": "LINE",
+                    "title": "Yong Yuan De Ao Te Man"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST428",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST428?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST428",
