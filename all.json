@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1861",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1861?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1861",
+        "data": {
+            "name": "osu! Beatmap Pack #1861",
+            "url": "https://packs.ppy.sh/S1861%20-%20osu%21%20Beatmap%20Pack%20%231861.zip",
+            "uploadedAt": "2026-08-31",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/598153",
+                    "artist": "idenline",
+                    "title": "Way to an angel"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2294669",
+                    "artist": "Shin Yushik",
+                    "title": "Faded Winter"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2342634",
+                    "artist": "Mitsunori Ikeda feat. Aimee B",
+                    "title": "Fallen Angel (el poco maro Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2360859",
+                    "artist": "Linkin Park",
+                    "title": "Unshatter"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2387743",
+                    "artist": "ShinRa-Bansho",
+                    "title": "Shibuya-ku Shibuya"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2415230",
+                    "artist": "Exsy",
+                    "title": "Re:drawers feat. Kasane Teto & KAFU"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2452778",
+                    "artist": "Origami Angel",
+                    "title": "Blanket Statement"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2479269",
+                    "artist": "KANA-BOON",
+                    "title": "starmarker"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530743",
+                    "artist": "Redco",
+                    "title": "Zoryane Misto"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543016",
+                    "artist": "AAAA",
+                    "title": "Hoshi o Kakeru Adventure ~ we are forever friends! ~ (Long Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543081",
+                    "artist": "Aihara Kaori",
+                    "title": "Mahou no Kissaten"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2545455",
+                    "artist": "AZALEA",
+                    "title": "Sotsugyo desu ne (Sewerslvt Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2549657",
+                    "artist": "Lagum",
+                    "title": "Curva da Ladeira"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2571172",
+                    "artist": "Yasuda Rei",
+                    "title": "Passcode 4854 (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2571211",
+                    "artist": "Sena Juo (CV: Mashiro Hitaka)",
+                    "title": "Cosmetic"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576816",
+                    "artist": "Rubyeye, C!naH",
+                    "title": "Candy Scar"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577802",
+                    "artist": "Twilight Force",
+                    "title": "Valley Of The Vale"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2589135",
+                    "artist": "Modern Baseball",
+                    "title": "Re-Do"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592954",
+                    "artist": "Awairo",
+                    "title": "Pale&Deep"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2601717",
+                    "artist": "DragonForce",
+                    "title": "Astral Empire"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "ST429",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST429?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST429",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #429",
+            "url": "https://packs.ppy.sh/ST429%20-%20osu%21taiko%20Beatmap%20Pack%20%23429.zip",
+            "uploadedAt": "2026-08-31",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1601737",
+                    "artist": "Rin'ca",
+                    "title": "Pleasure garden (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1796677",
+                    "artist": "sawawa",
+                    "title": "Cirno Break"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2294669",
+                    "artist": "Shin Yushik",
+                    "title": "Faded Winter"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2375799",
+                    "artist": "BAD NERVES",
+                    "title": "ANTIDOTE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2441953",
+                    "artist": "SlappyHappy2000",
+                    "title": "GOLF CENTRAL"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2454215",
+                    "artist": "Ado x Rib",
+                    "title": "MATORYOSHKA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2455353",
+                    "artist": "Twilight Force",
+                    "title": "Sunlight Knight"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2470317",
+                    "artist": "Wonderlands x Showtime x Megurine Luka",
+                    "title": "Dance orchestra (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2518389",
+                    "artist": "TAKU INOUE feat. Yuko Natsuyoshi, Hayami Saori",
+                    "title": "ray (Cosmic Princess Kaguya! Ver.) (mochiya00 bootleg)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555173",
+                    "artist": "Colors*Slash",
+                    "title": "Colors Power ni Omakasero! (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555968",
+                    "artist": "nenpulse",
+                    "title": "Becoming Myself"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556827",
+                    "artist": "Unlucky Morpheus",
+                    "title": "Kamigami ga Koishita Gensoukyou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2558464",
+                    "artist": "AngelMaker",
+                    "title": "Citadel II"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2564240",
+                    "artist": "AnythingBecomeMoe",
+                    "title": "YARARARA feat. Kasane Teto"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570109",
+                    "artist": "Jessica Jay",
+                    "title": "Can't Take My Eyes Off You (F.T. And Company Edit) (Nightcore Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578005",
+                    "artist": "allnight flipers",
+                    "title": "allnight flipers on Summer end"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579211",
+                    "artist": "DJKurara",
+                    "title": "The Danger"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586381",
+                    "artist": "ryu5150",
+                    "title": "Extend Ash"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588252",
+                    "artist": "THREEE feat. Kagamine Len",
+                    "title": "Telecaster B-boy"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598489",
+                    "artist": "Akiri",
+                    "title": "Collapsing Star Fragmentation"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1860",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1860?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1860",
