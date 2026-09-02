@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "SM377",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM377?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM377",
+        "data": {
+            "name": "osu!mania Beatmap Pack #377",
+            "url": "https://packs.ppy.sh/SM377%20-%20osu%21mania%20Beatmap%20Pack%20%23377.zip",
+            "uploadedAt": "2026-09-01",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2107331",
+                    "artist": "Nor",
+                    "title": "Hinagesi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2146383",
+                    "artist": "takehirotei",
+                    "title": "See you next time!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2178876",
+                    "artist": "strxwberrymilk",
+                    "title": "Can you feel the wind?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2215693",
+                    "artist": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
+                    "title": "HIGHSCHOOL OF THE DEAD (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2289899",
+                    "artist": "USAO",
+                    "title": "Wormhole"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2423198",
+                    "artist": "Gingerbee",
+                    "title": "Samba do Nosso Ceu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2482624",
+                    "artist": "MORE MORE JUMP! x Hatsune Miku",
+                    "title": "Shiroi Yuki no Princess wa"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2497545",
+                    "artist": "Ludicin",
+                    "title": "Clinozoisite"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2505433",
+                    "artist": "Minami no Minami",
+                    "title": "RIME-chan no Fukuoka Trip Kisoukyoku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2520341",
+                    "artist": "SUGAR RUSH",
+                    "title": "Irodori Canvas"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2542308",
+                    "artist": "Chata",
+                    "title": "Dango Daikazoku (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555968",
+                    "artist": "nenpulse",
+                    "title": "Becoming Myself"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2558358",
+                    "artist": "StelLive Cliche",
+                    "title": "Shooting Star"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562488",
+                    "artist": "TWC Sound Team \"FLiPFORCE\"",
+                    "title": "ON.UR.MARKS..."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2564540",
+                    "artist": "yuki",
+                    "title": "Koisuru Kirigirisu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2565901",
+                    "artist": "MARETU",
+                    "title": "Tool"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2569938",
+                    "artist": "Blaxy Girls",
+                    "title": "If You Feel My Love (Chaow Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2582456",
+                    "artist": "ARForest",
+                    "title": "Hemisphere"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2589079",
+                    "artist": "Sakamiya feat. Misoramimi",
+                    "title": "Crimson Horizon"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598432",
+                    "artist": "Ice",
+                    "title": "Parodia Sonatina"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1861",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1861?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1861",
