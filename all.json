@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1863",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1863?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1863",
+        "data": {
+            "name": "osu! Beatmap Pack #1863",
+            "url": "https://packs.ppy.sh/S1863%20-%20osu%21%20Beatmap%20Pack%20%231863.zip",
+            "uploadedAt": "2026-09-05",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1983007",
+                    "artist": "Kobaryo",
+                    "title": "northern_limit [feat. Sennzai]"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2325264",
+                    "artist": "Sengoku Nadeko (CV: Hanazawa Kana)",
+                    "title": "Ren'ai Circulation"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2328433",
+                    "artist": "Bodom After Midnight",
+                    "title": "Paint the Sky with Blood"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2421869",
+                    "artist": "ANGUISH, vlad pivo, YARCHE SOLNTSA, ily",
+                    "title": "Krasavitsa"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2428602",
+                    "artist": "John Zeroness",
+                    "title": "Meteor"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2441621",
+                    "artist": "Earth, Wind & Fire",
+                    "title": "December"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2454428",
+                    "artist": "ZUN",
+                    "title": "Sacred Forest"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2473416",
+                    "artist": "Jane Remover",
+                    "title": "TURN UP OR DIE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2518642",
+                    "artist": "SPYAIR",
+                    "title": "Kill the Noise (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535063",
+                    "artist": "Redside feat. Hatsune Miku",
+                    "title": "Constellations"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548284",
+                    "artist": "t.A.T.u.",
+                    "title": "All The Things She Said (Ans Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548710",
+                    "artist": "Shawn Wasabi",
+                    "title": "LEMONS (feat. kennedi)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2554833",
+                    "artist": "DUSTZ",
+                    "title": "spiral (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562611",
+                    "artist": "KOTOKO",
+                    "title": "Restoration ~Chinmoku no Sora~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2566599",
+                    "artist": "Imai Asami",
+                    "title": "Shikkoku no Sustain"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2590029",
+                    "artist": "Ado",
+                    "title": "KIRA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592842",
+                    "artist": "Space Cube",
+                    "title": "Session"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2597305",
+                    "artist": "Chima",
+                    "title": "Hajimari no Shirushi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598050",
+                    "artist": "kemu",
+                    "title": "Ikasama Life Game"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2606729",
+                    "artist": "Laureley feat. Mizukami Sui",
+                    "title": "Meritocracy"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "SC168",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SC168?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SC168",
+        "data": {
+            "name": "osu!catch Beatmap Pack #168",
+            "url": "https://packs.ppy.sh/SC168%20-%20osu%21catch%20Beatmap%20Pack%20%23168.zip",
+            "uploadedAt": "2026-09-05",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2040427",
+                    "artist": "LBDJS",
+                    "title": "Tari Ubur Ubur (Hendro Engkeng Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2136517",
+                    "artist": "takehirotei as \"Infinite Limit\"",
+                    "title": "C://YOU NEX-TIME"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2454617",
+                    "artist": "Yousei Teikoku",
+                    "title": "Shinteki Souzou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2523657",
+                    "artist": "Ludicin",
+                    "title": "Clinozoisite"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2523669",
+                    "artist": "DJ Stuiter",
+                    "title": "An Addendum"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2545455",
+                    "artist": "AZALEA",
+                    "title": "Sotsugyo desu ne (Sewerslvt Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561868",
+                    "artist": "Rin'ca",
+                    "title": "Kimi ni Somaru Kokoro (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562728",
+                    "artist": "Aiyru",
+                    "title": "Elevator"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563995",
+                    "artist": "Wuwaa",
+                    "title": "Zao Gao Xian Jin Guo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2573032",
+                    "artist": "Hazuki",
+                    "title": "Legend of Millennium (Glory Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577241",
+                    "artist": "DJ Raisei",
+                    "title": "Ginkyo Sekai (feat. Kasane Teto)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578080",
+                    "artist": "Gardens",
+                    "title": "Counting Breaths feat. eili"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2581179",
+                    "artist": "Risa Yuzuki",
+                    "title": "Honogurai Tsuioku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2584923",
+                    "artist": "Ian Quiruz",
+                    "title": "sinagtala"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592851",
+                    "artist": "Sad Keyboard Guy, sleepless & Myntian",
+                    "title": "Alter//Strife feat. vally.exe"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2594743",
+                    "artist": "Koizumi Monaka",
+                    "title": "Kamisama no Iu Toori <3<3 (Make a wish come true!)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595465",
+                    "artist": "DJ Raisei",
+                    "title": "Ginkyo Sekai (feat. Kasane Teto)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2596676",
+                    "artist": "sakuraburst",
+                    "title": "cherry blossoms explode across the dying horizon"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2599005",
+                    "artist": "Getter Jaani & Koit Toome",
+                    "title": "Valged Ood"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2600647",
+                    "artist": "Null Specification",
+                    "title": "#1208"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST430",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST430?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST430",
