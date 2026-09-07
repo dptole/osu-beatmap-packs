@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "SM378",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM378?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM378",
+        "data": {
+            "name": "osu!mania Beatmap Pack #378",
+            "url": "https://packs.ppy.sh/SM378%20-%20osu%21mania%20Beatmap%20Pack%20%23378.zip",
+            "uploadedAt": "2026-09-06",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1858055",
+                    "artist": "meat computer",
+                    "title": "team edward"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1939270",
+                    "artist": "ROKINA",
+                    "title": "Schwerkraft"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2324275",
+                    "artist": "Hino Isuka vs. Umeboshi Chazuke",
+                    "title": "Ultra Happy Miracle Bazoooooka!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2420332",
+                    "artist": "katagiri",
+                    "title": "Kyuukou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2454631",
+                    "artist": "P4koo",
+                    "title": "overwhelm"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2508317",
+                    "artist": "ARForest",
+                    "title": "Seisen (feat. nayuta)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2533762",
+                    "artist": "xi",
+                    "title": "Halcyon"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2534730",
+                    "artist": "YERI",
+                    "title": "Dear Diary"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2542374",
+                    "artist": "solfa feat. nao",
+                    "title": "Love Love Sensation (Short Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2544770",
+                    "artist": "Rengoku Teien",
+                    "title": "Kikoeteimasu ka Bokura no Koe ga..."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2546806",
+                    "artist": "fripSide",
+                    "title": "last fortune"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2549704",
+                    "artist": "Origami Angel",
+                    "title": "Bed Bath & Batman Beyond"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2551742",
+                    "artist": "Shigure Ui",
+                    "title": "Houkago Mermaid"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557325",
+                    "artist": "Rokudenashi",
+                    "title": "Tada Koe Hitotsu (dive to the heart remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561939",
+                    "artist": "Fujiyori & Mayori",
+                    "title": "Sparkling Starlight"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570403",
+                    "artist": "momone",
+                    "title": "can't be anything"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2572295",
+                    "artist": "kaede",
+                    "title": "Mukashi e Okuru Kotoba (feat. Miyamai Moca)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2599383",
+                    "artist": "S3RL",
+                    "title": "Genre Police (feat. Lexi)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2600839",
+                    "artist": "AAAA + Hino Isuka",
+                    "title": "ha@ppy s@mmer v@c@tion!! (long ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608197",
+                    "artist": "t+pazolite",
+                    "title": "Luv*Lab*Poison 22ate!"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1863",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1863?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1863",
