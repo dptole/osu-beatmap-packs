@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1864",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1864?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1864",
+        "data": {
+            "name": "osu! Beatmap Pack #1864",
+            "url": "https://packs.ppy.sh/S1864%20-%20osu%21%20Beatmap%20Pack%20%231864.zip",
+            "uploadedAt": "2026-09-09",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/844583",
+                    "artist": "BIGBANG",
+                    "title": "LOSER"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2046372",
+                    "artist": "Suzuki Minori",
+                    "title": "Dame wa Dame (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2279185",
+                    "artist": "Mental Cruelty",
+                    "title": "The Left Hand Path"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2390999",
+                    "artist": "bilbordy",
+                    "title": "na pamyat'"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2409177",
+                    "artist": "KOTOKO",
+                    "title": "Imaginary affair"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2487585",
+                    "artist": "KAMIYADO",
+                    "title": "Grizzly ni Osowaretara <3 (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2498695",
+                    "artist": "Du Vel Mat Te",
+                    "title": "1104"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2505390",
+                    "artist": "Yorushika",
+                    "title": "Dakara Boku wa Ongaku o Yameta"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2521355",
+                    "artist": "Bring Me The Horizon",
+                    "title": "Anthem"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2526787",
+                    "artist": "yanaginagi",
+                    "title": "Harumodoki (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530895",
+                    "artist": "Fujiyori & Mayori",
+                    "title": "Sparkling Starlight"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2531096",
+                    "artist": "(K)NoW_NAME",
+                    "title": "Night SURFING (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535138",
+                    "artist": "Pixelbee",
+                    "title": "Ongaku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2541133",
+                    "artist": "Maeshima Ami",
+                    "title": "Fly Again!! (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2546424",
+                    "artist": "Tsunamaru",
+                    "title": "Daidai Genome"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557729",
+                    "artist": "aespa",
+                    "title": "ATTITUDE (TV SIZE)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2565194",
+                    "artist": "Kaliber 44",
+                    "title": "Psychodela"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2596798",
+                    "artist": "kanon x kanon",
+                    "title": "Calendula Requiem"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2604232",
+                    "artist": "ReoNa",
+                    "title": "Amore"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611119",
+                    "artist": "Ado",
+                    "title": "Fairytale,"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "ST431",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST431?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST431",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #431",
+            "url": "https://packs.ppy.sh/ST431%20-%20osu%21taiko%20Beatmap%20Pack%20%23431.zip",
+            "uploadedAt": "2026-09-09",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/953653",
+                    "artist": "Buono!",
+                    "title": "Kokoro no Tamago (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1776743",
+                    "artist": "sumika",
+                    "title": "Fiction (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2004722",
+                    "artist": "Sangatsu no Phantasia",
+                    "title": "Collage (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2308818",
+                    "artist": "Noah",
+                    "title": "Apocalypse teller"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2345191",
+                    "artist": "MasterSwordRemix",
+                    "title": "An Acquittal"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2421869",
+                    "artist": "ANGUISH, vlad pivo, YARCHE SOLNTSA, ily",
+                    "title": "Krasavitsa"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2480014",
+                    "artist": "Supire",
+                    "title": "KUKRI"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2489371",
+                    "artist": "tachibanaka",
+                    "title": "far out"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2489825",
+                    "artist": "Kagetora. vs. ikaruga_nex",
+                    "title": "Gott der Apokalypse"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2494126",
+                    "artist": "Remo Prototype (CV: Hanamori Yumiri)",
+                    "title": "Sendan Life"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2505954",
+                    "artist": "yuigot feat. Yachiyo Runami (CV: Saori Hayami)",
+                    "title": "Remember"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2511910",
+                    "artist": "DJ SPEEDRUN",
+                    "title": "DEAD WRONG"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2550059",
+                    "artist": "Mitchie M",
+                    "title": "Ohedo Julia-Night"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578186",
+                    "artist": "A.A. (CV: Minori Chihara)",
+                    "title": "VII. THE RUST (AstroCenter Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2584833",
+                    "artist": "seatrus",
+                    "title": "morgenroete"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586625",
+                    "artist": "shuzeios",
+                    "title": "kiss me thru the phone at the summer festival"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598271",
+                    "artist": "Nakagawa Nami",
+                    "title": "DON'T CUT (CUT VER.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598424",
+                    "artist": "Suzuki Konomi",
+                    "title": "My Days"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608417",
+                    "artist": "kageminori",
+                    "title": "almost gone out"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608760",
+                    "artist": "Puppet",
+                    "title": "Who's Haunting You? feat. distant"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "SM378",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM378?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM378",
