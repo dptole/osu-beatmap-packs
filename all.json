@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "SM379",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM379?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM379",
+        "data": {
+            "name": "osu!mania Beatmap Pack #379",
+            "url": "https://packs.ppy.sh/SM379%20-%20osu%21mania%20Beatmap%20Pack%20%23379.zip",
+            "uploadedAt": "2026-09-10",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1605957",
+                    "artist": "Mili",
+                    "title": "Rightfully (Slax Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1869505",
+                    "artist": "NASA",
+                    "title": "Nocturne op.Q-v"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2321063",
+                    "artist": "Ave Mujica",
+                    "title": "Mas?uerade Rhapsody Re?uest"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2382059",
+                    "artist": "Lime",
+                    "title": "Pixel Planet"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2424749",
+                    "artist": "Siyou Inagawa",
+                    "title": "An Abyss That Swallows Light (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2488009",
+                    "artist": "KINEMA106",
+                    "title": "Makkuro na Ame"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2498154",
+                    "artist": "nui",
+                    "title": "Shoujo A"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2508663",
+                    "artist": "kou",
+                    "title": "Spectrum"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2523549",
+                    "artist": "S3RL",
+                    "title": "Pika Girl (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2525513",
+                    "artist": "Monster Siren Records",
+                    "title": "Misty Memory (Night Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2552361",
+                    "artist": "Camellia feat. Ninomae Ina'nis",
+                    "title": "Drenched in Air"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2573821",
+                    "artist": "Camellia",
+                    "title": "Hello to the your first video game"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574828",
+                    "artist": "Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko)",
+                    "title": "Blouse"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577628",
+                    "artist": "BilliumMoto x Akiri",
+                    "title": "Cryochemistry"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579611",
+                    "artist": "isui",
+                    "title": "Suisei ni Nareta nara"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592373",
+                    "artist": "No Reply",
+                    "title": "All Star"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595914",
+                    "artist": "HOYO-MiX",
+                    "title": "Dzwony na nieszpory"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2596119",
+                    "artist": "Camellia feat. Nanahira",
+                    "title": "Touryouka"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2599410",
+                    "artist": "Rish",
+                    "title": "shiragiku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2601169",
+                    "artist": "P4koo",
+                    "title": "FRAGMENT. (feat. A.Dokuga)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1864",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1864?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1864",
