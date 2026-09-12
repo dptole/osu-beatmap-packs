@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "ST432",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST432?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST432",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #432",
+            "url": "https://packs.ppy.sh/ST432%20-%20osu%21taiko%20Beatmap%20Pack%20%23432.zip",
+            "uploadedAt": "2026-09-12",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1638940",
+                    "artist": "saradisk",
+                    "title": "fujipan breaks"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1973146",
+                    "artist": "paraoka",
+                    "title": "kyrie"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2117853",
+                    "artist": "Will Stetson",
+                    "title": "Live in Life"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2243628",
+                    "artist": "Sobrem & NIWASHI",
+                    "title": "A fight in Tunisia"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2298045",
+                    "artist": "PADI",
+                    "title": "Sahabat Selamanya"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2368881",
+                    "artist": "milet",
+                    "title": "Drown (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2401064",
+                    "artist": "Gawr Gura x Casey Edwards",
+                    "title": "Ash Again"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2409876",
+                    "artist": "Ado",
+                    "title": "Daidai Genome"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2506446",
+                    "artist": "Natsu, Wonder Acute",
+                    "title": "But I want you close"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2544855",
+                    "artist": "JOYLESS",
+                    "title": "Something Fun"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2547587",
+                    "artist": "Rigel Theatre",
+                    "title": "Lurie"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548932",
+                    "artist": "Koji Kondo",
+                    "title": "Underground Theme"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563045",
+                    "artist": "yanaginagi",
+                    "title": "Vidro Moyou (brz_bootleg_remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2569453",
+                    "artist": "Boxplot",
+                    "title": "Escape With The Clouds"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2573482",
+                    "artist": "Pierce The Veil",
+                    "title": "Disasterology"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2585051",
+                    "artist": "ePiaeon",
+                    "title": "FLOP ERA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591578",
+                    "artist": "Thor Farlov",
+                    "title": "Usynlig"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2596767",
+                    "artist": "Ogura Yui",
+                    "title": "Baby Sweet Berry Love (Tsukiko chan Maji kawa-E Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2602912",
+                    "artist": "Taylor Acorn",
+                    "title": "Goodbye, Good Riddance (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2604200",
+                    "artist": "ta1lsd0ll",
+                    "title": "ta1lsd001"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1865",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1865?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1865",
+        "data": {
+            "name": "osu! Beatmap Pack #1865",
+            "url": "https://packs.ppy.sh/S1865%20-%20osu%21%20Beatmap%20Pack%20%231865.zip",
+            "uploadedAt": "2026-09-12",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1309827",
+                    "artist": "Numakura Manami",
+                    "title": "Sakebe"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1933176",
+                    "artist": "Centimillimental",
+                    "title": "Bokura dake no Shudaika"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1973146",
+                    "artist": "paraoka",
+                    "title": "kyrie"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2097811",
+                    "artist": "bladee",
+                    "title": "shadowface (feat. Bones)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2235750",
+                    "artist": "Saitama Saisyu Heiki",
+                    "title": "Taketori Hishou ~ Lunatic Princess (CU Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2339629",
+                    "artist": "xi",
+                    "title": "The End of Dreams"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2380556",
+                    "artist": "Leah Kate",
+                    "title": "Alive and Unwell (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2423862",
+                    "artist": "mona (CV: Natsukawa Shiina)",
+                    "title": "Fansa"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2428028",
+                    "artist": "DM DOKURO",
+                    "title": "Reality Check Through The Skull"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2456748",
+                    "artist": "Kenji Ohtsuki to Zetsubou Shoujotachi",
+                    "title": "Kuusou Rumba (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2471973",
+                    "artist": "MASA WORKS DESIGN feat. Hatsune Miku & GUMI",
+                    "title": "Kitsune no Yomeiri"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2489219",
+                    "artist": "Akatsuki Records",
+                    "title": "KARMANATIONS"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2494044",
+                    "artist": "Tatsuya Kitani",
+                    "title": "Have a nice end!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2542693",
+                    "artist": "Jack Stauber",
+                    "title": "Baby Hotline"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543759",
+                    "artist": "coo:ya",
+                    "title": "Jougen no Tsuki"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2546023",
+                    "artist": "Demetori",
+                    "title": "Mukau no Kyou ~ Deep Mountain"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548932",
+                    "artist": "Koji Kondo",
+                    "title": "Underground Theme"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2567710",
+                    "artist": "senya",
+                    "title": "Kafka Naru Gunjou e"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592110",
+                    "artist": "Janina",
+                    "title": "Terranova (Original Radio Mix) (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2605943",
+                    "artist": "BIGBANG",
+                    "title": "BiiiG"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "SM379",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM379?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM379",
