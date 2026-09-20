@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "ST434",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST434?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST434",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #434",
+            "url": "https://packs.ppy.sh/ST434%20-%20osu%21taiko%20Beatmap%20Pack%20%23434.zip",
+            "uploadedAt": "2026-09-19",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/358195",
+                    "artist": "COOL&CREATE",
+                    "title": "Saishuu Kichiku Imouto Flandre-S"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/452850",
+                    "artist": "3-nen E Gumi Nurutan",
+                    "title": "3-nen E Gumi Nurunuru Ondo (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/839164",
+                    "artist": "Camellia",
+                    "title": "NUCLEAR-STAR"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1047494",
+                    "artist": "Xilent",
+                    "title": "Free Me (feat. Charlotte Haining) (Smooth Remix) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2155535",
+                    "artist": "KINEMA106",
+                    "title": "Fumetsu no Gekijou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2239791",
+                    "artist": "HOYO-MiX",
+                    "title": "Se mettre sur son trente-et-un !"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2256886",
+                    "artist": "callasoiled",
+                    "title": "propagate"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2347519",
+                    "artist": "katagiri",
+                    "title": "Breakcore Kakumei Zenya"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2400317",
+                    "artist": "Aziya",
+                    "title": "bbydoll (nightcore & cut ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2405366",
+                    "artist": "Satono Diamond (CV: Tachibana Hina), Kitasan Black (CV: Yano Hinaki)",
+                    "title": "Ambitious World"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2474245",
+                    "artist": "NIGHTMARE",
+                    "title": "the WORLD (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2505801",
+                    "artist": "Kuro feat. Kasane Teto SV",
+                    "title": "Kyouka Ranman"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2513736",
+                    "artist": "cosMo@bousouP feat. Hatsune Miku",
+                    "title": "Hatsune Miku no Tomadoi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2544326",
+                    "artist": "EmoCosine",
+                    "title": "Replica"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548964",
+                    "artist": "Viatores Nebulae feat. Megurine Luka",
+                    "title": "Heart of Epitaph"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2572443",
+                    "artist": "niko rain & EJEAN",
+                    "title": "Leaving"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598255",
+                    "artist": "GALNERYUS",
+                    "title": "RAISE MY SWORD"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608752",
+                    "artist": "tachibanaka",
+                    "title": "Journey"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611896",
+                    "artist": "KOTOKO",
+                    "title": "Wing my Way"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2616740",
+                    "artist": "Nanamori-chu * Goraku-bu",
+                    "title": "Happy Time wa Owaranai"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1870",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1870?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1870",
+        "data": {
+            "name": "osu! Beatmap Pack #1870",
+            "url": "https://packs.ppy.sh/S1870%20-%20osu%21%20Beatmap%20Pack%20%231870.zip",
+            "uploadedAt": "2026-09-19",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2085900",
+                    "artist": "Fist of Satan",
+                    "title": "Abandoned Land"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2363354",
+                    "artist": "Fujita Kotone (CV: Iida Hikaru)",
+                    "title": "The Cute!!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2454878",
+                    "artist": "Shizuka (CV: Hasegawa Ikumi)",
+                    "title": "I Wanna"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2474843",
+                    "artist": "driftcat feat. moon jelly",
+                    "title": "echo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2504209",
+                    "artist": "Demetori",
+                    "title": "Kagayaku Hari no Kobito-zoku ~ Counter-Attack of the Weak"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2539197",
+                    "artist": "Noah",
+                    "title": "Necrofantasia"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2546091",
+                    "artist": "PinkPantheress",
+                    "title": "Noises"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2551588",
+                    "artist": "Shimoji Shino",
+                    "title": "God Save The Girls"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557069",
+                    "artist": "solfa feat. KOTOKO",
+                    "title": "Fancy Game!?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568623",
+                    "artist": "Noto Arisa (from StylipS)",
+                    "title": "Fantastic Field"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2569320",
+                    "artist": "Adust Rain",
+                    "title": "Misery Song"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2580972",
+                    "artist": "LAST ALLIANCE",
+                    "title": "MOUMOKU NO STRANGER"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588198",
+                    "artist": "LE SSERAFIM",
+                    "title": "No Celestial"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608103",
+                    "artist": "Ariabl'eyeS",
+                    "title": "Senkou no Flare"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2612146",
+                    "artist": "Laufey",
+                    "title": "Falling Behind"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2613144",
+                    "artist": "Something's off with my Vocaloid",
+                    "title": "Exorcist feat. Ui, Gemini (TTS), Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2613191",
+                    "artist": "Neko Hacker",
+                    "title": "Chocolate Adventure feat. Nanahira & Suzushiro (Live Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2613712",
+                    "artist": "Akiri",
+                    "title": "my new song"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2614027",
+                    "artist": "Zephyrianna",
+                    "title": "Low"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2614459",
+                    "artist": "my bloody valentine",
+                    "title": "when you sleep"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST433",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST433?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST433",
