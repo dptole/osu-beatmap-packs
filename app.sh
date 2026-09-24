@@ -5,7 +5,7 @@ tm2='15:55:55'
 t='0'
 tt='0'
 #should start with listen 1=yes/0=no
-ttt='0'
+ttt='1'
 
 if test -e "$localdir/app.log" && ( which vlc &> /dev/null )
 then

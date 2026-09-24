@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "S1871",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1871?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1871",
+        "data": {
+            "name": "osu! Beatmap Pack #1871",
+            "url": "https://packs.ppy.sh/S1871%20-%20osu%21%20Beatmap%20Pack%20%231871.zip",
+            "uploadedAt": "2026-09-23",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/57374",
+                    "artist": "Rocco & Bass-T",
+                    "title": "Our Generation (Jens O. vs. Ti-Mo Remix Edit) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2008844",
+                    "artist": "Demetori",
+                    "title": "Yuuga ni Sakase, Sumizome no Sakura ~ Re:The Harm of Coming into Existence"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2151886",
+                    "artist": "Hasu no Sora Jogakuin School Idol Club",
+                    "title": "Dream Believers"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2234437",
+                    "artist": "Anamanaguchi",
+                    "title": "Japan Air (feat. Meesh)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2448066",
+                    "artist": "sokoninaru",
+                    "title": "soumonka (tv size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2469486",
+                    "artist": "Kate Bush",
+                    "title": "Running Up That Hill (A Deal With God)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2508541",
+                    "artist": "LE SSERAFIM",
+                    "title": "CRAZY"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548271",
+                    "artist": "Ado",
+                    "title": "Vivarium"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2551316",
+                    "artist": "kors k&MAYA",
+                    "title": "Incomplete feat. Luschel"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556275",
+                    "artist": "Liao",
+                    "title": "Aqua"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559976",
+                    "artist": "25-ji, Nightcord de. x Megurine Luka",
+                    "title": "Cat Loving"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2567181",
+                    "artist": "MN-logic24 feat. mineko",
+                    "title": "Fujimi no Girlfriend"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2573206",
+                    "artist": "ELECTROCUTICA",
+                    "title": "Piece of Cipher"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578735",
+                    "artist": "Sasaki Rico",
+                    "title": "Majestic Catastrophe (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586824",
+                    "artist": "Jun Ishikawa",
+                    "title": "Staff Roll (Extended Edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592739",
+                    "artist": "Alvvays",
+                    "title": "Saved By A Waif"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2594021",
+                    "artist": "Vanguard Sound",
+                    "title": "Emocode (feat. Xia Tong Zi)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598024",
+                    "artist": "Kano",
+                    "title": "Sukisuki Zecchoushou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610200",
+                    "artist": "Various Artists",
+                    "title": "BoC-izm"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618545",
+                    "artist": "fakemink",
+                    "title": "Night, Blooming Jasmine ."
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST434",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST434?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST434",
