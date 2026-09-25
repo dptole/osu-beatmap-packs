@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1872",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1872?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1872",
+        "data": {
+            "name": "osu! Beatmap Pack #1872",
+            "url": "https://packs.ppy.sh/S1872%20-%20osu%21%20Beatmap%20Pack%20%231872.zip",
+            "uploadedAt": "2026-09-24",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1069048",
+                    "artist": "Kurokotei",
+                    "title": "Chronostasis"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2303013",
+                    "artist": "Shimotsuki Haruka",
+                    "title": "Rengoku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2372732",
+                    "artist": "School Food Punishment",
+                    "title": "You May Crawl"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2384224",
+                    "artist": "Yunomi",
+                    "title": "Jellyfish (feat. Roller Girl)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2412060",
+                    "artist": "Various Artists",
+                    "title": "GIRLS' LEGEND U"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2416422",
+                    "artist": "Tic-Tekk-Toe",
+                    "title": "Hearts Without A Home (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2418426",
+                    "artist": "KINEMA106",
+                    "title": "Zankyou no Requiem"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2440933",
+                    "artist": "Drab Majesty",
+                    "title": "Cold Souls"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2453743",
+                    "artist": "Kairiki bear feat. Hatsune Miku",
+                    "title": "Yamiaka Steroid"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2489661",
+                    "artist": "DAOKO",
+                    "title": "Yume Miteta no Atashi -Madobe Rika bootleg-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2502229",
+                    "artist": "A crow is white",
+                    "title": "9-banme no \"?\""
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535315",
+                    "artist": "Mrs. GREEN APPLE",
+                    "title": "Kaze to Machi (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2549038",
+                    "artist": "ASCA",
+                    "title": "Cusp (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559813",
+                    "artist": "Laur",
+                    "title": "SEV-26"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574601",
+                    "artist": "CHXPO",
+                    "title": "KAKASHI"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2584787",
+                    "artist": "Kitazawa Kyouhei feat. flower",
+                    "title": "CANNIBALISM"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588849",
+                    "artist": "Nekomata Master feat. *spiLa*",
+                    "title": "Clumsy thoughts"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2605356",
+                    "artist": "Natalie Imbruglia",
+                    "title": "Torn"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610333",
+                    "artist": "DJ Raisei",
+                    "title": "Ginkyo Sekai (feat. Kasane Teto)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2614719",
+                    "artist": "Aoratos",
+                    "title": "Thresher"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "ST435",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST435?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST435",
+        "data": {
+            "name": "osu!taiko Beatmap Pack #435",
+            "url": "https://packs.ppy.sh/ST435%20-%20osu%21taiko%20Beatmap%20Pack%20%23435.zip",
+            "uploadedAt": "2026-09-24",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1060864",
+                    "artist": "STEREO DIVE FOUNDATION",
+                    "title": "Chronos (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1158984",
+                    "artist": "Lena Raine",
+                    "title": "Postcard from Celeste Mountain"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1432721",
+                    "artist": "Yorushika",
+                    "title": "Hachigatsu, Bou, Tsukiakari"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2299662",
+                    "artist": "DJ Tinyhandz",
+                    "title": "doja cat @ 200bpm"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2349777",
+                    "artist": "J-CORE SLi//CER",
+                    "title": "\"Ongaku producer\" no heikinteki na seishin joutai"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2463184",
+                    "artist": "GALNERYUS",
+                    "title": "ANGEL OF SALVATION"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2484899",
+                    "artist": "dj-Nate",
+                    "title": "Center of Existence"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2512881",
+                    "artist": "The Quick Brown Fox",
+                    "title": "Big Money"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2517752",
+                    "artist": "shami momo (Kohara Konomi, Kito Akari)",
+                    "title": "Machikado Tangent (Aethral & YUKIYANAGI Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2536459",
+                    "artist": "YENA",
+                    "title": "Catch Catch (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562229",
+                    "artist": "After the Rain",
+                    "title": "1 - 2 - 3 (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2572915",
+                    "artist": "tezuka x Aoi feat. Momohina Nano",
+                    "title": "Small Cloud Sugar Candy"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2597254",
+                    "artist": "PassCode",
+                    "title": "Ray (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2599793",
+                    "artist": "saikuuna, BLESSED MANE",
+                    "title": "eve"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2601411",
+                    "artist": "TOMONARI SORA",
+                    "title": "CAUTION"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2609752",
+                    "artist": "Camellia & DJ Genki",
+                    "title": "Feelin Sky"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610662",
+                    "artist": "Aqu3ra",
+                    "title": "Ice Drop feat. Hatsune Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610904",
+                    "artist": "Ado",
+                    "title": "Fairytale,"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2615942",
+                    "artist": "Harumaki Gohan feat. Hatsune Miku",
+                    "title": "Yakusoku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618764",
+                    "artist": "Seven Lions & Echos",
+                    "title": "Cold Skin (Stonebank Remix)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1871",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1871?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1871",
