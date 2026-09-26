@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1873",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1873?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1873",
+        "data": {
+            "name": "osu! Beatmap Pack #1873",
+            "url": "https://packs.ppy.sh/S1873%20-%20osu%21%20Beatmap%20Pack%20%231873.zip",
+            "uploadedAt": "2026-09-26",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/835711",
+                    "artist": "UROBOROS",
+                    "title": "Black Swallowtail"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1225788",
+                    "artist": "Tokoyami Towa",
+                    "title": "-ERROR"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1407992",
+                    "artist": "xi",
+                    "title": "Vanitas"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1504153",
+                    "artist": "Roselia",
+                    "title": "ZEAL of proud"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1984637",
+                    "artist": "S.S.H.",
+                    "title": "Holy Orders"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2044424",
+                    "artist": "solfa feat. iyuna",
+                    "title": "Emukko Kyun Kyun"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2402406",
+                    "artist": "Otoidi poblizhe",
+                    "title": "Takaya schastlivaya"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2414574",
+                    "artist": "Mirai Kodai Orchestra",
+                    "title": "Aharenaru wa Aoki Aka feat. Shimotsuki Haruka / Sacrifici"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2481913",
+                    "artist": "daniwellP feat. Momone Momo",
+                    "title": "Nyan Cat"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2488745",
+                    "artist": "Reol",
+                    "title": "Asymmetry (Skystar & LKs Edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2502640",
+                    "artist": "Various Artists",
+                    "title": "WINnin' 5"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2520986",
+                    "artist": "Memme",
+                    "title": "BSPower Explosion"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2539308",
+                    "artist": "YURiCa",
+                    "title": "RED Signal"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543155",
+                    "artist": "SONIKKU",
+                    "title": "Sweat feat. LIZ (SOPHIE Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555802",
+                    "artist": "Kana, Miki from AIKATSU * STARS!",
+                    "title": "Animal Carnival"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2572357",
+                    "artist": "Sewerslvt",
+                    "title": "Newlove"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574253",
+                    "artist": "Tendou Aris & Tendou Kei (CV: Kim Garyeong)",
+                    "title": "Protocol SUPERNOVA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578903",
+                    "artist": "HIMEHINA",
+                    "title": "Bubblin'"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2602772",
+                    "artist": "MuryokuP",
+                    "title": "Mephisto"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610275",
+                    "artist": "kors k vs. Camellia",
+                    "title": "The Rolling"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "SM381",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM381?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM381",
+        "data": {
+            "name": "osu!mania Beatmap Pack #381",
+            "url": "https://packs.ppy.sh/SM381%20-%20osu%21mania%20Beatmap%20Pack%20%23381.zip",
+            "uploadedAt": "2026-09-25",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1924178",
+                    "artist": "Sobrem",
+                    "title": "slic.hertz"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2248928",
+                    "artist": "Toaka",
+                    "title": "Cinder ella"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2298007",
+                    "artist": "AAAA",
+                    "title": "Lobelia (Short Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2301831",
+                    "artist": "respon feat. Hatsune Miku",
+                    "title": "39-byou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2414068",
+                    "artist": "S-C-U feat. Qrispy Joybox",
+                    "title": "anemone"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2455661",
+                    "artist": "takehirotei",
+                    "title": "TIMING HELL ~The Perpetual Chaotically Unsynced Pendulum~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2518358",
+                    "artist": "Antistar/Ctymax",
+                    "title": "Class Memories"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2522845",
+                    "artist": "Laura Shigihara",
+                    "title": "Don't Forget"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2531128",
+                    "artist": "ELFENSJoN",
+                    "title": "Houmuru Kagerou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543258",
+                    "artist": "ONGEKI SHOOTERS",
+                    "title": "No Limit RED Force (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555009",
+                    "artist": "Culprate & Dictate",
+                    "title": "Pencilina"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557145",
+                    "artist": "The Shiunji Family Children",
+                    "title": "LIKE YOU o(>< = ><)o LOVE YOU? (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588980",
+                    "artist": "Laur",
+                    "title": "Sound Chimera"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591197",
+                    "artist": "Yousei Teikoku",
+                    "title": "Asgard (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598405",
+                    "artist": "ePiaeon",
+                    "title": "DIAL LOOP"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598781",
+                    "artist": "Monster Siren Records",
+                    "title": "Lian Fan Nao Ye Rong Ru Tian Kong"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2599213",
+                    "artist": "endofsystem",
+                    "title": "silly bnuy song"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2600298",
+                    "artist": "Metal Scar Radio",
+                    "title": "Mirairo Rider (Japanese Ver.) (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2602982",
+                    "artist": "Bu Jiang Li Mao",
+                    "title": "Qiu Ri Wu Yu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2612696",
+                    "artist": "NormalM vs. f2",
+                    "title": "All in on Your Shadow"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1872",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1872?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1872",
