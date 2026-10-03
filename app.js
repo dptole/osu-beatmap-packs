@@ -337,11 +337,15 @@ const mod = {
                         const items = packBody.querySelectorAll('li')
                         const url = packBody.querySelector('a.beatmap-pack-download__link').href
 
-                        const name = navDom.querySelector('.beatmap-pack__name').textContent.trim()
-                        const uploadedAt = navDom.querySelector('.beatmap-pack__date').textContent.trim()
+                        //const name = navDom.querySelector('.beatmap-pack__name').textContent.trim()
+                        const uploadedAt = (
+                            navDom.querySelector('.beatmap-pack__date') ||
+                            navDom.querySelector('.beatmap-pack-item-header__date')
+                        ).textContent.trim()
                         const author = (
                             navDom.querySelector('.beatmap-pack__author--bold') ||
-                            navDom.querySelector('.beatmap-pack__details > span strong')
+                            navDom.querySelector('.beatmap-pack__details > span strong') ||
+                            navDom.querySelector('.beatmap-pack-item-header span strong')
                         ).textContent.trim()
 
                         const beatmaps = []
@@ -398,8 +402,8 @@ const mod = {
                 let args = mod.MODEL.puppeteer.args
 
                 if (mod.configs.browser.headless) {
-                    args = args.concat('--headless')
-                    args = args.concat('--disable-gpu')
+//                    args = args.concat('--headless')
+//                    args = args.concat('--disable-gpu')
                 }
 
                 mod.log(
