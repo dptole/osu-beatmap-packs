@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "ST438",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST438?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST438",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/ST438%20-%20osu%21taiko%20Beatmap%20Pack%20%23438.zip",
+            "uploadedAt": "2026-10-06",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/772907",
+                    "artist": "Maon Kurosaki",
+                    "title": "X-encounter (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1948604",
+                    "artist": "supercell",
+                    "title": "My Dearest"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1986983",
+                    "artist": "Eir Aoi",
+                    "title": "Sirius (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2204883",
+                    "artist": "SCL Project feat. VanaN'Ice",
+                    "title": "Haitoku no Kioku ~The Lost Memory~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2465345",
+                    "artist": "syudou",
+                    "title": "Cute na Kanojo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2486136",
+                    "artist": "Porno Graffitti",
+                    "title": "THE DAY (TV SIZE)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2520359",
+                    "artist": "Frums",
+                    "title": "Yoku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2529818",
+                    "artist": "Tsunamaru",
+                    "title": "paranoia"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576400",
+                    "artist": "yax03",
+                    "title": "RED ZONE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579306",
+                    "artist": "Girl's Day",
+                    "title": "Ring My Bell"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2581387",
+                    "artist": "KOTAK",
+                    "title": "Pelan-Pelan Saja"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2584628",
+                    "artist": "MIMI feat. KAFU",
+                    "title": "Issee noo de"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592850",
+                    "artist": "deadbeak, P1PER",
+                    "title": "beyond the horizon with you w/ P1PER"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598407",
+                    "artist": "Get Scared",
+                    "title": "Cunning, Not Convincing"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598995",
+                    "artist": "Komichi Aya (CV: Taneda Risa)",
+                    "title": "Koiiro Iris"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2600025",
+                    "artist": "Neighbour's Blueish Garden (NIWASHI+Aoi)",
+                    "title": "Deklowaz, the Allchemist"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2603046",
+                    "artist": "Uesaka Sumire",
+                    "title": "Happy End Princess (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610246",
+                    "artist": "C418",
+                    "title": "Concrete Halls"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610414",
+                    "artist": "moly",
+                    "title": "New Wonders"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611631",
+                    "artist": "TUMENECO VS. GET IN THE RING",
+                    "title": "Yumeuta - Tokubetsu na Futari no Uta"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1876",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1876?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1876",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1876%20-%20osu%21%20Beatmap%20Pack%20%231876.zip",
+            "uploadedAt": "2026-10-06",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/791287",
+                    "artist": "GRANRODEO",
+                    "title": "The Other self"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2279964",
+                    "artist": "LemKuuja",
+                    "title": "What's a Future Funk?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2459773",
+                    "artist": "Wakabayashi",
+                    "title": "I NEED YOU!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530304",
+                    "artist": "Zhou Xun",
+                    "title": "Lyu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2532794",
+                    "artist": "Yano Kuromu",
+                    "title": "Totemo Suteki na Rokugatsu Deshita"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2546530",
+                    "artist": "RLOEVO",
+                    "title": "Magic (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2553373",
+                    "artist": "yu_tokiwa.djw merge scl.gtr",
+                    "title": "murmur twins (guitar pop ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563768",
+                    "artist": "ePiaeon",
+                    "title": "FAKE UP"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2566279",
+                    "artist": "Falcom Sound Team jdk feat. Sasaka Megumi",
+                    "title": "The Whereabouts of Light"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2566536",
+                    "artist": "zts",
+                    "title": "the executioner"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570494",
+                    "artist": "Jimmy Eat World",
+                    "title": "Sweetness (Studio Demo)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574887",
+                    "artist": "Aoi (CV: Yuka Iguchi) & Hinata (CV: Kana Asumi)",
+                    "title": "Staccato Days (Short Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586326",
+                    "artist": "ILLIT",
+                    "title": "It's Me"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592578",
+                    "artist": "Aira ia.",
+                    "title": "LEFT RIGHT"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2609873",
+                    "artist": "Ado",
+                    "title": "USSEEWA (CUT VER.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611091",
+                    "artist": "Baby's breath",
+                    "title": "Habataki no Birthday"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2615014",
+                    "artist": "ROSU",
+                    "title": "Gusha Gusha"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2616969",
+                    "artist": "Guchiry feat. Hatsune Miku",
+                    "title": "Re:Mobius"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2623051",
+                    "artist": "KikuoHana",
+                    "title": "Hikari yo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2623280",
+                    "artist": "Grabbitz, Oli Sykes, Courtney LaPlante",
+                    "title": "If The Sun Burns Out Tonight"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST437",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST437?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST437",
