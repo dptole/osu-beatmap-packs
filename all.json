@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "S1877",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1877?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1877",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1877%20-%20osu%21%20Beatmap%20Pack%20%231877.zip",
+            "uploadedAt": "2026-10-07",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1986983",
+                    "artist": "Eir Aoi",
+                    "title": "Sirius (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2024763",
+                    "artist": "Porno Graffitti",
+                    "title": "Saudade"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2032147",
+                    "artist": "void",
+                    "title": "Sudden Romance (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2163127",
+                    "artist": "iroha(sasaki)",
+                    "title": "14"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2227145",
+                    "artist": "AAAA",
+                    "title": "reach for your victory!!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2318586",
+                    "artist": "Katy Perry",
+                    "title": "Hot N Cold"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2359746",
+                    "artist": "The Luna Sequence",
+                    "title": "Begin Where I End"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2380758",
+                    "artist": "Radiohead",
+                    "title": "How to Disappear Completely"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2428575",
+                    "artist": "bungeitengoku",
+                    "title": "Seikatsu o Tomete"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2475620",
+                    "artist": "PinocchioP",
+                    "title": "sukisukisukisukisukisukisukisukisuki feat. Hatsune Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2544216",
+                    "artist": "Kumada Akane & Masui Yuuka",
+                    "title": "Naze? Nazo?! ANSWER"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2569077",
+                    "artist": "nayuta",
+                    "title": "Slow Glow"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579407",
+                    "artist": "TRUE",
+                    "title": "Frozen (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2585388",
+                    "artist": "Aimer",
+                    "title": "Hakuchuumu (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586903",
+                    "artist": "TROIS ANGES",
+                    "title": "STORIA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2600632",
+                    "artist": "Frypt",
+                    "title": "FILTER FOCUS"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2606251",
+                    "artist": "Fall Out Boy",
+                    "title": "Centuries"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610601",
+                    "artist": "BLANKFIELD",
+                    "title": "Before He Dies"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2616698",
+                    "artist": "Ami Ishii",
+                    "title": "Hirogaru Sky! Precure ~Hero Girls~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618356",
+                    "artist": "*Luna",
+                    "title": "Time Capsule feat. Yuaru & Nenne"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST438",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST438?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST438",
