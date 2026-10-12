@@ -1,5 +1,344 @@
 [
     {
+        "packTag": "ST439",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST439?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST439",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/ST439%20-%20osu%21taiko%20Beatmap%20Pack%20%23439.zip",
+            "uploadedAt": "2026-10-11",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/970361",
+                    "artist": "Dabin",
+                    "title": "Hold (feat. Daniela Andrade) (Fred V & Grafix Remix) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2017620",
+                    "artist": "NILFRUITS",
+                    "title": "Ironina"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2149809",
+                    "artist": "sind3ntosca",
+                    "title": "Kepompong"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2186061",
+                    "artist": "Suzuki Konomi",
+                    "title": "Realize"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2438183",
+                    "artist": "Dimrain47",
+                    "title": "Every End..."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2450965",
+                    "artist": "uniy",
+                    "title": "Rising Fomalhaut (Reverie Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2476105",
+                    "artist": "kessoku band",
+                    "title": "Love Song ga Utaenai"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576978",
+                    "artist": "bilbordy",
+                    "title": "v polnoy temnote"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2580876",
+                    "artist": "EstyDK",
+                    "title": "Totemo Suteki na Rokugatsu Deshita"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2585476",
+                    "artist": "Ouroboros",
+                    "title": "Black Hole Generator"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591202",
+                    "artist": "Feint",
+                    "title": "Outbreak (feat. MYLK)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592931",
+                    "artist": "San-Z",
+                    "title": "Evil and Instinct"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598378",
+                    "artist": "xiiiac13",
+                    "title": "closer to you (than ever before)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2605540",
+                    "artist": "Iwakura",
+                    "title": "Crystals"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608073",
+                    "artist": "Pendulum",
+                    "title": "The Island (MaxNRG drum'n'bass remix) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610969",
+                    "artist": "tachibanaka",
+                    "title": "Soaring in the Sky"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611203",
+                    "artist": "FLORE",
+                    "title": "SKELETON (NIGHTCORE & CUT VER.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2615724",
+                    "artist": "Sasuke Haraguchi feat. Kasane Teto",
+                    "title": "HITO Mania"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2616972",
+                    "artist": "NOA LONE",
+                    "title": "sad child (nightcore & cut ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2622974",
+                    "artist": "senya",
+                    "title": "Utakata, Ai no Mahoroba"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "SM383",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM383?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM383",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/SM383%20-%20osu%21mania%20Beatmap%20Pack%20%23383.zip",
+            "uploadedAt": "2026-10-11",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1493610",
+                    "artist": "Shimamura Uzuki (CV: Ohashi Ayaka)",
+                    "title": "HOT LIMIT (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2281952",
+                    "artist": "Zemfira",
+                    "title": "kto?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2285625",
+                    "artist": "Nstryder",
+                    "title": "Bloodlines (The Impaler Finale)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2364229",
+                    "artist": "ke-ji",
+                    "title": "HAELEQUIN ~Knights of the Round~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2427420",
+                    "artist": "Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho)",
+                    "title": "Sun(Mile)Flower (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2480805",
+                    "artist": "Camellia",
+                    "title": "R U Still xxxx?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2485513",
+                    "artist": "blednost.",
+                    "title": "konata izumi"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530630",
+                    "artist": "San-Z",
+                    "title": "Honma ni \"Yada\""
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2534978",
+                    "artist": "BUBBLE",
+                    "title": "PORTRAiT"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535136",
+                    "artist": "Fuyuko Mayuzumi (CV: Eri Yukimura)",
+                    "title": "SOS (ETIA. Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548771",
+                    "artist": "Steely Dan",
+                    "title": "Peg"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2564794",
+                    "artist": "HOYO-MiX",
+                    "title": "Tout est bien qui finit bien (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2580472",
+                    "artist": "The Promise, The Lie",
+                    "title": "The Lie"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2581376",
+                    "artist": "eFeL",
+                    "title": "Broken Hearts"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2584471",
+                    "artist": "Risa Yuzuki",
+                    "title": "Tarantella (feat. BlackY)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2591350",
+                    "artist": "asteria",
+                    "title": "EYES ON ME"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2605585",
+                    "artist": "Affected",
+                    "title": "Justice Breaker"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611208",
+                    "artist": "Joost & Chalky Wong",
+                    "title": "I Wanna Go To China (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2613635",
+                    "artist": "yax03",
+                    "title": "stresstest"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2616518",
+                    "artist": "Camellia vs. Kaminose Tsukasa",
+                    "title": "Resonant Musical Automaton of Twin Agates"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1878",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1878?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1878",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1878%20-%20osu%21%20Beatmap%20Pack%20%231878.zip",
+            "uploadedAt": "2026-10-11",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1849048",
+                    "artist": "FREEDOM CREATORS",
+                    "title": "Okurina -Inochi o Aoku Mimamori Nemurina-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2131849",
+                    "artist": "Shpongle",
+                    "title": "The Stamen of the Shamen"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2154947",
+                    "artist": "The Luna Sequence",
+                    "title": "The Famine"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2205861",
+                    "artist": "KOTOKO",
+                    "title": "Aonatsu Line"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2401580",
+                    "artist": "DJ SHARPNEL",
+                    "title": "Over the Fullereneshift"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2464993",
+                    "artist": "The Living Tombstone",
+                    "title": "Die In A Fire (feat. EileMonty & Orko)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2474841",
+                    "artist": "Ave Mujica",
+                    "title": "DIVINE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2483633",
+                    "artist": "CQ",
+                    "title": "Primal"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2509034",
+                    "artist": "Ninajirachi",
+                    "title": "Fuck My Computer"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2527416",
+                    "artist": "Ren Queenston",
+                    "title": "Anthrocon 2012 Megamix (pt. 3)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2551269",
+                    "artist": "Annalisa",
+                    "title": "Esibizionista (Nightcore Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559705",
+                    "artist": "Infected Mushroom & Bliss",
+                    "title": "Bliss on Mushrooms (feat. Miyavi)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568567",
+                    "artist": "MIA BOYKA",
+                    "title": "EKSPONAT"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2568946",
+                    "artist": "MIA BOYKA",
+                    "title": "EKSPONAT (MilWo, Sunset HARDTEKK Remix) (TikTok Homelander Edit) (Sped Up Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2581203",
+                    "artist": "Demetori",
+                    "title": "Yuuga ni Sakase, Sumizome no Sakura ~ Re:The Harm of Coming into Existence"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2592548",
+                    "artist": "iroha(sasaki)",
+                    "title": "moon (re-Illuminate ver.) feat. Hatsune Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2604206",
+                    "artist": "SkylarZYX",
+                    "title": "Samsung Washer End Tune (Extended Edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611462",
+                    "artist": "KAF",
+                    "title": "Replaceable Goodbye"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2613635",
+                    "artist": "yax03",
+                    "title": "stresstest"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2625493",
+                    "artist": "Gardens",
+                    "title": "Twin Bloom"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1877",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1877?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1877",
