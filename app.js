@@ -402,8 +402,8 @@ const mod = {
                 let args = mod.MODEL.puppeteer.args
 
                 if (mod.configs.browser.headless) {
-//                    args = args.concat('--headless')
-//                    args = args.concat('--disable-gpu')
+                    args = args.concat('--headless')
+                    args = args.concat('--disable-gpu')
                 }
 
                 mod.log(

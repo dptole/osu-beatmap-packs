@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1879",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1879?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1879",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1879%20-%20osu%21%20Beatmap%20Pack%20%231879.zip",
+            "uploadedAt": "2026-10-19",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/693398",
+                    "artist": "Camellia feat. Nanahira",
+                    "title": "Tsukitourou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1266619",
+                    "artist": "PuffballsUnited",
+                    "title": "Among Us Theme"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1393175",
+                    "artist": "Sanch",
+                    "title": "Hoshi no Yuuki"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1565672",
+                    "artist": "Kendo Kaponi",
+                    "title": "Sacamostro Prod. By DJ Kelvin El Sacamostro"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2143066",
+                    "artist": "Yasuno Kiyono",
+                    "title": "Uchuu no Housoku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2152228",
+                    "artist": "Ado",
+                    "title": "Ibara"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2180703",
+                    "artist": "Het Goede Doel",
+                    "title": "Belgie"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2206955",
+                    "artist": "Sena, Rie, Miki, Kana from AIKATSU * STARS!",
+                    "title": "MUSIC of DREAM!!!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2374385",
+                    "artist": "bbno$",
+                    "title": "piccolo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2456336",
+                    "artist": "Senpi",
+                    "title": "Touhou Last Boss Rush!! (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2489417",
+                    "artist": "Girls Dead Monster",
+                    "title": "Alchemy (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559448",
+                    "artist": "keshi",
+                    "title": "blue"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2569545",
+                    "artist": "WALKUERE",
+                    "title": "Run ga Pikatto Hikattara (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574791",
+                    "artist": "PUP",
+                    "title": "Old Wounds"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2597914",
+                    "artist": "All Time Low",
+                    "title": "Remembering Sunday"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610580",
+                    "artist": "Shinzato Kota",
+                    "title": "HANDS UP! (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2617530",
+                    "artist": "majiko",
+                    "title": "Mushroom"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2623036",
+                    "artist": "Yohane (CV: Kobayashi Aika)",
+                    "title": "Forever U & I"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2627515",
+                    "artist": "TAK",
+                    "title": "Bavaroa feat. Hatsune Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2628298",
+                    "artist": "Ave Mujica",
+                    "title": "The Whole Blue World"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "SC171",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SC171?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SC171",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/SC171%20-%20osu%21catch%20Beatmap%20Pack%20%23171.zip",
+            "uploadedAt": "2026-10-19",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/914791",
+                    "artist": "Serj Tankian",
+                    "title": "Sky Is Over"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1890443",
+                    "artist": "44teru-k",
+                    "title": "En ~ Shoujo no Yume, Kyomu no Sekai ~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1928809",
+                    "artist": "HOYO-MiX",
+                    "title": "Thanks for Your Patronage!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2255814",
+                    "artist": "Tsukuyomi",
+                    "title": "Yume to Shiriseba"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2387765",
+                    "artist": "t+pazolite feat. Rizna",
+                    "title": "Distorted Lovesong (Full Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2439999",
+                    "artist": "Yooh",
+                    "title": "Road To The LegenD,"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2504162",
+                    "artist": "Satono Diamond (CV: Tachibana Hina), Kitasan Black (CV: Yano Hinaki)",
+                    "title": "Ambitious World"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2518323",
+                    "artist": "CustomiZ",
+                    "title": "Kai (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2527560",
+                    "artist": "FROZEN QUALIA",
+                    "title": "Winter Only"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2530630",
+                    "artist": "San-Z",
+                    "title": "Honma ni \"Yada\""
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2541619",
+                    "artist": "9Lana",
+                    "title": "Propose"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2551269",
+                    "artist": "Annalisa",
+                    "title": "Esibizionista (Nightcore Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562747",
+                    "artist": "URBANGARDE",
+                    "title": "Chiborg KYOKO (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574722",
+                    "artist": "Yuzuki",
+                    "title": "Dear You (DJ Genericname DnB Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608128",
+                    "artist": "KAKO",
+                    "title": "\"if\""
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611984",
+                    "artist": "solfa feat. Ceui",
+                    "title": "Natsuiro Yakimochi Koi Moyou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2617876",
+                    "artist": "Jeff Williams feat. Casey Lee Williams",
+                    "title": "Ignite (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618825",
+                    "artist": "Shoji Meguro feat. Azumi Takahashi",
+                    "title": "Want To Be Close -Reload- (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2623401",
+                    "artist": "Nanamori-chu * Goraku-bu",
+                    "title": "Happy Time wa Owaranai"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2624764",
+                    "artist": "dj TAKA",
+                    "title": "ELPIS (Full Ver.)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST439",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST439?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST439",
