@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1880",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1880?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1880",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1880%20-%20osu%21%20Beatmap%20Pack%20%231880.zip",
+            "uploadedAt": "2026-10-20",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2193037",
+                    "artist": "Sasuke Haraguchi feat. Kasane Teto",
+                    "title": "Hontono"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2225157",
+                    "artist": "KATSEYE",
+                    "title": "Touch"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2323079",
+                    "artist": "Liella!, Date Sayuri, Yuina, Sakakura Sakura",
+                    "title": "Dazzling Game"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2412245",
+                    "artist": "fur:trash",
+                    "title": "LONG LIVE THE KING"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2421697",
+                    "artist": "Eiko Shimamiya",
+                    "title": "sensitive 2001"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2430396",
+                    "artist": "Ibuki Tsubasa (CV: Machico), Julia (CV: AIMI), Makabe Mizuki (CV: Abe Rika)",
+                    "title": "Aisle (Harmonized Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2456070",
+                    "artist": "DJ Raisei",
+                    "title": "Submerged City feat. noeric"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2536066",
+                    "artist": "Pool Kids",
+                    "title": "Conscious Uncoupling"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2536417",
+                    "artist": "Sakuzyo",
+                    "title": "Glow"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2541724",
+                    "artist": "Falcom Sound Team jdk",
+                    "title": "Give It Your All!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548911",
+                    "artist": "Qutabire + CK feat. Natsume Itsuki",
+                    "title": "Hate no Soukyuu, Nobasu Yubisaki"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2560324",
+                    "artist": "Girls Dead Monster",
+                    "title": "Shine Days"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2572321",
+                    "artist": "Shoji Meguro feat. Shihoko Hirata",
+                    "title": "Time To Make History"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577680",
+                    "artist": "MOSAIC.WAV",
+                    "title": "Meiwaku Mailing GIRL"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2585470",
+                    "artist": "DM DOKURO",
+                    "title": "Roar of The Jungle Dragon"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595043",
+                    "artist": "Amatsuki",
+                    "title": "DORAEMON (CUT VER.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618000",
+                    "artist": "Tadokoro Azusa",
+                    "title": "DEAREST DROP"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618373",
+                    "artist": "Marino",
+                    "title": "Unknown Title"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2625565",
+                    "artist": "Kroi",
+                    "title": "SPIN (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2630282",
+                    "artist": "Yorushika",
+                    "title": "Kumo o Nuke Kazashimo e Watashi dake (TV Size)"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "ST440",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST440?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST440",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/ST440%20-%20osu%21taiko%20Beatmap%20Pack%20%23440.zip",
+            "uploadedAt": "2026-10-20",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/487161",
+                    "artist": "Omoi",
+                    "title": "Spiral Flight (Sped Up Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/946901",
+                    "artist": "Superbus",
+                    "title": "Lola"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1003938",
+                    "artist": "Dustvoxx",
+                    "title": "Trigger (Zekk Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2194380",
+                    "artist": "Harumaki Gohan feat. Hatsune Miku",
+                    "title": "Suisei ni Nareta nara (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2310911",
+                    "artist": "BilliumMoto x Akiri",
+                    "title": "Cryochemistry"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2451475",
+                    "artist": "Hail The Sun",
+                    "title": "Rolling Out the Red Carpet / Human Target Practice"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2508791",
+                    "artist": "Ito Kashitaro",
+                    "title": "Yuudachi no Ribbon"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2538538",
+                    "artist": "NOA LONE",
+                    "title": "way up (nightcore & cut ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563169",
+                    "artist": "Alfakyun.",
+                    "title": "Dokie Doggy Night"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2580033",
+                    "artist": "YABUJIN",
+                    "title": "HARDSTYLE DRILL 2009 NOKIA ANGELZ 1.6 MUSDASAT MUJMADA"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588526",
+                    "artist": "Ayane",
+                    "title": "Shinjitsu e no Requiem (rorimajo CrossOver bootleg)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598108",
+                    "artist": "Jane Remover",
+                    "title": "goldfish"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2602358",
+                    "artist": "Official HIGE DANdism",
+                    "title": "Bad for me (Dz'Xa's Amenpunk)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2609555",
+                    "artist": "EstyDK",
+                    "title": "Unknown Mother-Goose"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2609712",
+                    "artist": "saikuuna",
+                    "title": "does anyone really love me"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611232",
+                    "artist": "tachibanaka",
+                    "title": "Get Burn"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2614423",
+                    "artist": "t+pazolite & Mitsukiyo",
+                    "title": "OMOIDE Patchwork Service (feat. Nanahira) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2617471",
+                    "artist": "niko rain, EJEAN",
+                    "title": "I Found Out"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618232",
+                    "artist": "Ne Obliviscaris",
+                    "title": "Equus"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2623435",
+                    "artist": "S3RL feat. Sara",
+                    "title": "Trillium"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1879",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1879?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1879",
