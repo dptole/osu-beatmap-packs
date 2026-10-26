@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1885",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1885?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1885",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1885%20-%20osu%21%20Beatmap%20Pack%20%231885.zip",
+            "uploadedAt": "2026-10-25",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/577594",
+                    "artist": "sasakure.UK",
+                    "title": "Atropos"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2105443",
+                    "artist": "Noah",
+                    "title": "The end"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2215097",
+                    "artist": "Shokii",
+                    "title": "Eterna"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2415191",
+                    "artist": "solfa feat. Chata + Rita + Koharu Meu",
+                    "title": "treasure pleasure"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2426000",
+                    "artist": "Ave Mujica",
+                    "title": "Daten"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2471790",
+                    "artist": "DJ NAGAI feat. a*ru",
+                    "title": "Benibotan"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2505719",
+                    "artist": "Shin-Kawasaki (Kari)",
+                    "title": "Voiceless Fish"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2508810",
+                    "artist": "NMIXX",
+                    "title": "Reality Hurts"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2538021",
+                    "artist": "NELKE",
+                    "title": "Bye Bye Actor"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548777",
+                    "artist": "PURE WHITE CANVAS",
+                    "title": "Sekaihan"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2554294",
+                    "artist": "KAF",
+                    "title": "Error Song"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2567659",
+                    "artist": "Adust Rain",
+                    "title": "Misery Song"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2569552",
+                    "artist": "u's",
+                    "title": "Natte Shimatta!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577779",
+                    "artist": "CS4W",
+                    "title": "Aberrant Destructor"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578824",
+                    "artist": "Waterflame",
+                    "title": "Space Pirates"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2593328",
+                    "artist": "Her Words Kill",
+                    "title": "Nobody Here Is Leaving Priscilla Brooke Alive"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2597055",
+                    "artist": "Kento Nakajima",
+                    "title": "Onigoto (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2602428",
+                    "artist": "Beach Bunny",
+                    "title": "Good Girls (Don't Get Used) (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2620179",
+                    "artist": "Pastel*Palettes",
+                    "title": "Harumodoki"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2624547",
+                    "artist": "ViViD",
+                    "title": "HIKARI"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "ST444",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST444?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST444",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/ST444%20-%20osu%21taiko%20Beatmap%20Pack%20%23444.zip",
+            "uploadedAt": "2026-10-25",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1769571",
+                    "artist": "Neko Hacker",
+                    "title": "Pictures feat. 4s4ki"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1916930",
+                    "artist": "flumpool",
+                    "title": "Chiisana Hibi (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2491924",
+                    "artist": "Simon Safhalter",
+                    "title": "One Way Only"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2505719",
+                    "artist": "Shin-Kawasaki (Kari)",
+                    "title": "Voiceless Fish"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2511872",
+                    "artist": "KARUT",
+                    "title": "Encountered"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2533485",
+                    "artist": "in love with a ghost",
+                    "title": "iced tea for breakfast"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548959",
+                    "artist": "Asaka",
+                    "title": "Edelweiss (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2572844",
+                    "artist": "NICHIMEZO",
+                    "title": "Day by Day."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2575043",
+                    "artist": "Dazzling",
+                    "title": "ultra-kawaii-pic.png"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578226",
+                    "artist": "mafumafu feat. Hatsune Miku",
+                    "title": "Kuyamu to Kaite Mirai"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2587448",
+                    "artist": "Uinyasu, Occhoko Bunny",
+                    "title": "Aa Kenran no Yume ga Gotoku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2590425",
+                    "artist": "Lena Raine",
+                    "title": "wavedash.ppt"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595141",
+                    "artist": "ONGEKI SHOOTERS",
+                    "title": "Natsuyoi Starmine (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2596842",
+                    "artist": "spoonXYZ",
+                    "title": "#BL_FORTUNATE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608841",
+                    "artist": "Pirendora",
+                    "title": "Pyroclastic Flow"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2613301",
+                    "artist": "Toudou Furuka",
+                    "title": "yomosugara kimi omou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2613414",
+                    "artist": "Sanshuu Chuugaku Yuusha-bu",
+                    "title": "Yuuki no Baton (E0ri4 200 Edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2614734",
+                    "artist": "Getter Jaani",
+                    "title": "The Game (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2614771",
+                    "artist": "Getter Jaani & Koit Toome",
+                    "title": "Valged Ood (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2630032",
+                    "artist": "Superfly",
+                    "title": "Hanakage (TV Size)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST443",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST443?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST443",
