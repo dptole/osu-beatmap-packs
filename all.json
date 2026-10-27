@@ -1,5 +1,344 @@
 [
     {
+        "packTag": "S1887",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1887?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1887",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1887%20-%20osu%21%20Beatmap%20Pack%20%231887.zip",
+            "uploadedAt": "2026-10-27",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1993937",
+                    "artist": "himmel",
+                    "title": "Empyrean"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2200513",
+                    "artist": "Charli xcx",
+                    "title": "365 + 360"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2243210",
+                    "artist": "Foreground Eclipse",
+                    "title": "Fall Of Tears"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2491890",
+                    "artist": "Team AA",
+                    "title": "Pulse"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2500490",
+                    "artist": "fool",
+                    "title": "melt down into ...U"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2510026",
+                    "artist": "xi",
+                    "title": "Blue Zenith"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2512272",
+                    "artist": "NIWASHI",
+                    "title": "Cyclone Joker"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2515804",
+                    "artist": "jixwang",
+                    "title": "Voyaging Star's Farewell"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2516026",
+                    "artist": "Gorillaz",
+                    "title": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2517623",
+                    "artist": "7co",
+                    "title": "0.0000%"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2545962",
+                    "artist": "Charli xcx",
+                    "title": "B2b / Talk talk"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2549719",
+                    "artist": "mochari",
+                    "title": "DIMENSION TRAVERSE! (Short Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2578022",
+                    "artist": "An Abstract Illusion",
+                    "title": "No Dreams Beyond Empty Horizons (Single Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2582110",
+                    "artist": "kent",
+                    "title": "Dom andra"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598943",
+                    "artist": "xi",
+                    "title": "Sedap Malam"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611579",
+                    "artist": "ETIA.",
+                    "title": "Nihon-shiki Koukaku -OukaRanman-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2615796",
+                    "artist": "Yuuyu feat. Hatsune Miku",
+                    "title": "Shinkai Shoujo -deep sea girl-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2617025",
+                    "artist": "Naraetan",
+                    "title": "SPiCa"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2621681",
+                    "artist": "Tsukuyomi Sasami (CV: Asumi Kana)",
+                    "title": "Shintouatsu Symphony (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2625794",
+                    "artist": "Various Artists",
+                    "title": "We are DREAMERS!!"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "SC172",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SC172?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SC172",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/SC172%20-%20osu%21catch%20Beatmap%20Pack%20%23172.zip",
+            "uploadedAt": "2026-10-26",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1003938",
+                    "artist": "Dustvoxx",
+                    "title": "Trigger (Zekk Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1822869",
+                    "artist": "void (Mournfinale) feat. Hoshikuma Minami",
+                    "title": "Testify"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1999241",
+                    "artist": "Camellia feat. Nanahira",
+                    "title": "FULLFLAVOR ONDO"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2244915",
+                    "artist": "CHiCO with HoneyWorks",
+                    "title": "Historia (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2288233",
+                    "artist": "Camellia feat. Nanahira",
+                    "title": "Kizuitara Shunkashuutou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2321518",
+                    "artist": "Noah",
+                    "title": "Celestial Stinger"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2426434",
+                    "artist": "xi",
+                    "title": "Akasha"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2456128",
+                    "artist": "positive MAD-crew",
+                    "title": "Mynarco"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2535019",
+                    "artist": "FLAVOR FOLEY",
+                    "title": "WEIWARD ROMANCE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2570001",
+                    "artist": "Kurokotei feat. Sennzai",
+                    "title": "escape (the looking-glass, and what alice found there)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2573432",
+                    "artist": "Fractal Dreamers",
+                    "title": "Fortuna Redux"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2583602",
+                    "artist": "Qrispy Joybox feat. mao",
+                    "title": "Colorful Minutes"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2587100",
+                    "artist": "College & Electric Youth",
+                    "title": "A Real Hero"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2599942",
+                    "artist": "Cansol",
+                    "title": "Jazz Invasion"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2603646",
+                    "artist": "Jane Remover",
+                    "title": "Dancing with your eyes closed"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2605056",
+                    "artist": "Keshigomu",
+                    "title": "BUG"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608078",
+                    "artist": "S3RL",
+                    "title": "Pika Girl (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2612891",
+                    "artist": "riya (eufonius)",
+                    "title": "one of a kind"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2628999",
+                    "artist": "Junichi Masuda",
+                    "title": "Professor Oak's Laboratory"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2633101",
+                    "artist": "25-ji, Nightcord de. x MEIKO",
+                    "title": "Yoka ni Mitorete"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1886",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1886?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1886",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1886%20-%20osu%21%20Beatmap%20Pack%20%231886.zip",
+            "uploadedAt": "2026-10-26",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/868473",
+                    "artist": "Eagle",
+                    "title": "S!ck"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1343827",
+                    "artist": "Camellia",
+                    "title": "Get Back to 64bit Cities"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2073803",
+                    "artist": "halca",
+                    "title": "Darekare Scramble"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2181079",
+                    "artist": "Mili",
+                    "title": "Vitamins feat. world's end girlfriend"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2300330",
+                    "artist": "T.M.Revolution",
+                    "title": "HOT LIMIT"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2367532",
+                    "artist": "TWICE",
+                    "title": "Alcohol-Free"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2390348",
+                    "artist": "Noboru feat. Mitani Nana",
+                    "title": "Shiroi Yuki no Princess wa"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2402226",
+                    "artist": "Nakanoke no Itsutsugo",
+                    "title": "Gotoubun no Mirai"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2416398",
+                    "artist": "SLAVE.V-V-R feat. Sakuraba Ema (CV: Mikitani Nana)",
+                    "title": "LaVI-Bavellabion"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2467958",
+                    "artist": "Bershy",
+                    "title": "Radio (Game Ver. & Nightcore Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2498530",
+                    "artist": "Turnover",
+                    "title": "Dizzy on the Comedown"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2504997",
+                    "artist": "Kate Bush",
+                    "title": "Running Up That Hill (A Deal With God)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2536200",
+                    "artist": "Demetori",
+                    "title": "Crazy Backup Dancers ~ Orgy of the Dead"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586181",
+                    "artist": "OtoLogic",
+                    "title": "Candy Crush"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2603034",
+                    "artist": "Kitamura Eri",
+                    "title": "arcadia paroniria"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2612602",
+                    "artist": "Chata",
+                    "title": "Mekurumeku (Short Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2614051",
+                    "artist": "Ariabl'eyeS",
+                    "title": "Senkou no Flare"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2628146",
+                    "artist": "Yuki Hayashi",
+                    "title": "Tokoro ga Gicchon!"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2628148",
+                    "artist": "DEZERT",
+                    "title": "Ordinary"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2636074",
+                    "artist": "Katakiri Rekka",
+                    "title": "Konjiki no Yasoukyoku ~Golden Nocturne~"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1885",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1885?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1885",
