@@ -113,6 +113,119 @@
         }
     },
     {
+        "packTag": "SM385",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM385?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM385",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/SM385%20-%20osu%21mania%20Beatmap%20Pack%20%23385.zip",
+            "uploadedAt": "2026-10-27",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2270637",
+                    "artist": "IOSYS",
+                    "title": "Marisa wa Taihen na Mono o Nusunde Ikimashita"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2366067",
+                    "artist": "Hoshimachi Suisei",
+                    "title": "AWAKE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2416151",
+                    "artist": "NAKISO feat. Hatsune Miku",
+                    "title": "Retry Now"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2495866",
+                    "artist": "SLAVE.V-V-R feat. Nikaido Hiro (CV: Shinonome Haru)",
+                    "title": "MAdEaR MAdEaR"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2496529",
+                    "artist": "25-ji, Nightcord de. x MEIKO",
+                    "title": "Koufuku Kei (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2515211",
+                    "artist": "Chouchou-P feat. Hatsune Miku",
+                    "title": "White Prism"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2522210",
+                    "artist": "Orange Lounge",
+                    "title": "LOVE IS ORANGE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2534021",
+                    "artist": "633397",
+                    "title": "nothing can hurt you now. it's okay, don't worry"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2543662",
+                    "artist": "Orangestar",
+                    "title": "Mawaru Sora Usagi (feat. Hatsune Miku)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2553938",
+                    "artist": "Cityyy",
+                    "title": "Unknown"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2555272",
+                    "artist": "P*Light feat. mow*2",
+                    "title": "Homeneko*Sensation (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556726",
+                    "artist": "Green Day",
+                    "title": "Boulevard Of Broken Dreams"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2574555",
+                    "artist": "Raphiiel",
+                    "title": "Once Forgotten, Nothing Remains"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576751",
+                    "artist": "9Lana",
+                    "title": "Propose"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2597846",
+                    "artist": "Otonose Kanade",
+                    "title": "You & aIzu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2604612",
+                    "artist": "Kobaryo",
+                    "title": "Endless Adventure"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2606133",
+                    "artist": "Lime",
+                    "title": "Harmony"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611900",
+                    "artist": "Li Xiao Jie",
+                    "title": "Peng You De Jiu (DJ Xiao Yu Er Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2621493",
+                    "artist": "Keri Hilson",
+                    "title": "Pretty Girl Rock"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2624333",
+                    "artist": "fiend",
+                    "title": "2DF2"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "SC172",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SC172?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/SC172",
