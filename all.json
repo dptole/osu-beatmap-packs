@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "S1888",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1888?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1888",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1888%20-%20osu%21%20Beatmap%20Pack%20%231888.zip",
+            "uploadedAt": "2026-10-29",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/193711",
+                    "artist": "Tachibana Hibiki (CV: Yuuki Aoi)",
+                    "title": "Gekisou Gungnir"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2439669",
+                    "artist": "ippo.tsk",
+                    "title": "fall semester song"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2502186",
+                    "artist": "Aone Shikimiya (CV: Minami Takahashi) & Setsuna Sumeragi (CV: Anna Yamaki)",
+                    "title": "Prominence"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2517113",
+                    "artist": "All That Remains",
+                    "title": "This Calling"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2524924",
+                    "artist": "Chirinuruwowaka",
+                    "title": "Milk Iro no Touge"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2573874",
+                    "artist": "Pirendora",
+                    "title": "Petrified Thistle"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2581838",
+                    "artist": "John Michael Howell",
+                    "title": "Puppet"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2584384",
+                    "artist": "HoneyWorks feat. HaKoniwalily",
+                    "title": "Kira Kira (Kotoha solo ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2593150",
+                    "artist": "THE ORAL CIGARETTES",
+                    "title": "BLACK MEMORY"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608505",
+                    "artist": "Nishino Kana",
+                    "title": "Distance"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618339",
+                    "artist": "Panic! At The Disco",
+                    "title": "House of Memories (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618381",
+                    "artist": "DIVELA feat. Hatsune Miku",
+                    "title": "BEAT SYNCER"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2619035",
+                    "artist": "LE SSERAFIM",
+                    "title": "Made My Night"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2620208",
+                    "artist": "ReoNa",
+                    "title": "Amore"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2620681",
+                    "artist": "Mr. C.B. (CV: Amami Yurina)",
+                    "title": "Yumehayate"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2627232",
+                    "artist": "Ave Mujica",
+                    "title": "Ave Mujica (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2631251",
+                    "artist": "Tohsaka Yura",
+                    "title": "-Vol-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2633516",
+                    "artist": "Asaka",
+                    "title": "GO! GO! RAILWAY!! (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2635467",
+                    "artist": "AnythingBecomeMoe",
+                    "title": "Displayholic feat. Hatsune Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2635919",
+                    "artist": "ClariS",
+                    "title": "Synchro Blue (TV Size)"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "ST445",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST445?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST445",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/ST445%20-%20osu%21taiko%20Beatmap%20Pack%20%23445.zip",
+            "uploadedAt": "2026-10-29",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1517961",
+                    "artist": "Frank Schindel",
+                    "title": "Leb deinen Traum (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1929914",
+                    "artist": "miwa",
+                    "title": "Shanranran feat. 96neko (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2045156",
+                    "artist": "Cinamoro",
+                    "title": "Paleturquoise"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2366894",
+                    "artist": "Icon For Hire",
+                    "title": "Make a Move (Nightcore Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2502057",
+                    "artist": "BlackY",
+                    "title": "ULT!MATE END"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2509092",
+                    "artist": "BABYMETAL",
+                    "title": "Shanti Shanti Shanti"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2515152",
+                    "artist": "zeekayo",
+                    "title": "travmy"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2557015",
+                    "artist": "PinocchioP",
+                    "title": "SLoWMoTIoN feat. Hatsune Miku"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579009",
+                    "artist": "KDrew",
+                    "title": "Circles (Nightcore Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2579680",
+                    "artist": "Sayuri",
+                    "title": "Hana no Tou (nenpulse bootleg remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2584327",
+                    "artist": "Arata Iiyoshi, Hideki Sakamoto, Keisuke Ito",
+                    "title": "Aegis Cave"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586376",
+                    "artist": "MIMI",
+                    "title": "Kuu ni Naru"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588283",
+                    "artist": "Will Stetson",
+                    "title": "Of Our Time"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608505",
+                    "artist": "Nishino Kana",
+                    "title": "Distance"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608898",
+                    "artist": "Radovan Typovsky",
+                    "title": "Pretender"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611677",
+                    "artist": "Ponchi feat. Hatsune Miku x Kagamine Rin",
+                    "title": "Meteorite no Furu Asa ni"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2621519",
+                    "artist": "KINEMA106",
+                    "title": "Doremi Goal (KUSOMETAL Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2623184",
+                    "artist": "Junichi Masuda",
+                    "title": "Tokiwa e no Michi - Masara yori"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2631790",
+                    "artist": "Xi",
+                    "title": "Rokujuu-nen Me no Shinsoku Saiban ~ Rapidity is a justice"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2632788",
+                    "artist": "Sengoku Nadeko (CV: Hanazawa Kana)",
+                    "title": "Mousou <3 Express (TV Size)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1887",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1887?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1887",
