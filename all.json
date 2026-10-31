@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "ST446",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST446?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST446",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/ST446%20-%20osu%21taiko%20Beatmap%20Pack%20%23446.zip",
+            "uploadedAt": "2026-10-30",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/577922",
+                    "artist": "wowaka",
+                    "title": "Unhappy Refrain"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/607142",
+                    "artist": "mao",
+                    "title": "Yume o Kanaete Doraemon (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/749418",
+                    "artist": "RAMM ni Haiyoru Tamao-san",
+                    "title": "Kirai na Wake Lychee (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/1881210",
+                    "artist": "Tove Lo",
+                    "title": "Habits (Stay High) (Hippie Sabotage Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2099232",
+                    "artist": "Drake",
+                    "title": "Passionfruit"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2248781",
+                    "artist": "ShadowStrike",
+                    "title": "Legends Of Human Spirit"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2442631",
+                    "artist": "STARTails*",
+                    "title": "ne! ne! ne! (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2505732",
+                    "artist": "Various Artists",
+                    "title": "Umapyoi Densetsu"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563361",
+                    "artist": "Chimame-tai",
+                    "title": "Tokimeki Poporon (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2586735",
+                    "artist": "Carter Vail",
+                    "title": "Dirt Man"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2587877",
+                    "artist": "Novelbright",
+                    "title": "Walking with you"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598373",
+                    "artist": "Rogue x Stonebank x Slippy",
+                    "title": "Unity"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2605351",
+                    "artist": "BLUE ENCOUNT",
+                    "title": "DAY x DAY (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2609756",
+                    "artist": "tachibanaka",
+                    "title": "Early Morning"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2612192",
+                    "artist": "Sabrina Carpenter",
+                    "title": "Busy Woman"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2619796",
+                    "artist": "Palme",
+                    "title": "Latent Duality"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2628027",
+                    "artist": "ClariS",
+                    "title": "Connect (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2630064",
+                    "artist": "cYsmix",
+                    "title": "Tear Rain feat. Emmy"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2631245",
+                    "artist": "Elsewhere Kikou",
+                    "title": "blue in (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2633306",
+                    "artist": "aiko",
+                    "title": "Anata no Hana no Iro (TV Size)"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "S1888",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1888?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1888",
