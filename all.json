@@ -1,5 +1,231 @@
 [
     {
+        "packTag": "SM386",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM386?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM386",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/SM386%20-%20osu%21mania%20Beatmap%20Pack%20%23386.zip",
+            "uploadedAt": "2026-10-31",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2214615",
+                    "artist": "ROY BEE",
+                    "title": "Kiss Me Again (Nightcore Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2274172",
+                    "artist": "Xyris",
+                    "title": "A Cybernetic-Superluminal-Apocalyptic Post-War Divination"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2424991",
+                    "artist": "KASHIWA Daisuke",
+                    "title": "SHARAKU"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2486906",
+                    "artist": "IELY & FallenDonjon",
+                    "title": "Asekia"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2499881",
+                    "artist": "KARUT",
+                    "title": "Encountered (Short Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2516512",
+                    "artist": "N2UtheHartlocker",
+                    "title": "SITBACK (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2539147",
+                    "artist": "*namirin",
+                    "title": "Mizutamari Tobikoete (with Nanahira)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2556039",
+                    "artist": "Atena feat. Otomachi Una, Kaai Yuki",
+                    "title": "DREAMMODE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2565947",
+                    "artist": "Camellia",
+                    "title": "magical, very magical world"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2576188",
+                    "artist": "Viznode, acloudyskye & aspect",
+                    "title": "Dead End Station"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2577837",
+                    "artist": "Toby Fox",
+                    "title": "Who might you be?"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2580871",
+                    "artist": "Dareharu",
+                    "title": "Karma (Hexacube's TECHCORE-style Bootleg)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2593987",
+                    "artist": "Frums",
+                    "title": "Credits"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2599811",
+                    "artist": "seatrus",
+                    "title": "The Daybreak Will Never Come Again. (\"rampagE\" long vEr.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611638",
+                    "artist": "Ice",
+                    "title": "Parodia Sonatina Var.II"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2614227",
+                    "artist": "0 K",
+                    "title": "Nivem City"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2623104",
+                    "artist": "Robin Callaway",
+                    "title": "seraphim ii"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2623957",
+                    "artist": "Gardens",
+                    "title": "Twin Bloom"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2629978",
+                    "artist": "Aitsuki Nakuru",
+                    "title": "Monochrome Butterfly (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2630052",
+                    "artist": "BUBBLE",
+                    "title": "PORTRAiT"
+                }
+            ]
+        }
+    },
+    {
+        "packTag": "S1889",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/S1889?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/S1889",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/S1889%20-%20osu%21%20Beatmap%20Pack%20%231889.zip",
+            "uploadedAt": "2026-10-31",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2016337",
+                    "artist": "Amatsuki",
+                    "title": "Universe"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2160585",
+                    "artist": "WSTR",
+                    "title": "Eastbound & Down"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2348722",
+                    "artist": "RADWIMPS",
+                    "title": "Yume Tourou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2429782",
+                    "artist": "Lady Gaga",
+                    "title": "The Dead Dance"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2453161",
+                    "artist": "ShinRa-Bansho x Chocofan",
+                    "title": "Touhou Ieru Kana"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2462760",
+                    "artist": "9Lana",
+                    "title": "Propose"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2538937",
+                    "artist": "tn-shi",
+                    "title": "INVERSION"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2548257",
+                    "artist": "kiwano",
+                    "title": "Cast a spell with a wink"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2559080",
+                    "artist": "ASH DA HERO",
+                    "title": "BELIEVERS (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2561840",
+                    "artist": "Three Loop",
+                    "title": "Shuwa Shuwa"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2563025",
+                    "artist": "RD-Sounds feat. Meramipop",
+                    "title": "Shinkirou"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2596902",
+                    "artist": "Taylor Acorn",
+                    "title": "Sucker Punch (Nightcore & Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2607895",
+                    "artist": "Shibayan feat. nachi",
+                    "title": "Que ela vem"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2616040",
+                    "artist": "A.SAKA",
+                    "title": "Nanatsu Hiiragisuikou (scenic mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2618766",
+                    "artist": "TEARS OF TRAGEDY",
+                    "title": "Outsider"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2621700",
+                    "artist": "Atarayo",
+                    "title": "realize"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2632685",
+                    "artist": "Hashimoto Miyuki",
+                    "title": "Glossy:MMM"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2635000",
+                    "artist": "+TEK",
+                    "title": "Deep Carnival"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2635287",
+                    "artist": "Hijokaidan x Jun Togawa",
+                    "title": "Suki Suki Daisuki ~New Mix~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2639265",
+                    "artist": "KangXi, TOYOKI",
+                    "title": "Luo Lei"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST446",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST446?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST446",
