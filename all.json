@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "ST447",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST447?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST447",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/ST447%20-%20osu%21taiko%20Beatmap%20Pack%20%23447.zip",
+            "uploadedAt": "2026-11-02",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/196106",
+                    "artist": "Ito Kanako",
+                    "title": "A.R. (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2326352",
+                    "artist": "Ludicin",
+                    "title": "Lost Requiem"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2360640",
+                    "artist": "Erin Bowman, Joe Philips",
+                    "title": "Black and White (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2411954",
+                    "artist": "Atavistia",
+                    "title": "Cosmic Warfare"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2528803",
+                    "artist": "nanaoakari",
+                    "title": "One Room Sugar Life (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2536604",
+                    "artist": "IOSYS TRAX with Chiyoko",
+                    "title": "DX Choyasei! Survival Zundoko Chan (Extended Mix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2553764",
+                    "artist": "USAO",
+                    "title": "Glitch in My System (polytone Edit)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2562272",
+                    "artist": "BLESSEDCRISIS",
+                    "title": "PONYCRISIS"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2595996",
+                    "artist": "tsumiki",
+                    "title": "watercolor / umbrella / june / dryflower"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2597002",
+                    "artist": "Spawn Of Possession",
+                    "title": "Apparition"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2603704",
+                    "artist": "Remo Prototype (CV: Hanamori Yumiri)",
+                    "title": "Sendan Life"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610260",
+                    "artist": "KORDHELL x ANAR",
+                    "title": "JUNBI"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2611662",
+                    "artist": "Sachika Misawa",
+                    "title": "Links (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2612898",
+                    "artist": "Helblinde",
+                    "title": "Grief & Malice"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2615690",
+                    "artist": "Gokou",
+                    "title": "Firebound Angel"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2621723",
+                    "artist": "Porter Robinson",
+                    "title": "Lifelike"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2625761",
+                    "artist": "25-ji, Nightcord de. x MEIKO",
+                    "title": "IDSMILE"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2626500",
+                    "artist": "Jea",
+                    "title": "snows ~Soshite Kiseki~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2628284",
+                    "artist": "Anisphia (CV: Senbongi Sayaka), Euphyllia (CV: Iwami Manaka)",
+                    "title": "Only for you"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2637151",
+                    "artist": "SAINT LUKI",
+                    "title": "I HOPE WE MEET AGAIN IN ONTARIO IN ANOTHER LIFE"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "SM386",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM386?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM386",
