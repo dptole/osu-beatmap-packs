@@ -1,5 +1,118 @@
 [
     {
+        "packTag": "SM387",
+        "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/SM387?format=raw",
+        "packUrl": "https://osu.ppy.sh/beatmaps/packs/SM387",
+        "data": {
+            "name": "",
+            "url": "https://packs.ppy.sh/SM387%20-%20osu%21mania%20Beatmap%20Pack%20%23387.zip",
+            "uploadedAt": "2026-11-06",
+            "author": "Shige-Tori[a]",
+            "beatmaps": [
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2092603",
+                    "artist": "Aitsuki Nakuru",
+                    "title": "Monochrome Butterfly (Cut Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2322108",
+                    "artist": "Annabel",
+                    "title": "helical symmetry"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2366321",
+                    "artist": "Kano",
+                    "title": "Sakura no Zenya"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2398569",
+                    "artist": "Neko Hacker",
+                    "title": "Home Sweet Home feat. KMNZ LIZ"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2489538",
+                    "artist": "aran",
+                    "title": "Ripples (DJ Noriken Remix)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2508953",
+                    "artist": "Pierce The Veil",
+                    "title": "A Match Into Water"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2534222",
+                    "artist": "Getter Jaani",
+                    "title": "Rockefeller Street"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2534930",
+                    "artist": "Mili",
+                    "title": "Utopiosphere -Platonism-"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2537785",
+                    "artist": "you",
+                    "title": "Texture Garden"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2552898",
+                    "artist": "Fujikawa Chiai",
+                    "title": "Yuzurenai (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2587062",
+                    "artist": "MIMI feat. KAFU",
+                    "title": "Ima wa Ii nda yo."
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2588492",
+                    "artist": "777system",
+                    "title": "~GOLDENERNOCTURNE~"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2593224",
+                    "artist": "Sound piercer feat. DAZBEE",
+                    "title": "Hanatachi ni Kibou o (2020 Remaster)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2593521",
+                    "artist": "solfa feat. nao & Aoba Ringo",
+                    "title": "Motto! Icha*LOVE Paradise (Game Ver.)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598366",
+                    "artist": "ePiaeon",
+                    "title": "FAKE UP"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2598606",
+                    "artist": "Gen Hoshino",
+                    "title": "Koi (TV Size)"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2608888",
+                    "artist": "Raphiiel",
+                    "title": "AscensiO"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2610887",
+                    "artist": "linear ring",
+                    "title": "bloo cat, bloo"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2630171",
+                    "artist": "ric3show3r feat. m4titann, Rio Momose, 4NK4K3",
+                    "title": "The proximity of our souls making to something"
+                },
+                {
+                    "url": "https://osu.ppy.sh/beatmapsets/2631845",
+                    "artist": "Camellia",
+                    "title": "Body F10ating in the Zero Gravity Space"
+                }
+            ]
+        }
+    },
+    {
         "packTag": "ST448",
         "rawPackUrl": "https://osu.ppy.sh/beatmaps/packs/ST448?format=raw",
         "packUrl": "https://osu.ppy.sh/beatmaps/packs/ST448",
