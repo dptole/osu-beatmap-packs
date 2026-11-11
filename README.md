@@ -1,5 +1,7 @@
 | Name | Uploaded at | URL |
 | - | - | - |
+|  | 2026-11-10 | https://packs.ppy.sh/SC174%20-%20osu%21catch%20Beatmap%20Pack%20%23174.zip |
+|  | 2026-11-10 | https://packs.ppy.sh/S1891%20-%20osu%21%20Beatmap%20Pack%20%231891.zip |
 |  | 2026-11-06 | https://packs.ppy.sh/SM387%20-%20osu%21mania%20Beatmap%20Pack%20%23387.zip |
 |  | 2026-11-04 | https://packs.ppy.sh/ST448%20-%20osu%21taiko%20Beatmap%20Pack%20%23448.zip |
 |  | 2026-11-04 | https://packs.ppy.sh/SC173%20-%20osu%21catch%20Beatmap%20Pack%20%23173.zip |
